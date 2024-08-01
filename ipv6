@@ -25,6 +25,64 @@ CCTV-15,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888
 CCTV-16,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226100/index.m3u8
 CCTV-17,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CCTV-4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+CCTV 1,http://10.0.0.7:5050/ysp/cctv1
+CCTV 1,http://10.0.0.7:5050/itv/ystenlive/1000000005000265001
+CCTV 1,http://10.0.0.7:5050/tptv/G_CCTV-1-AVS-4K264?type=proxy
+CCTV 2,http://10.0.0.7:5050/ysp/cctv2
+CCTV 2,http://10.0.0.7:5050/itv/ystenlive/1000000001000023315
+CCTV 2,http://10.0.0.7:5050/tptv/G_CCTV-2-HD-265-8M?type=proxy
+CCTV 3,http://10.0.0.7:5050/ysp/cctv3
+CCTV 3,http://10.0.0.7:5050/itv/ystenlive/1000000005000265003
+CCTV 3,http://10.0.0.7:5050/tptv/G_CCTV-3-AVS-4K264?type=proxy
+CCTV 4,http://10.0.0.7:5050/ysp/cctv4
+CCTV 4,http://10.0.0.7:5050/itv/ystenlive/1000000005000265004
+CCTV 4,http://10.0.0.7:5050/tptv/G_CCTV-4-HD-265-8M?type=proxy
+CCTV 5,http://10.0.0.7:5050/ysp/cctv5
+CCTV 5,http://10.0.0.7:5050/itv/ystenlive/1000000005000265005
+CCTV 5,http://10.0.0.7:5050/tptv/G_CCTV-5-AVS-4K264?type=proxy
+CCTV 5+,http://10.0.0.7:5050/ysp/cctv5p
+CCTV 5+,http://10.0.0.7:5050/itv/ystenlive/1000000005000265016
+CCTV 5+,http://10.0.0.7:5050/tptv/G_CCTV-5PLUS-HD-265-8M?type=proxy
+CCTV 6,http://10.0.0.7:5050/ysp/cctv6
+CCTV 6,http://10.0.0.7:5050/itv/ystenlive/1000000005000265006
+CCTV 6,http://10.0.0.7:5050/tptv/G_CCTV-6-AVS-4K264?type=proxy
+CCTV 7,http://10.0.0.7:5050/ysp/cctv7
+CCTV 7,http://10.0.0.7:5050/itv/ystenlive/1000000005000265007
+CCTV 7,http://10.0.0.7:5050/tptv/G_CCTV-7-HD-265-8M?type=proxy
+CCTV 8,http://10.0.0.7:5050/ysp/cctv8
+CCTV 8,http://10.0.0.7:5050/itv/ystenlive/1000000005000265008
+CCTV 8,http://10.0.0.7:5050/tptv/G_CCTV-8-AVS-4K264?type=proxy
+CCTV 9,http://10.0.0.7:5050/ysp/cctv9
+CCTV 9,http://10.0.0.7:5050/itv/ystenlive/1000000005000265009
+CCTV 9,http://10.0.0.7:5050/tptv/G_CCTV-9-HD-265-8M?type=proxyCCTV 9,http://10.0.0.7:5050/tptv/G_CCTV-9-HD-265-8M?type=proxy
+CCTV 10,http://10.0.0.7:5050/ysp/cctv10
+CCTV 10,http://10.0.0.7:5050/itv/ystenlive/1000000005000265010
+CCTV 10,http://10.0.0.7:5050/tptv/G_CCTV-10-HD-265-8M?type=proxy
+CCTV 11,http://10.0.0.7:5050/ysp/cctv11
+CCTV 11,http://10.0.0.7:5050/itv/ystenlive/1000000005000265011
+CCTV 11,http://10.0.0.7:5050/tptv/H265-5500k-1080P-cctv11?type=proxy
+CCTV 12,http://10.0.0.7:5050/ysp/cctv12
+CCTV 12,http://10.0.0.7:5050/itv/ystenlive/1000000005000265012
+CCTV 12,http://10.0.0.7:5050/tptv/G_CCTV-12-HD-265-8M?type=proxy
+CCTV 13,http://10.0.0.7:5050/ysp/cctv13
+CCTV 13,http://10.0.0.7:5050/itv/bestzb/5000000011000031108
+CCTV 13,http://10.0.0.7:5050/tptv/G_CCTV-13-HD-265-8M?type=proxy
+CCTV 14,http://10.0.0.7:5050/ysp/cctv14
+CCTV 14,http://10.0.0.7:5050/itv/ystenlive/1000000005000265013
+CCTV 14,http://10.0.0.7:5050/tptv/G_CCTV-14-CQ?type=proxy
+CCTV 15,http://10.0.0.7:5050/ysp/cctv15
+CCTV 15,http://10.0.0.7:5050/itv/ystenlive/1000000005000265014
+CCTV 15,http://10.0.0.7:5050/tptv/H265-5500k-1080P-cctv15?type=proxy
+CCTV 16,http://10.0.0.7:5050/ysp/cctv16
+CCTV 16,http://10.0.0.7:5050/itv/ystenlive/1000000006000233002
+CCTV 16,http://10.0.0.7:5050/tptv/G_CCTV-16-CQ?type=proxy
+CCTV 16 4K,http://10.0.0.7:5050/ysp/cctv16-4k
+CCTV 16 4K,http://10.0.0.7:5050/itv/bestzb/5000000008000023254
+CCTV 17,http://10.0.0.7:5050/ysp/cctv17
+CCTV 17,http://10.0.0.7:5050/itv/ystenlive/1000000005000265015
+CCTV 17,http://10.0.0.7:5050/tptv/G_CCTV-17-CQ?type=proxy
+CCTV 4K,http://10.0.0.7:5050/ysp/cctv4k
+CCTV 4K,http://10.0.0.7:5050/tptv/G_CCTV-4K-HD?type=proxy
 
 📺卫视频道,#genre#
 北京卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
@@ -135,13 +193,23 @@ CCTV-4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 🏃体育频道,#genre#
 超级体育,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 精品体育,http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
-风云足球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077160c04a/1.m3u8?m3u8_level=2
+CCTV 风云足球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077160c04a/1.m3u8?m3u8_level=2
+CCTV 风云足球,http://10.0.0.7:5050/tptv/G_FENGSHANGZQ-CQ?type=proxy
 CCTV5,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-CCTV5+,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+CCTV 5,http://10.0.0.7:5050/ysp/cctv5
+CCTV 5,http://10.0.0.7:5050/itv/ystenlive/1000000005000265005
+CCTV 5,http://10.0.0.7:5050/tptv/G_CCTV-5-AVS-4K264?type=proxy
+CCTV 5+,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+CCTV 5+,http://10.0.0.7:5050/ysp/cctv5p
+CCTV 5+,http://10.0.0.7:5050/itv/ystenlive/1000000005000265016
+CCTV 5+,http://10.0.0.7:5050/tptv/G_CCTV-5PLUS-HD-265-8M?type=proxy
 CCTV 央视台球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/1.m3u8?m3u8_level=2
+CCTV 央视台球,http://10.0.0.7:5050/tptv/G_TAIQIU-CQ?type=proxy
 CCTV 高尔夫·网球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807743b61bb/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQIxzzxEhTjOtZryLHMXreoGLY7Qr44mlU8Mm7hAKppcofYcqtkgnrIU1veEPNSLwHTPQxqGjPgZkOj3N28h2Dcwo
 CCTV 高尔夫·网球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807743b61bb/1.m3u8?m3u8_level=2
+CCTV 高尔夫网球,http://10.0.0.7:5050/tptv/G_CCTV-GOLF-CQ?type=proxy
 快乐垂钓,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638729b6002c4/index.m3u8?m3u8_level=2
+快乐垂钓,http://10.0.0.7:5050/itv/bestzb/5000000011000031206
 快乐垂钓(yq专用),http://10.0.0.2:4102/udp/233.50.201.109:5140
 
 📡4K咪咕,#genre#
