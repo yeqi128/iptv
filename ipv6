@@ -195,7 +195,7 @@ CCTV 4K,http://10.0.0.7:5050/tptv/G_CCTV-4K-HD?type=proxy
 精品体育,http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 CCTV 风云足球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077160c04a/1.m3u8?m3u8_level=2
 CCTV 风云足球,http://10.0.0.7:5050/tptv/G_FENGSHANGZQ-CQ?type=proxy
-CCTV5,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+CCTV 5,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 CCTV 5,http://10.0.0.7:5050/ysp/cctv5
 CCTV 5,http://10.0.0.7:5050/itv/ystenlive/1000000005000265005
 CCTV 5,http://10.0.0.7:5050/tptv/G_CCTV-5-AVS-4K264?type=proxy
@@ -205,9 +205,8 @@ CCTV 5+,http://10.0.0.7:5050/itv/ystenlive/1000000005000265016
 CCTV 5+,http://10.0.0.7:5050/tptv/G_CCTV-5PLUS-HD-265-8M?type=proxy
 CCTV 央视台球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/1.m3u8?m3u8_level=2
 CCTV 央视台球,http://10.0.0.7:5050/tptv/G_TAIQIU-CQ?type=proxy
-CCTV 高尔夫·网球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807743b61bb/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQIxzzxEhTjOtZryLHMXreoGLY7Qr44mlU8Mm7hAKppcofYcqtkgnrIU1veEPNSLwHTPQxqGjPgZkOj3N28h2Dcwo
 CCTV 高尔夫·网球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807743b61bb/1.m3u8?m3u8_level=2
-CCTV 高尔夫网球,http://10.0.0.7:5050/tptv/G_CCTV-GOLF-CQ?type=proxy
+CCTV 高尔夫·网球,http://10.0.0.7:5050/tptv/G_CCTV-GOLF-CQ?type=proxy
 快乐垂钓,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638729b6002c4/index.m3u8?m3u8_level=2
 快乐垂钓,http://10.0.0.7:5050/itv/bestzb/5000000011000031206
 快乐垂钓(yq专用),http://10.0.0.2:4102/udp/233.50.201.109:5140
