@@ -27,43 +27,30 @@ CCTV-17,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888
 CCTV-4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 CCTV 1,http://10.0.0.7:5050/ysp/cctv1
 CCTV 1,http://10.0.0.7:5050/itv/ystenlive/1000000005000265001
-CCTV 1,http://10.0.0.7:5050/tptv/G_CCTV-1-AVS-4K264?type=proxy
 CCTV 2,http://10.0.0.7:5050/ysp/cctv2
 CCTV 2,http://10.0.0.7:5050/itv/ystenlive/1000000001000023315
-CCTV 2,http://10.0.0.7:5050/tptv/G_CCTV-2-HD-265-8M?type=proxy
 CCTV 3,http://10.0.0.7:5050/ysp/cctv3
 CCTV 3,http://10.0.0.7:5050/itv/ystenlive/1000000005000265003
-CCTV 3,http://10.0.0.7:5050/tptv/G_CCTV-3-AVS-4K264?type=proxy
 CCTV 4,http://10.0.0.7:5050/ysp/cctv4
 CCTV 4,http://10.0.0.7:5050/itv/ystenlive/1000000005000265004
-CCTV 4,http://10.0.0.7:5050/tptv/G_CCTV-4-HD-265-8M?type=proxy
 CCTV 5,http://10.0.0.7:5050/ysp/cctv5
 CCTV 5,http://10.0.0.7:5050/itv/ystenlive/1000000005000265005
-CCTV 5,http://10.0.0.7:5050/tptv/G_CCTV-5-AVS-4K264?type=proxy
 CCTV 5+,http://10.0.0.7:5050/ysp/cctv5p
 CCTV 5+,http://10.0.0.7:5050/itv/ystenlive/1000000005000265016
-CCTV 5+,http://10.0.0.7:5050/tptv/G_CCTV-5PLUS-HD-265-8M?type=proxy
 CCTV 6,http://10.0.0.7:5050/ysp/cctv6
 CCTV 6,http://10.0.0.7:5050/itv/ystenlive/1000000005000265006
-CCTV 6,http://10.0.0.7:5050/tptv/G_CCTV-6-AVS-4K264?type=proxy
 CCTV 7,http://10.0.0.7:5050/ysp/cctv7
 CCTV 7,http://10.0.0.7:5050/itv/ystenlive/1000000005000265007
-CCTV 7,http://10.0.0.7:5050/tptv/G_CCTV-7-HD-265-8M?type=proxy
 CCTV 8,http://10.0.0.7:5050/ysp/cctv8
 CCTV 8,http://10.0.0.7:5050/itv/ystenlive/1000000005000265008
-CCTV 8,http://10.0.0.7:5050/tptv/G_CCTV-8-AVS-4K264?type=proxy
 CCTV 9,http://10.0.0.7:5050/ysp/cctv9
 CCTV 9,http://10.0.0.7:5050/itv/ystenlive/1000000005000265009
-CCTV 9,http://10.0.0.7:5050/tptv/G_CCTV-9-HD-265-8M?type=proxyCCTV 9,http://10.0.0.7:5050/tptv/G_CCTV-9-HD-265-8M?type=proxy
 CCTV 10,http://10.0.0.7:5050/ysp/cctv10
 CCTV 10,http://10.0.0.7:5050/itv/ystenlive/1000000005000265010
-CCTV 10,http://10.0.0.7:5050/tptv/G_CCTV-10-HD-265-8M?type=proxy
 CCTV 11,http://10.0.0.7:5050/ysp/cctv11
 CCTV 11,http://10.0.0.7:5050/itv/ystenlive/1000000005000265011
-CCTV 11,http://10.0.0.7:5050/tptv/H265-5500k-1080P-cctv11?type=proxy
 CCTV 12,http://10.0.0.7:5050/ysp/cctv12
 CCTV 12,http://10.0.0.7:5050/itv/ystenlive/1000000005000265012
-CCTV 12,http://10.0.0.7:5050/tptv/G_CCTV-12-HD-265-8M?type=proxy
 CCTV 13,http://10.0.0.7:5050/ysp/cctv13
 CCTV 13,http://10.0.0.7:5050/itv/bestzb/5000000011000031108
 CCTV 13,http://10.0.0.7:5050/tptv/G_CCTV-13-HD-265-8M?type=proxy
@@ -72,17 +59,13 @@ CCTV 14,http://10.0.0.7:5050/itv/ystenlive/1000000005000265013
 CCTV 14,http://10.0.0.7:5050/tptv/G_CCTV-14-CQ?type=proxy
 CCTV 15,http://10.0.0.7:5050/ysp/cctv15
 CCTV 15,http://10.0.0.7:5050/itv/ystenlive/1000000005000265014
-CCTV 15,http://10.0.0.7:5050/tptv/H265-5500k-1080P-cctv15?type=proxy
 CCTV 16,http://10.0.0.7:5050/ysp/cctv16
 CCTV 16,http://10.0.0.7:5050/itv/ystenlive/1000000006000233002
-CCTV 16,http://10.0.0.7:5050/tptv/G_CCTV-16-CQ?type=proxy
 CCTV 16 4K,http://10.0.0.7:5050/ysp/cctv16-4k
 CCTV 16 4K,http://10.0.0.7:5050/itv/bestzb/5000000008000023254
 CCTV 17,http://10.0.0.7:5050/ysp/cctv17
 CCTV 17,http://10.0.0.7:5050/itv/ystenlive/1000000005000265015
-CCTV 17,http://10.0.0.7:5050/tptv/G_CCTV-17-CQ?type=proxy
 CCTV 4K,http://10.0.0.7:5050/ysp/cctv4k
-CCTV 4K,http://10.0.0.7:5050/tptv/G_CCTV-4K-HD?type=proxy
 
 📺卫视频道,#genre#
 北京卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
@@ -193,24 +176,22 @@ CCTV 4K,http://10.0.0.7:5050/tptv/G_CCTV-4K-HD?type=proxy
 🏃体育频道,#genre#
 巴黎奥运开幕式,https://res.cctvnews.cctv.com/video/3005/record/cctv/merge12/126662925810848154051013005/aa9f232ba4be4c49921baae0c27194dd-4.m3u8
 实时奥运金牌榜,https://pull-flv-f6.douyincdn.com/media/stream-692028292559012524.flv?abr_pts=-800&_session_id=037-202407291921458CA4EAA478C16011032F.1722252116805.55119
+CCTV 5,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 CCTV 5,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 CCTV 5,http://10.0.0.7:5050/ysp/cctv5
 CCTV 5,http://10.0.0.7:5050/itv/ystenlive/1000000005000265005
-CCTV 5,http://10.0.0.7:5050/tptv/G_CCTV-5-AVS-4K264?type=proxy
+CCTV 5+,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8
 CCTV 5+,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 CCTV 5+,http://10.0.0.7:5050/ysp/cctv5p
 CCTV 5+,http://10.0.0.7:5050/itv/ystenlive/1000000005000265016
-CCTV 5+,http://10.0.0.7:5050/tptv/G_CCTV-5PLUS-HD-265-8M?type=proxy
 CCTV 16,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226100/index.m3u8
 CCTV 16,http://10.0.0.7:5050/ysp/cctv16
 CCTV 16,http://10.0.0.7:5050/itv/ystenlive/1000000006000233002
-CCTV 16,http://10.0.0.7:5050/tptv/G_CCTV-16-CQ?type=proxy
-CCTV 16 4K1,http://10.0.0.7:5050/ysp/cctv16-4k
-CCTV 16 4K2,http://10.0.0.7:5050/itv/bestzb/5000000008000023254
-CCTV 4K,http://10.0.0.7:5050/tptv/G_CCTV-4K-HD?type=proxy
 CCTV 央视台球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/1.m3u8?m3u8_level=2
+CCTV 央视台球,http://10.0.0.7:5050/ysp/cctv-yangshitaiqiu
 CCTV 央视台球,http://10.0.0.7:5050/tptv/G_TAIQIU-CQ?type=proxy
 CCTV 高尔夫·网球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807743b61bb/1.m3u8?m3u8_level=2
+CCTV 高尔夫·网球,http://10.0.0.7:5050/ysp/cctv-gaoerfuwangqiu
 CCTV 高尔夫·网球,http://10.0.0.7:5050/tptv/G_CCTV-GOLF-CQ?type=proxy
 快乐垂钓,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638729b6002c4/index.m3u8?m3u8_level=2
 快乐垂钓,http://10.0.0.7:5050/itv/bestzb/5000000011000031206
@@ -218,6 +199,7 @@ CCTV 高尔夫·网球,http://10.0.0.7:5050/tptv/G_CCTV-GOLF-CQ?type=proxy
 超级体育,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 精品体育,http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 CCTV 风云足球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077160c04a/1.m3u8?m3u8_level=2
+CCTV 风云足球,http://10.0.0.7:5050/ysp/cctv-fengyunzuqiu
 CCTV 风云足球,http://10.0.0.7:5050/tptv/G_FENGSHANGZQ-CQ?type=proxy
 
 📡4K咪咕,#genre#
@@ -390,19 +372,28 @@ iHOT 爱动漫,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000
 欧美大片,http://159.75.85.63:35455/douyu/2793084
 贝爷max,http://159.75.85.63:35455/douyu/4332
 贝爷影厅,http://maomao.kandiantv.cn/douyu1.php?id=252802
-小鬼头,http://124.248.69.76:35455/huya/11352963
-刘德华,http://124.248.69.76:35455/huya/11342424
-许冠英,http://124.248.69.76:35455/huya/11601972
-李连杰,http://124.248.69.76:35455/huya/11342390
-甄子丹,http://124.248.69.76:35455/huya/11352935
-星爷,http://124.248.69.76:35455/huya/11342412
-英叔,http://124.248.69.76:35455/huya/11342421
-成龙,http://124.248.69.76:35455/huya/11342386
-王晶,http://124.248.69.76:35455/huya/11602058
-沈腾,http://124.248.69.76:35455/huya/11601968
-黄渤,http://124.248.69.76:35455/huya/11352876
-吴京,http://124.248.69.76:35455/huya/11602041
-强森,http://124.248.69.76:35455/huya/21059581
+电影_小鬼头,http://124.248.69.76:35455/huya/11352963
+电影_刘德华,http://124.248.69.76:35455/huya/11342424
+电影_许冠英,http://124.248.69.76:35455/huya/11601972
+电影_李连杰,http://124.248.69.76:35455/huya/11342390
+电影_甄子丹,http://124.248.69.76:35455/huya/11352935
+电影_星爷,http://124.248.69.76:35455/huya/11342412
+电影_英叔,http://124.248.69.76:35455/huya/11342421
+电影_英叔,https://live.metshop.top/huya/11342421
+电影_成龙,http://124.248.69.76:35455/huya/11342386
+电影_成龙,https://live.metshop.top/huya/11342386
+电影_王晶,http://124.248.69.76:35455/huya/11602058
+电影_王晶,https://live.metshop.top/huya/11602058
+电影_沈腾,http://124.248.69.76:35455/huya/11601968
+电影_沈腾,https://live.metshop.top/huya/11601968
+电影_黄渤,http://124.248.69.76:35455/huya/11352876
+电影_黄渤,https://live.metshop.top/huya/11352876
+电影_吴京,http://124.248.69.76:35455/huya/11602041
+电影_梁家辉,http://cfss.cc/cdn/hy/11342429.flv
+电影_梁家辉,https://live.metshop.top/huya/11342429
+电影_斯坦森,http://cfss.cc/cdn/hy/21059588.flv
+电影_强森,http://124.248.69.76:35455/huya/21059581
+电影_强森,https://live.metshop.top/huya/21059581
 怪兽,http://124.248.69.76:35455/huya/21059577
 武侠,http://124.248.69.76:35455/huya/11342427
 罪犯,http://124.248.69.76:35455/huya/11352962
@@ -427,27 +418,6 @@ iHOT 爱动漫,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000
 蘑菇影厅,http://124.248.69.76:35455/huya/11601981
 搞笑恐怖,http://124.248.69.76:35455/huya/11601960
 死神来了,http://124.248.69.76:35455/huya/11352903
-电影_刘德华,http://124.248.69.76:35455/huya/11342424
-电影_许冠英,http://124.248.69.76:35455/huya/11601972
-电影_李连杰,http://124.248.69.76:35455/huya/11342390
-电影_甄子丹,http://124.248.69.76:35455/huya/11352935
-电影_星爷,http://124.248.69.76:35455/huya/11342412
-电影_英叔,http://124.248.69.76:35455/huya/11342421
-电影_英叔,https://live.metshop.top/huya/11342421
-电影_成龙,http://124.248.69.76:35455/huya/11342386
-电影_成龙,https://live.metshop.top/huya/11342386
-电影_王晶,http://124.248.69.76:35455/huya/11602058
-电影_王晶,https://live.metshop.top/huya/11602058
-电影_沈腾,http://124.248.69.76:35455/huya/11601968
-电影_沈腾,https://live.metshop.top/huya/11601968
-电影_黄渤,http://124.248.69.76:35455/huya/11352876
-电影_黄渤,https://live.metshop.top/huya/11352876
-电影_吴京,http://124.248.69.76:35455/huya/11602041
-电影_梁家辉,http://cfss.cc/cdn/hy/11342429.flv
-电影_梁家辉,https://live.metshop.top/huya/11342429
-电影_斯坦森,http://cfss.cc/cdn/hy/21059588.flv
-电影_强森,http://124.248.69.76:35455/huya/21059581
-电影_强森,https://live.metshop.top/huya/21059581
 
 经典老剧,#genre#
 地雷战,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a90c788a458e40508615d711b8aae1af/850.m3u8
