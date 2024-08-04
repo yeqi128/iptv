@@ -1,0 +1,446 @@
+🇨🇳央视频道,#genre#
+CCTV 1,http://10.0.0.7:5050/ysp/cctv1
+CCTV 1,http://10.0.0.7:5050/itv/ystenlive/1000000005000265001
+CCTV 1,http://10.0.0.7:5050/tptv/G_CCTV-1-AVS-4K264?type=proxy
+CCTV 2,http://10.0.0.7:5050/ysp/cctv2
+CCTV 2,http://10.0.0.7:5050/itv/ystenlive/1000000001000023315
+CCTV 2,http://10.0.0.7:5050/tptv/G_CCTV-2-HD-265-8M?type=proxy
+CCTV 3,http://10.0.0.7:5050/ysp/cctv3
+CCTV 3,http://10.0.0.7:5050/itv/ystenlive/1000000005000265003
+CCTV 3,http://10.0.0.7:5050/tptv/G_CCTV-3-AVS-4K264?type=proxy
+CCTV 4,http://10.0.0.7:5050/ysp/cctv4
+CCTV 4,http://10.0.0.7:5050/itv/ystenlive/1000000005000265004
+CCTV 4,http://10.0.0.7:5050/tptv/G_CCTV-4-HD-265-8M?type=proxy
+CCTV 5,http://10.0.0.7:5050/ysp/cctv5
+CCTV 5,http://10.0.0.7:5050/itv/ystenlive/1000000005000265005
+CCTV 5,http://10.0.0.7:5050/tptv/G_CCTV-5-AVS-4K264?type=proxy
+CCTV 5+,http://10.0.0.7:5050/ysp/cctv5p
+CCTV 5+,http://10.0.0.7:5050/itv/ystenlive/1000000005000265016
+CCTV 5+,http://10.0.0.7:5050/tptv/G_CCTV-5PLUS-HD-265-8M?type=proxy
+CCTV 6,http://10.0.0.7:5050/ysp/cctv6
+CCTV 6,http://10.0.0.7:5050/itv/ystenlive/1000000005000265006
+CCTV 6,http://10.0.0.7:5050/tptv/G_CCTV-6-AVS-4K264?type=proxy
+CCTV 7,http://10.0.0.7:5050/ysp/cctv7
+CCTV 7,http://10.0.0.7:5050/itv/ystenlive/1000000005000265007
+CCTV 7,http://10.0.0.7:5050/tptv/G_CCTV-7-HD-265-8M?type=proxy
+CCTV 8,http://10.0.0.7:5050/ysp/cctv8
+CCTV 8,http://10.0.0.7:5050/itv/ystenlive/1000000005000265008
+CCTV 8,http://10.0.0.7:5050/tptv/G_CCTV-8-AVS-4K264?type=proxy
+CCTV 9,http://10.0.0.7:5050/ysp/cctv9
+CCTV 9,http://10.0.0.7:5050/itv/ystenlive/1000000005000265009
+CCTV 9,http://10.0.0.7:5050/tptv/G_CCTV-9-HD-265-8M?type=proxy
+CCTV 10,http://10.0.0.7:5050/ysp/cctv10
+CCTV 10,http://10.0.0.7:5050/itv/ystenlive/1000000005000265010
+CCTV 10,http://10.0.0.7:5050/tptv/G_CCTV-10-HD-265-8M?type=proxy
+CCTV 11,http://10.0.0.7:5050/ysp/cctv11
+CCTV 11,http://10.0.0.7:5050/itv/ystenlive/1000000005000265011
+CCTV 11,http://10.0.0.7:5050/tptv/H265-5500k-1080P-cctv11?type=proxy
+CCTV 12,http://10.0.0.7:5050/ysp/cctv12
+CCTV 12,http://10.0.0.7:5050/itv/ystenlive/1000000005000265012
+CCTV 12,http://10.0.0.7:5050/tptv/G_CCTV-12-HD-265-8M?type=proxy
+CCTV 13,http://10.0.0.7:5050/ysp/cctv13
+CCTV 13,http://10.0.0.7:5050/itv/bestzb/5000000011000031108
+CCTV 13,http://10.0.0.7:5050/tptv/G_CCTV-13-HD-265-8M?type=proxy
+CCTV 14,http://10.0.0.7:5050/ysp/cctv14
+CCTV 14,http://10.0.0.7:5050/itv/ystenlive/1000000005000265013
+CCTV 14,http://10.0.0.7:5050/tptv/G_CCTV-14-CQ?type=proxy
+CCTV 15,http://10.0.0.7:5050/ysp/cctv15
+CCTV 15,http://10.0.0.7:5050/itv/ystenlive/1000000005000265014
+CCTV 15,http://10.0.0.7:5050/tptv/H265-5500k-1080P-cctv15?type=proxy
+CCTV 16,http://10.0.0.7:5050/ysp/cctv16
+CCTV 16,http://10.0.0.7:5050/itv/ystenlive/1000000006000233002
+CCTV 16,http://10.0.0.7:5050/tptv/G_CCTV-16-CQ?type=proxy
+CCTV 16 4K,http://10.0.0.7:5050/ysp/cctv16-4k
+CCTV 16 4K,http://10.0.0.7:5050/itv/bestzb/5000000008000023254
+CCTV 17,http://10.0.0.7:5050/ysp/cctv17
+CCTV 17,http://10.0.0.7:5050/itv/ystenlive/1000000005000265015
+CCTV 17,http://10.0.0.7:5050/tptv/G_CCTV-17-CQ?type=proxy
+CCTV 4K,http://10.0.0.7:5050/ysp/cctv4k
+CCTV 4K,http://10.0.0.7:5050/tptv/G_CCTV-4K-HD?type=proxy
+CGTN,http://10.0.0.7:5050/ysp/cgtn
+CGTN,http://10.0.0.7:5050/itv/hnbblive/7745129417417101820
+中国教育电视台 1,http://10.0.0.7:5050/ysp/cetv1
+中国教育电视台 1,http://10.0.0.7:5050/itv/bestzb/5000000002000002652
+中国教育电视台 4,http://10.0.0.7:5050/itv/bestzb/5000000011000031126
+CCTV 世界地理,http://10.0.0.7:5050/tptv/G_SHIJIEDL-CQ?type=proxy
+CCTV 风云剧场,http://10.0.0.7:5050/tptv/G_FENGYUNJC-CQ?type=proxy
+CCTV 风云足球,http://10.0.0.7:5050/tptv/G_FENGSHANGZQ-CQ?type=proxy
+CCTV 风云音乐,http://10.0.0.7:5050/tptv/G_FENGYUNYY-CQ?type=proxy
+CCTV 兵器科技,http://10.0.0.7:5050/tptv/G_BINGQIKJ-CQ?type=proxy
+CCTV 央视台球,http://10.0.0.7:5050/tptv/G_TAIQIU-CQ?type=proxy
+CCTV 高尔夫网球,http://10.0.0.7:5050/tptv/G_CCTV-GOLF-CQ?type=proxy
+CCTV 女性时尚,http://10.0.0.7:5050/tptv/G_NVXINGSS-CQ?type=proxy
+CCTV 电视指南,http://10.0.0.7:5050/tptv/G_DIANSHIZN-CQ?type=proxy
+CCTV 第一剧场,http://10.0.0.7:5050/tptv/G_DIYIJC-CQ?type=proxy
+CCTV 怀旧剧场,http://10.0.0.7:5050/tptv/G_HUAIJIUJC-CQ?type=proxy
+CCTV 央视文化精品,http://10.0.0.7:5050/tptv/G_CCTV-WENHUA-CQ?type=proxy
+卫视,#genre#
+北京卫视,http://10.0.0.7:5050/itv/wasusyt/6000000001000020451
+安徽卫视,http://10.0.0.7:5050/itv/ystenlive/1000000001000030159
+东南卫视,http://10.0.0.7:5050/itv/bestzb/5000000004000010584
+甘肃卫视,http://10.0.0.7:5050/itv/bestzb/5000000011000031121
+广东卫视,http://10.0.0.7:5050/itv/ystenlive/1000000001000014176
+广西卫视,http://10.0.0.7:5050/itv/bestzb/5000000011000031118
+贵州卫视,http://10.0.0.7:5050/itv/bestzb/5000000004000025843
+海南卫视,http://10.0.0.7:5050/itv/bestzb/5000000004000006211
+河北卫视,http://10.0.0.7:5050/itv/bestzb/5000000006000040016
+河南卫视,http://10.0.0.7:5050/itv/bestzb/5000000011000031119
+黑龙江卫视,http://10.0.0.7:5050/itv/ystenlive/1000000001000001925
+湖北卫视,http://10.0.0.7:5050/itv/ystenlive/1000000001000024621
+湖南卫视,http://10.0.0.7:5050/itv/bestzb/5000000004000006692
+江苏卫视,http://10.0.0.7:5050/tptv/G_JIANGSU-HD-265-8M?type=proxy
+东方卫视,http://10.0.0.7:5050/tptv/G_DONGFANG-HD-265-8M?type=proxy
+北京卫视,http://10.0.0.7:5050/tptv/G_BEIJING-HD-265-8M?type=proxy
+广东卫视,http://10.0.0.7:5050/tptv/G_GUANGDONG-HD-265-8M?type=proxy
+山东卫视,http://10.0.0.7:5050/tptv/G_SHANDONG-HD-265-8M?type=proxy
+深圳卫视,http://10.0.0.7:5050/tptv/G_SHENZHEN-HD-265-8M?type=proxy
+湖北卫视,http://10.0.0.7:5050/tptv/G_HUBEI-HD-265-8M?type=proxy
+湖南卫视,http://10.0.0.7:5050/tptv/G_HUNAN-HD-265-8M?type=proxy
+浙江卫视,http://10.0.0.7:5050/tptv/G_ZHEJIANG-HD-265-8M?type=proxy
+黑龙江卫视,http://10.0.0.7:5050/tptv/G_HEILONGJIANG-HD-265-8M?type=proxy
+天津卫视,http://10.0.0.7:5050/tptv/G_TIANJIN-HD-265-8M?type=proxy
+安徽卫视,http://10.0.0.7:5050/tptv/G_ANHUI-HD-265-8M?type=proxy
+辽宁卫视,http://10.0.0.7:5050/tptv/G_LIAONING-HD-265-8M?type=proxy
+东南卫视,http://10.0.0.7:5050/tptv/H265-5500k-1080P-dongnanstv?type=proxy
+吉林卫视,http://10.0.0.7:5050/tptv/G_JILIN-CQ?type=proxy
+四川卫视,http://10.0.0.7:5050/tptv/G_SICHUAN-CQ?type=proxy
+江西卫视,http://10.0.0.7:5050/tptv/G_JIANGXI-CQ?type=proxy
+河北卫视,http://10.0.0.7:5050/tptv/G_HEBEI-CQ?type=proxy
+河南卫视,http://10.0.0.7:5050/tptv/G_HENAN-CQ?type=proxy
+贵州卫视,http://10.0.0.7:5050/tptv/G_GUIZHOU-CQ?type=proxy
+重庆卫视,http://10.0.0.7:5050/tptv/G_CHONGQING-CQ?type=proxy
+云南卫视,http://10.0.0.7:5050/tptv/G_YUNNAN-HQ?type=proxy
+三沙卫视,http://10.0.0.7:5050/tptv/G_SANSHA-HQ?type=proxy
+海南卫视,http://10.0.0.7:5050/tptv/HD-8000k-1080P-lvyoustv?type=proxy
+凤凰卫视中文,http://10.0.0.7:5050/tptv/HD-10000k-1080P-fhchinese5s?type=proxy
+凤凰卫视资讯,http://10.0.0.7:5050/tptv/HD-10000k-1080P-fhzixun5s?type=proxy
+凤凰卫视香港,http://10.0.0.7:5050/tptv/HD-10000k-1080P-fhhongkong5s?type=proxy
+其他,#genre#
+湖南快乐垂钓,http://10.0.0.7:5050/itv/bestzb/5000000011000031206
+华数 4K,http://10.0.0.7:5050/itv/wasusyt/6000000003000004748
+纯享 4K,http://10.0.0.7:5050/itv/ystenlive/1000000004000011651
+咪咕4K 1,http://10.0.0.7:5050/itv/FifastbLive/3000000010000005180
+咪咕4K 2,http://10.0.0.7:5050/itv/FifastbLive/3000000010000015686
+咪咕全民热练,http://10.0.0.7:5050/itv/FifastbLive/3000000020000031315
+求索动物,http://10.0.0.7:5050/itv/wasusyt/6000000002000010046
+求索纪录,http://10.0.0.7:5050/itv/wasusyt/6000000002000032052
+求索科学,http://10.0.0.7:5050/itv/wasusyt/6000000002000032344
+求索生活,http://10.0.0.7:5050/itv/wasusyt/6000000002000003382
+NewTV,#genre#
+NewTV 精品综合,http://10.0.0.7:5050/itv/ystenlive/1000000004000019008
+NewTV 精品大剧,http://10.0.0.7:5050/itv/ystenlive/1000000004000013968
+NewTV 精品纪录,http://10.0.0.7:5050/itv/ystenlive/1000000004000013730
+NewTV 精品体育,http://10.0.0.7:5050/itv/ystenlive/1000000004000014634
+NewTV 精品萌宠,http://10.0.0.7:5050/itv/ystenlive/1000000006000032328
+NewTV 爱情喜剧,http://10.0.0.7:5050/itv/hnbblive/2000000003000000010
+NewTV 超级电视剧,http://10.0.0.7:5050/itv/ystenlive/1000000006000268003
+NewTV 超级电影,http://10.0.0.7:5050/itv/ystenlive/1000000003000012426
+NewTV 超级体育,http://10.0.0.7:5050/itv/ystenlive/1000000001000009601
+NewTV 超级综艺,http://10.0.0.7:5050/itv/ystenlive/1000000006000268002
+NewTV 潮妈辣婆,http://10.0.0.7:5050/itv/hnbblive/2000000003000000018
+NewTV 东北热剧,http://10.0.0.7:5050/itv/ystenlive/1000000005000266013
+NewTV 动作电影,http://10.0.0.7:5050/itv/ystenlive/1000000004000018653
+NewTV 古装剧场,http://10.0.0.7:5050/itv/hnbblive/2000000003000000024
+NewTV 欢乐剧场,http://10.0.0.7:5050/itv/ystenlive/1000000005000266012
+NewTV 家庭剧场,http://10.0.0.7:5050/itv/ystenlive/1000000004000008284
+NewTV 金牌综艺,http://10.0.0.7:5050/itv/ystenlive/1000000004000026167
+NewTV 惊悚悬疑,http://10.0.0.7:5050/itv/ystenlive/1000000004000024282
+NewTV 军旅剧场,http://10.0.0.7:5050/itv/hnbblive/2000000003000000014
+NewTV 军事评论,http://10.0.0.7:5050/itv/hnbblive/2000000003000000022
+NewTV 魅力潇湘,http://10.0.0.7:5050/itv/ystenlive/1000000001000006197
+NewTV 明星大片,http://10.0.0.7:5050/itv/hnbblive/2000000003000000016
+NewTV 农业致富,http://10.0.0.7:5050/itv/hnbblive/2000000003000000003
+NewTV 武博世界,http://10.0.0.7:5050/itv/hnbblive/2000000003000000007
+NewTV 炫舞未来,http://10.0.0.7:5050/itv/ystenlive/1000000001000000515
+NewTV 怡伴健康,http://10.0.0.7:5050/itv/ystenlive/1000000005000266011
+NewTV 中国功夫,http://10.0.0.7:5050/itv/hnbblive/2000000003000000009
+NewTV 黑莓电影,http://10.0.0.7:5050/itv/ystenlive/1000000004000019624
+NewTV 黑莓动画,http://10.0.0.7:5050/itv/ystenlive/1000000004000021734
+NewTV 哒啵电竞,http://10.0.0.7:5050/itv/ystenlive/1000000006000032327
+NewTV 哒啵赛事,http://10.0.0.7:5050/itv/ystenlive/1000000001000003775
+SiTV,#genre#
+SiTV 动漫秀场,http://10.0.0.7:5050/itv/bestzb/5000000011000031113
+SiTV 都市剧场,http://10.0.0.7:5050/itv/bestzb/5000000011000031111
+SiTV 法治天地,http://10.0.0.7:5050/itv/bestzb/9001547084732463424
+SiTV 欢笑剧场,http://10.0.0.7:5050/itv/bestzb/5000000002000009455
+SiTV 欢笑剧场-4K,http://10.0.0.7:5050/itv/bestzb/5000000007000010001
+SiTV 金色学堂,http://10.0.0.7:5050/itv/bestzb/5000000010000026105
+SiTV 劲爆体育,http://10.0.0.7:5050/itv/bestzb/5000000002000029972
+SiTV 乐游,http://10.0.0.7:5050/itv/bestzb/5000000011000031112
+SiTV 魅力足球,http://10.0.0.7:5050/itv/bestzb/5000000011000031207
+SiTV 七彩戏剧,http://10.0.0.7:5050/itv/bestzb/5000000011000031116
+SiTV 生活时尚,http://10.0.0.7:5050/itv/bestzb/5000000002000019634
+SiTV 游戏风云,http://10.0.0.7:5050/itv/bestzb/5000000011000031114
+iHOT,#genre#
+iHOT 爱电竞,http://10.0.0.7:5050/itv/wasusyt/6000000006000230630
+iHOT 爱谍战,http://10.0.0.7:5050/itv/wasusyt/6000000006000070630
+iHOT 爱动漫,http://10.0.0.7:5050/itv/wasusyt/6000000006000280630
+iHOT 爱都市,http://10.0.0.7:5050/itv/wasusyt/6000000006000080630
+iHOT 爱怀旧,http://10.0.0.7:5050/itv/wasusyt/6000000006000260630
+iHOT 爱经典,http://10.0.0.7:5050/itv/wasusyt/6000000006000060630
+iHOT 爱科幻,http://10.0.0.7:5050/itv/wasusyt/6000000006000020630
+iHOT 爱科学,http://10.0.0.7:5050/itv/wasusyt/6000000006000160630
+iHOT 爱浪漫,http://10.0.0.7:5050/itv/wasusyt/6000000006000040630
+iHOT 爱历史,http://10.0.0.7:5050/itv/wasusyt/6000000006000150630
+iHOT 爱旅行,http://10.0.0.7:5050/itv/wasusyt/6000000006000250630
+iHOT 爱奇谈,http://10.0.0.7:5050/itv/wasusyt/6000000006000270630
+iHOT 爱青春,http://10.0.0.7:5050/itv/wasusyt/6000000006000100630
+iHOT 爱赛车,http://10.0.0.7:5050/itv/wasusyt/6000000006000240630
+iHOT 爱体育,http://10.0.0.7:5050/itv/wasusyt/6000000006000290630
+iHOT 爱玩具,http://10.0.0.7:5050/itv/wasusyt/6000000006000220630
+iHOT 爱喜剧,http://10.0.0.7:5050/itv/wasusyt/6000000006000010630
+iHOT 爱悬疑,http://10.0.0.7:5050/itv/wasusyt/6000000006000050630
+iHOT 爱幼教,http://10.0.0.7:5050/itv/wasusyt/6000000006000180630
+iHOT 爱院线,http://10.0.0.7:5050/itv/wasusyt/6000000006000030630
+特色,#genre#
+黑土无言,http://10.0.0.7:5050/tptv/COSHD-4000k-1080P-htwy?type=proxy
+问心,http://10.0.0.7:5050/tptv/COSHD-4000k-1080P-wenxin?type=proxy
+父辈的荣耀,http://10.0.0.7:5050/tptv/COSHD-4000k-1080P-fbdry?type=proxy
+繁城之下,http://10.0.0.7:5050/tptv/COSHD-4000k-1080P-fczx?type=proxy
+小日子,http://10.0.0.7:5050/tptv/COSHD-4000k-1080P-xiaorizi?type=proxy
+谢谢你温暖我,http://10.0.0.7:5050/tptv/COSHD-4000k-1080P-xxnwnw?type=proxy
+当你沉睡时,http://10.0.0.7:5050/tptv/COSHD-4000k-1080P-dncss?type=proxy
+影视剧场,http://10.0.0.7:5050/tptv/GITV-JS-1?type=proxy
+第一院线,http://10.0.0.7:5050/tptv/GITV-JS-2?type=proxy
+居家健身,http://10.0.0.7:5050/tptv/GITV-JS-4?type=proxy
+未知,http://10.0.0.7:5050/tptv/GITV-JS-6?type=proxy
+未知,http://10.0.0.7:5050/tptv/GITV-JS-7?type=proxy
+德凯奥特曼,http://10.0.0.7:5050/tptv/GITV-JS-9?type=proxy
+熊出没,http://10.0.0.7:5050/tptv/GITV-JS-10?type=proxy
+超级飞侠,http://10.0.0.7:5050/tptv/GITV-JS-11?type=proxy
+小猪佩奇,http://10.0.0.7:5050/tptv/GITV-JS-12?type=proxy
+汪汪队立大功,http://10.0.0.7:5050/tptv/GITV-JS-13?type=proxy
+高分电影,http://10.0.0.7:5050/tptv/GITV-JS-14?type=proxy
+B站番剧,http://10.0.0.7:5050/tptv/GITV-JS-15?type=proxy
+热门综艺,http://10.0.0.7:5050/tptv/GITV-JS-16?type=proxy
+美食美味,http://10.0.0.7:5050/tptv/GITV-JS-17?type=proxy
+自然风景,http://10.0.0.7:5050/tptv/GITV-JS-18?type=proxy
+动物世界,http://10.0.0.7:5050/tptv/GITV-JS-19?type=proxy
+书籍解读,http://10.0.0.7:5050/tptv/GITV-JS-20?type=proxy
+亲子玩具,http://10.0.0.7:5050/tptv/GITV-JS-21?type=proxy
+广场舞,http://10.0.0.7:5050/tptv/GITV-JS-22?type=proxy
+戏曲音乐,http://10.0.0.7:5050/tptv/GITV-JS-23?type=proxy
+相声联欢,http://10.0.0.7:5050/tptv/GITV-JS-24?type=proxy
+动漫星空,http://10.0.0.7:5050/tptv/GITV-JS-25?type=proxy
+电视剧,http://10.0.0.7:5050/tptv/GITV-JS-26?type=proxy
+电视剧,http://10.0.0.7:5050/tptv/GITV-JS-27?type=proxy
+电视剧,http://10.0.0.7:5050/tptv/GITV-JS-28?type=proxy
+军事之旅,http://10.0.0.7:5050/tptv/GITV-JS-29?type=proxy
+科幻世界,http://10.0.0.7:5050/tptv/GITV-JS-30?type=proxy
+儿童天地,http://10.0.0.7:5050/tptv/GITV-JS-31?type=proxy
+纪录片,http://10.0.0.7:5050/tptv/GITV-JS-32?type=proxy
+音乐心情,http://10.0.0.7:5050/tptv/GITV-JS-33?type=proxy
+掼蛋频道,http://10.0.0.7:5050/tptv/GITV-JS-34?type=proxy
+体坛同期声,http://10.0.0.7:5050/tptv/GITV-JS-35?type=proxy
+臻享推荐,http://10.0.0.7:5050/tptv/GITV-JS-36?type=proxy
+怀旧MTV,http://10.0.0.7:5050/tptv/GITV-JS-37?type=proxy
+南来北往,http://10.0.0.7:5050/tptv/GITV-JS-39?type=proxy
+狗剩快跑,http://10.0.0.7:5050/tptv/GITV-JS-40?type=proxy
+狂飙,http://10.0.0.7:5050/tptv/GITV-JS-41?type=proxy
+人世间,http://10.0.0.7:5050/tptv/GITV-JS-42?type=proxy
+大江大河,http://10.0.0.7:5050/tptv/GITV-JS-43?type=proxy
+山海情,http://10.0.0.7:5050/tptv/GITV-JS-44?type=proxy
+冰雪竞技场,http://10.0.0.7:5050/tptv/GITV-JS-45?type=proxy
+邪恶与疯狂,http://10.0.0.7:5050/tptv/GITV-JS-46?type=proxy
+来自星星的你,http://10.0.0.7:5050/tptv/GITV-JS-47?type=proxy
+哦我的鬼神大人,http://10.0.0.7:5050/tptv/GITV-JS-48?type=proxy
+太阳的后裔,http://10.0.0.7:5050/tptv/GITV-JS-49?type=proxy
+请回答1988,http://10.0.0.7:5050/tptv/GITV-JS-50?type=proxy
+
+国外体育,#genre#
+TNT Sport 1,http://10.0.0.7:5050/beesport/TNT_Sports_1
+TNT Sport 2,http://10.0.0.7:5050/beesport/TNT_Sports_2
+TNT Sport 3,http://10.0.0.7:5050/beesport/TNT_Sports_3
+TNT Sport 4,http://10.0.0.7:5050/beesport/TNT_Sports_4
+Sky Sports Football,http://10.0.0.7:5050/beesport/Sky_Sports_Football_Live_TV
+Sky Sports Main Event,http://10.0.0.7:5050/beesport/Sky_Sports_Main_Event
+Sky Sports Premier League,http://10.0.0.7:5050/beesport/Sky_Sports_Premier_League
+Sky Sports Action,http://10.0.0.7:5050/beesport/Sky_Sports_Action_Live_TV
+Sky Sports Mix,http://10.0.0.7:5050/beesport/Sky_Sports_Mix_Live_TV
+Sky Sports Arena,http://10.0.0.7:5050/beesport/Sky_Sports_Arena_Live_TV
+Sky Sports News,http://10.0.0.7:5050/beesport/Sky_Sports_News_Live_TV
+Sky Sports Cricket,http://10.0.0.7:5050/beesport/Sky_Sports_Cricket_Live_TV
+Sky Sports Tennis,http://10.0.0.7:5050/beesport/Sky_Sports_Tennis
+Sky Sports F1,http://10.0.0.7:5050/beesport/Sky_Sports_F1_Live_TV
+Sky Sports Golf,http://10.0.0.7:5050/beesport/Sky_Sports_Golf_Live_TV
+Sky Sports Racing,http://10.0.0.7:5050/beesport/Sky_Sports_Racing_Live_TV
+Tennis Channel,http://10.0.0.7:5050/beesport/Tennis_Channel_Live_TV
+LaLiga TV,http://10.0.0.7:5050/beesport/La_Liga_TV_Live_TV
+DAZN,http://10.0.0.7:5050/beesport/DAZN_Live_TV
+Bein Sports USA,http://10.0.0.7:5050/beesport/Bein_Sports_USA_Live_TV
+Bein Sports English 2,http://10.0.0.7:5050/beesport/Bein_Sports_English_2_Live_TV
+SuperSport Premier League,http://10.0.0.7:5050/beesport/SuperSport_Premier_League_Live_TV
+SuperSport LaLiga,http://10.0.0.7:5050/beesport/SuperSport_LaLiga_Live_TV
+SuperSport Action,http://10.0.0.7:5050/beesport/SuperSport_Action_Live_TV
+SuperSport Blitz,http://10.0.0.7:5050/beesport/SuperSport_Blitz_Live_TV
+SuperSport Cricket,http://10.0.0.7:5050/beesport/SuperSport_Cricket_Live_TV
+SuperSport Football,http://10.0.0.7:5050/beesport/SuperSport_Football_Live_TV
+SuperSport Golf,http://10.0.0.7:5050/beesport/SuperSport_Golf_Live_TV
+SuperSport Rugby,http://10.0.0.7:5050/beesport/SuperSport_Rugby_Live_TV
+SuperSport Tennis,http://10.0.0.7:5050/beesport/SuperSport_Tennis_Live_TV
+Variety 1,http://10.0.0.7:5050/beesport/Variety_1_Live_TV
+Variety 2,http://10.0.0.7:5050/beesport/Variety_2_Live_TV
+Variety 3,http://10.0.0.7:5050/beesport/Variety_3_Live_TV
+Variety 4,http://10.0.0.7:5050/beesport/Variety_4_Live_TV
+Eurosport 1,http://10.0.0.7:5050/beesport/Eurosport_1_Live_TV
+Eurosport 2,http://10.0.0.7:5050/beesport/Eurosport_2_Live_TV
+Premier Sports 1,http://10.0.0.7:5050/beesport/Premier_Sports_1
+Premier Sports 2,http://10.0.0.7:5050/beesport/Premier_Sports_2
+Golf Channel,http://10.0.0.7:5050/beesport/Golf_Channel_Live_TV
+MLB Network,http://10.0.0.7:5050/beesport/MLB_Network_Live_TV
+NBA TV,http://10.0.0.7:5050/beesport/NBA_TV_Live_TV
+NFL Network,http://10.0.0.7:5050/beesport/NFL_Network_Live_TV
+NFL Redzone,http://10.0.0.7:5050/beesport/NFL_REDZONE_Live_TV
+NHL Network,http://10.0.0.7:5050/beesport/NHL_Network_Live_TV
+WWE,http://10.0.0.7:5050/beesport/WWE_Live_TV
+Willow Cricket,http://10.0.0.7:5050/beesport/Willow_Cricket_Live_TV
+Willow Extra,http://10.0.0.7:5050/beesport/Willow_Extra_Live_TV
+World Fishing Network,http://10.0.0.7:5050/beesport/World_Fishing_Network_Live_TV
+Fight Network,http://10.0.0.7:5050/beesport/Fight_Network_Live_TV
+ESPN,http://10.0.0.7:5050/beesport/ESPN_Live_TV
+ESPN 2,http://10.0.0.7:5050/beesport/ESPN_2_Live_TV
+ESPN News,http://10.0.0.7:5050/beesport/ESPN_News_Live_TV
+ESPN U,http://10.0.0.7:5050/beesport/ESPN_U_Live_TV
+MUTV,http://10.0.0.7:5050/beesport/MUTV_Live_TV
+LFC TV,http://10.0.0.7:5050/beesport/LFC_TV_Live_TV
+ACC Network,http://10.0.0.7:5050/beesport/ACC_Network_Live_TV
+CBS Sports Network,http://10.0.0.7:5050/beesport/CBS_Sports_Network_Live_TV
+Fox Sports 1,http://10.0.0.7:5050/beesport/Fox_Sports_1_Live_TV
+Fox Sports 2,http://10.0.0.7:5050/beesport/Fox_Sports_2_Live_TV
+
+台湾4GTV,#genre#
+民視,http://10.0.0.7:5050/litv/4gtv-4gtv155
+民視第一台,http://10.0.0.7:5050/litv/4gtv-4gtv003
+民視新聞台,http://10.0.0.7:5050/litv/litv-ftv13
+民視台灣台,http://10.0.0.7:5050/litv/4gtv-4gtv001
+民視影劇台,http://10.0.0.7:5050/litv/litv-ftv09
+民視旅遊台,http://10.0.0.7:5050/litv/litv-ftv07
+民視綜藝台,http://10.0.0.7:5050/litv/4gtv-4gtv004
+中視,http://10.0.0.7:5050/litv/4gtv-4gtv040
+中視新聞台,http://10.0.0.7:5050/litv/4gtv-4gtv074
+中視經典台,http://10.0.0.7:5050/litv/4gtv-4gtv080
+中視菁采台,http://10.0.0.7:5050/litv/4gtv-4gtv064
+中天新聞台,http://10.0.0.7:5050/litv/4gtv-4gtv009
+中天亞洲台,http://10.0.0.7:5050/litv/4gtv-4gtv109
+華視,http://10.0.0.7:5050/litv/4gtv-4gtv041
+華視新聞,http://10.0.0.7:5050/litv/4gtv-4gtv052
+靖天綜合台,http://10.0.0.7:5050/litv/4gtv-4gtv046
+靖天國際台,http://10.0.0.7:5050/litv/4gtv-4gtv063
+靖天戲劇台,http://10.0.0.7:5050/litv/4gtv-4gtv058
+靖天日本台,http://10.0.0.7:5050/litv/4gtv-4gtv047
+靖天育樂台,http://10.0.0.7:5050/litv/4gtv-4gtv062
+靖天資訊台,http://10.0.0.7:5050/litv/4gtv-4gtv065
+靖天電影台,http://10.0.0.7:5050/litv/4gtv-4gtv061
+靖天歡樂台,http://10.0.0.7:5050/litv/4gtv-4gtv054
+龍華偶像台,http://10.0.0.7:5050/litv/litv-longturn12
+龍華戲劇台,http://10.0.0.7:5050/litv/litv-longturn18
+龍華日韓台,http://10.0.0.7:5050/litv/litv-longturn11
+龍華經典台,http://10.0.0.7:5050/litv/litv-longturn21
+龍華電影台,http://10.0.0.7:5050/litv/litv-longturn03
+靖洋戲劇台,http://10.0.0.7:5050/litv/4gtv-4gtv045
+寰宇新聞台,http://10.0.0.7:5050/litv/litv-longturn14
+寰宇新聞台灣台,http://10.0.0.7:5050/litv/litv-longturn15
+寰宇財經台,http://10.0.0.7:5050/litv/litv-longturn23
+TVBS,http://10.0.0.7:5050/litv/4gtv-4gtv073
+TVBS 新聞台,http://10.0.0.7:5050/litv/4gtv-4gtv072
+TVBS 綜藝台,http://10.0.0.7:5050/4gtv/284
+TVBS 歡樂台,http://10.0.0.7:5050/litv/4gtv-4gtv068
+TVBS 精采台,http://10.0.0.7:5050/litv/4gtv-4gtv067
+TVBS 台劇台,http://10.0.0.7:5050/4gtv/285
+八大精彩台,http://10.0.0.7:5050/litv/4gtv-4gtv034
+八大綜藝台,http://10.0.0.7:5050/litv/4gtv-4gtv039
+三立新聞,http://10.0.0.7:5050/4gtv/229
+三立綜合台,http://10.0.0.7:5050/4gtv/169
+台視,http://10.0.0.7:5050/litv/4gtv-4gtv066
+台視新聞台,http://10.0.0.7:5050/litv/4gtv-4gtv051
+台視財經台,http://10.0.0.7:5050/litv/4gtv-4gtv056
+博斯運動一台,http://10.0.0.7:5050/litv/litv-longturn07
+博斯運動二台,http://10.0.0.7:5050/litv/litv-longturn08
+博斯無限台,http://10.0.0.7:5050/litv/litv-longturn10
+博斯無限二台,http://10.0.0.7:5050/litv/litv-longturn13
+博斯網球台,http://10.0.0.7:5050/litv/litv-longturn09
+博斯高球台,http://10.0.0.7:5050/litv/litv-longturn05
+博斯高球二台,http://10.0.0.7:5050/litv/litv-longturn06
+博斯魅力台,http://10.0.0.7:5050/litv/litv-longturn04
+ELTA 娛樂台,http://10.0.0.7:5050/litv/4gtv-4gtv070
+ELTA 生活旅遊,http://10.0.0.7:5050/4gtv/237
+ELTA生活英語,http://10.0.0.7:5050/litv/litv-longturn20
+東森新聞,http://10.0.0.7:5050/litv/4gtv-4gtv152
+東森財經新聞,http://10.0.0.7:5050/litv/4gtv-4gtv153
+非凡新聞台,http://10.0.0.7:5050/litv/4gtv-4gtv010
+非凡商業台,http://10.0.0.7:5050/litv/4gtv-4gtv048
+鏡電視新聞台,http://10.0.0.7:5050/litv/4gtv-4gtv075
+CNBC Asia 財經台,http://10.0.0.7:5050/4gtv/235
+亞洲旅遊台,http://10.0.0.7:5050/litv/litv-longturn17
+GINX Esports TV,http://10.0.0.7:5050/litv/4gtv-4gtv053
+TechStorm,http://10.0.0.7:5050/4gtv/181
+時尚運動X,http://10.0.0.7:5050/4gtv/277
+智林體育台,http://10.0.0.7:5050/litv/4gtv-4gtv101
+TraceSports,http://10.0.0.7:5050/litv/4gtv-4gtv077
+影迷數位紀實台,http://10.0.0.7:5050/4gtv/212
+影迷數位電影台,http://10.0.0.7:5050/litv/4gtv-4gtv011
+AMC 最愛電影,http://10.0.0.7:5050/litv/4gtv-4gtv017
+CatchPlay 電影台,http://10.0.0.7:5050/litv/4gtv-4gtv076
+My Cinema Europe HD 我的歐洲電影,http://10.0.0.7:5050/4gtv/176
+公視戲劇台,http://10.0.0.7:5050/litv/4gtv-4gtv042
+采昌影劇台,http://10.0.0.7:5050/litv/4gtv-4gtv049
+台灣戲劇台,http://10.0.0.7:5050/litv/litv-longturn22
+戲劇免費看 1台,http://10.0.0.7:5050/4gtv/270
+戲劇免費看 2台,http://10.0.0.7:5050/4gtv/244
+經典電影台,http://10.0.0.7:5050/4gtv/201
+電影免費看 2台,http://10.0.0.7:5050/4gtv/245
+電影原聲台 CMusic,http://10.0.0.7:5050/4gtv/218
+花系列 經典劇場,http://10.0.0.7:5050/4gtv/279
+CinemaWorld,http://10.0.0.7:5050/4gtv/225
+HITS 頻道,http://10.0.0.7:5050/4gtv/186
+Rock Action,http://10.0.0.7:5050/4gtv/180
+Rock Entertainment,http://10.0.0.7:5050/4gtv/275
+金光布袋戲,http://10.0.0.7:5050/4gtv/236
+霹靂布袋戲,http://10.0.0.7:5050/4gtv/301
+DreamWorks 夢工廠動畫,http://10.0.0.7:5050/4gtv/282
+Nickelodeon,http://10.0.0.7:5050/4gtv/185
+Nick Jr. 兒童頻道,http://10.0.0.7:5050/4gtv/219
+i-Fun 動漫台,http://10.0.0.7:5050/litv/litv-ftv15
+兒童卡通台,http://10.0.0.7:5050/4gtv/269
+精選動漫台,http://10.0.0.7:5050/4gtv/204
+經典卡通台,http://10.0.0.7:5050/4gtv/202
+達文西頻道,http://10.0.0.7:5050/litv/4gtv-4gtv018
+超人力霸王整套看,http://10.0.0.7:5050/4gtv/278
+MOMO 親子台,http://10.0.0.7:5050/4gtv/231
+LiveABC 互動英語台,http://10.0.0.7:5050/4gtv/188
+Classica 古典樂,http://10.0.0.7:5050/litv/4gtv-4gtv059
+Lifetime 娛樂頻道,http://10.0.0.7:5050/4gtv/217
+MTV Live HD 音樂頻道,http://10.0.0.7:5050/4gtv/213
+Mezzo Live,http://10.0.0.7:5050/litv/4gtv-4gtv083
+豬哥亮歌廳秀,http://10.0.0.7:5050/litv/4gtv-4gtv006
+Trace Urban,http://10.0.0.7:5050/litv/4gtv-4gtv082
+Global Trekker,http://10.0.0.7:5050/4gtv/252
+Globetrotter 環遊旅行家,http://10.0.0.7:5050/litv/4gtv-4gtv016
+LUXE TV,http://10.0.0.7:5050/4gtv/175
+Pet Club TV,http://10.0.0.7:5050/4gtv/182
+TV5MONDE Style,http://10.0.0.7:5050/4gtv/178
+車迷 TV,http://10.0.0.7:5050/4gtv/160
+Love Nature,http://10.0.0.7:5050/4gtv/139
+Fun 探索娛樂台,http://10.0.0.7:5050/4gtv/274
+幸福空間居家台,http://10.0.0.7:5050/4gtv/168
+Arirang TV,http://10.0.0.7:5050/litv/4gtv-4gtv079
+Bloomberg TV,http://10.0.0.7:5050/4gtv/283
+VOA 美國之音,http://10.0.0.7:5050/litv/litv-ftv03
+DW德國之聲,http://10.0.0.7:5050/4gtv/226
+SBN 全球財經台,http://10.0.0.7:5050/4gtv/224
+半島國際新聞台,http://10.0.0.7:5050/litv/litv-ftv10
+第1商業台,http://10.0.0.7:5050/litv/4gtv-4gtv104
+History 歷史頻道,http://10.0.0.7:5050/4gtv/214
+CI 罪案偵查頻道,http://10.0.0.7:5050/4gtv/215
+Smart 知識台,http://10.0.0.7:5050/litv/litv-longturn19
+視納華仁紀實頻道,http://10.0.0.7:5050/litv/4gtv-4gtv013
+原住民族電視台,http://10.0.0.7:5050/4gtv/273
+客家電視台,http://10.0.0.7:5050/litv/4gtv-4gtv043
+滾動力 Rollor,http://10.0.0.7:5050/4gtv/249
+好消息,http://10.0.0.7:5050/litv/litv-ftv16
+好消息2台,http://10.0.0.7:5050/litv/litv-ftv17
+大愛電視,http://10.0.0.7:5050/4gtv/209
+大愛電視2,http://10.0.0.7:5050/4gtv/230
+人間衛視,http://10.0.0.7:5050/4gtv/210
+國會頻道1,http://10.0.0.7:5050/litv/4gtv-4gtv084
+國會頻道2,http://10.0.0.7:5050/litv/4gtv-4gtv085
