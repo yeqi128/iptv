@@ -104,8 +104,21 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 杭州4影视,http://m.951688.xyz:4102/udp/233.50.201.176:5140
 杭州5青少,http://m.951688.xyz:4102/udp/233.50.201.177:5140
 杭州导视,http://m.951688.xyz:4102/rtp/233.50.201.182:5140
+宁波TV1,http://m.951688.xyz:4102/udp/233.50.201.168:5140
+宁波TV2,http://m.951688.xyz:4102/udp/233.50.201.178:5140
+宁波TV3,http://m.951688.xyz:4102/udp/233.50.201.179:5140
+宁波TV4,http://m.951688.xyz:4102/udp/233.50.201.180:5140
+宁波TV5,http://m.951688.xyz:4102/udp/233.50.201.181:5140
+温州新闻,http://m.951688.xyz:4102/udp/233.50.201.87:5140
+衢州新闻,http://m.951688.xyz:4102/udp/233.50.201.155:5140
+绍兴新闻,http://m.951688.xyz:4102/udp/233.50.201.156:5140
+台州-1,http://m.951688.xyz:4102/udp/233.50.201.157:5140
+湖州公共,http://m.951688.xyz:4102/udp/233.50.201.158:5140
+金华新闻,http://m.951688.xyz:4102/udp/233.50.201.161:5140
+丽水新闻,http://m.951688.xyz:4102/udp/233.50.201.162:5140
+嘉兴新闻,http://m.951688.xyz:4102/udp/233.50.201.163:5140
 
-🌄浙江地方,#genre#
+🌄浙江小地方,#genre#
 萧山综合频道,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
 萧山生活频道,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
 余杭新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
@@ -136,6 +149,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 开化国家公园频道,http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8
 衢江新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8
 平湖新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8
+桐乡新闻,http://m.951688.xyz:4102/udp/233.50.201.169:5140
 青田电视台,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 遂昌新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
 松阳新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8
