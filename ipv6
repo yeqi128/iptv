@@ -193,7 +193,7 @@ CCTV 央视台球,http://10.0.0.7:5050/tptv/G_TAIQIU-CQ?type=proxy
 CCTV 高尔夫·网球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807743b61bb/1.m3u8?m3u8_level=2
 CCTV 高尔夫·网球,http://10.0.0.7:5050/ysp/cctv-gaoerfuwangqiu
 CCTV 高尔夫·网球,http://10.0.0.7:5050/tptv/G_CCTV-GOLF-CQ?type=proxy
-快乐垂钓,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638729b6002c4/index.m3u8?m3u8_level=2
+快乐垂钓,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031206/1.m3u8
 快乐垂钓,http://10.0.0.7:5050/itv/bestzb/5000000011000031206
 快乐垂钓(yq专用),http://10.0.0.2:4102/udp/233.50.201.109:5140
 超级体育,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
