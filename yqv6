@@ -215,6 +215,9 @@ BesTV 𝟞,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000029/
 BesTV 𝟟,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000030/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000
 
 📽NewTV频道,#genre#
+CHC影迷电影,https://pi.0472.org/chc/ym.m3u8
+CHC动作电影,https://pi.0472.org/chc/dz.m3u8
+CHC家庭影院,https://pi.0472.org/chc/jt.m3u8
 黑莓电影,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 黑莓电影,http://[2409:8087:1a0a:df::4008]/wh7f454c46tw2787459728_452360178/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8?icpid=88888888&RTS=1713110623&from=4&hms_devid=156&online=1713110623&vqe=3
 黑莓电影,http://[2409:8087:1a0b:df::4014]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
