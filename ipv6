@@ -250,6 +250,9 @@ CCTV 4k,http://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024081302.m3u8?key=txiptv&playliv
 咪咕易视腾-6,http://10.0.0.7:35455/itv/1000000006000270006.m3u8?cdn=ystenlive
 
 📽NewTV频道,#genre#
+CHC影迷电影,https://pi.0472.org/chc/ym.m3u8
+CHC动作电影,https://pi.0472.org/chc/dz.m3u8
+CHC家庭影院,https://pi.0472.org/chc/jt.m3u8
 黑莓电影,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 黑莓电影,http://[2409:8087:1a0a:df::4008]/wh7f454c46tw2787459728_452360178/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8?icpid=88888888&RTS=1713110623&from=4&hms_devid=156&online=1713110623&vqe=3
 黑莓电影,http://[2409:8087:1a0b:df::4014]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
