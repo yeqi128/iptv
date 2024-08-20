@@ -156,7 +156,6 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 普陀电视台,http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
 
 🏃体育频道,#genre#
-巴黎奥运开幕式,https://res.cctvnews.cctv.com/video/3005/record/cctv/merge12/126662925810848154051013005/aa9f232ba4be4c49921baae0c27194dd-4.m3u8
 CCTV 5,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 CCTV 5,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 CCTV 5,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000004794/1.m3u8
@@ -181,7 +180,7 @@ CCTV 风云足球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638
 
 📡4K咪咕,#genre#
 CCTV 16 4K,http://m.951688.xyz:5050/itv/bestzb/5000000008000023254
-CCTV 16 4k,http://m.951688.xyz:4102/udp/233.50.201.63:5140
+CCTV 16 4K,http://m.951688.xyz:4102/udp/233.50.201.63:5140
 CCTV 4k,http://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024081302.m3u8?key=txiptv&playlive=1&authid=0
 华数 4K,http://m.951688.xyz:5050/itv/wasusyt/6000000003000004748
 纯享 4K,http://m.951688.xyz:5050/itv/ystenlive/1000000004000011651
@@ -206,13 +205,6 @@ CCTV 4k,http://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024081302.m3u8?key=txiptv&playliv
 咪咕直播-054,http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
 咪咕直播-055,http://[2409:8087:1a01:df::402a]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
 咪咕直播-056,http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
-BesTV 𝟙,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000024/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000024&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-BesTV 𝟚,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000025/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000025&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-BesTV 𝟛,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000026/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000026&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-BesTV 𝟜,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000027/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000027&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-BesTV 𝟝,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000028/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000028&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-BesTV 𝟞,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000029/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000029&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-BesTV 𝟟,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000030/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000
 
 📽NewTV频道,#genre#
 CHC影迷电影,https://pi.0472.org/chc/ym.m3u8
