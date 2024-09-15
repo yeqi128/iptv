@@ -169,17 +169,17 @@ CCTV 16,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 CCTV 16,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000233001/1.m3u8
 CCTV 16,http://10.0.0.7:5050/ysp/cctv16
 CCTV 16,http://10.0.0.2:4102/udp/233.50.201.192:5140
+CCTV 央视台球,http://10.0.0.7:5050/tptv/G_TAIQIU-CQ?type=proxy
 CCTV 央视台球,http://10.0.0.7:5050/ysp/cctv-yangshitaiqiu
-CCTV 央视台球,http://10.0.0.7:5050/tptv/G_TAIQIU-CQ?type=proxy&server=10.0.0.7:8000
+CCTV 高尔夫·网球,http://10.0.0.7:5050/tptv/G_CCTV-GOLF-CQ?type=proxy
 CCTV 高尔夫·网球,http://10.0.0.7:5050/ysp/cctv-gaoerfuwangqiu
-CCTV 高尔夫·网球,http://10.0.0.7:5050/tptv/G_CCTV-GOLF-CQ?type=proxy&server=10.0.0.7:8000 
 快乐垂钓,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031206/1.m3u8    
 快乐垂钓,http://10.0.0.7:5050/itv/bestzb/5000000011000031206?server=10.0.0.7:8000
 快乐垂钓,http://10.0.0.2:4102/udp/233.50.201.109:5140  
 超级体育,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 精品体育,http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
+CCTV 风云足球,http://10.0.0.7:5050/tptv/G_FENGSHANGZQ-CQ?type=proxy
 CCTV 风云足球,http://10.0.0.7:5050/ysp/cctv-fengyunzuqiu
-CCTV 风云足球,http://10.0.0.7:5050/tptv/G_FENGSHANGZQ-CQ?type=proxy&server=10.0.0.7:8000
 CCTV 风云足球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077160c04a/1.m3u8?m3u8_level=2
 
 📡4K咪咕,#genre#
