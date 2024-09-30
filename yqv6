@@ -3,10 +3,10 @@ CCTV-1,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 CCTV-1,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
 CCTV-1,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010011/1.m3u8
 CCTV-1,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010011/index.m3u8
-CCTV-2,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8  
-CCTV-2,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 CCTV-2,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225588/index.m3u8
 CCTV-2,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010211/1.m3u8
+CCTV-2,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225588/index.m3u8
+CCTV-2,http://106.59.3.147:55555/rtp/239.200.200.104:8084
 CCTV-3,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 CCTV-3,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 CCTV-3,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226021/index.m3u8
@@ -382,7 +382,7 @@ CHC动作电影,http://[2001:250:5800:1005::155]:80/liverespath/e0096742f0c5be4c
 CHC家庭影院,http://[2001:250:5800:1005::155]:80/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/index.m3u8
 轮播电影1,http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
 轮播电影2,http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
-轮播电影3,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=99705a1921ddd49fb7079a02f02bedc4&token=cpn-androidmpro-0-20415-b6774b3b3249db17d8beee6676fdf877fe8b1576307ef8e6&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
+轮播电影3,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=99705a1921ddd49fb7079a02f02bedc4&token=cpn-androidmpro-0-20415-b6774b3b3249db17d8beee6676fdf877fe8b1576307ef8e6&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p  
 大吉大利影院,https://pull.kktv8.com/livekktv/128600025.flv
 吃米滴虫,http://159.75.85.63:35455/douyu/315457
 冰冰经典,http://159.75.85.63:35455/douyu/74374
@@ -421,10 +421,6 @@ CHC家庭影院,http://[2001:250:5800:1005::155]:80/liverespath/449d51febadb1520
 电影_黑帮斗争,http://cfss.cc/cdn/hy/11342419.flv
 电影_镖行天下,http://cfss.cc/cdn/hy/11352969.flv
 电影_高能反转,http://cfss.cc/cdn/hy/11352887.flv
-斗鱼频道,http://zzy789.xyz/douyu1.php?id=8770422
-斗鱼频道,http://zzy789.xyz/douyu1.php?id=218859
-斗鱼频道,http://zzy789.xyz/douyu1.php?id=9292492
-
 电影_沈腾,http://cfss.cc/cdn/hy/11601968.flv
 电影_黄渤,http://cfss.cc/cdn/hy/11352876.flv
 电影_怪兽,http://cfss.cc/cdn/hy/21059577.flv
@@ -452,7 +448,6 @@ CHC家庭影院,http://[2001:250:5800:1005::155]:80/liverespath/449d51febadb1520
 电影_搞笑恐怖,http://live.metshop.top/huya/11601960?cdn=alicdn
 电影_死神来了,http://live.metshop.top/huya/11352903?cdn=alicdn
 电影_变形金刚,http://live.metshop.top/huya/21059596?cdn=alicdn
-搞笑_陈翔六点半,http://live.metshop.top/huya/11274154?cdn=alicdn
 电影_星爷,http://cfss.cc/cdn/hy/11342412.flv
 电影_英叔,http://cfss.cc/cdn/hy/11342421.flv
 电影_发哥,http://cfss.cc/cdn/hy/11342387.flv
@@ -513,14 +508,11 @@ CHC家庭影院,http://[2001:250:5800:1005::155]:80/liverespath/449d51febadb1520
 电影_死神来了,http://cfss.cc/cdn/hy/11352903.flv
 电影_变形金刚,http://cfss.cc/cdn/hy/21059596.flv
 电影_怪兽系列,http://cfss.cc/cdn/hy/21059554.flv
-搞笑_陈翔六点半,http://cfss.cc/cdn/hy/11274154.flv
-神乐-1台,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
-神乐-2台,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
 1905国内电影,http://ygbh.live/1905.php?id=1905a
 1905国内电影,http://php.jdshipin.com:8880/1905.php?id=1905dy
 1905国外电影,http://ygbh.live/1905.php?id=1905b
 重温经典,http://mtw.so/5NPX0U
-重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv 
 
 🏃裸眼看3D,#genre#
 变形金刚1,https://vd3.bdstatic.com/mda-khb9j4g6c25biyqj/v1-cae/1080p/mda-khb9j4g6c25biyqj.mp4
