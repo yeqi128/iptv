@@ -224,7 +224,9 @@ CCTV 风云足球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638
 📡4K咪咕,#genre#
 CCTV 16 4K,http://m.951688.xyz:5050/itv/bestzb/5000000008000023254
 CCTV 16 4K,http://m.951688.xyz:4102/udp/233.50.201.63:5140
-CCTV 4k,http://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024081302.m3u8?key=txiptv&playlive=1&authid=0
+CCTV 4K,http://m.951688.xyz:35455/ysptp/cctv4k_10m.m3u8
+CCTV 4K,http://m.951688.xyz:35455/ysptp/cctv4k.m3u8
+CCTV 4K,http://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024081302.m3u8?key=txiptv&playlive=1&authid=0
 华数 4K,http://m.951688.xyz:5050/itv/wasusyt/6000000003000004748
 纯享 4K,http://m.951688.xyz:5050/itv/ystenlive/1000000004000011651
 咪咕4K 1,http://m.951688.xyz:5050/itv/FifastbLive/3000000010000005180
