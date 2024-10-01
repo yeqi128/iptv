@@ -387,42 +387,61 @@ NewTV 古装剧场,http://[2409:8087:1a0a:df::4018]/wh7f454c46tw2831582911_-9431
 热播精选,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
 
 求索·iHOT,#genre#
-求索动物,http://10.0.0.7:5050/itv/wasusyt/6000000002000010046?server=10.0.0.7:8000
-求索纪录,http://10.0.0.7:5050/itv/wasusyt/6000000002000032052?server=10.0.0.7:8000
-求索科学,http://10.0.0.7:5050/itv/wasusyt/6000000002000032344?server=10.0.0.7:8000
-求索生活,http://10.0.0.7:5050/itv/wasusyt/6000000002000003382?server=10.0.0.7:8000  
-SiTV 动漫秀场,http://10.0.0.7:5050/itv/bestzb/5000000011000031113?server=10.0.0.7:8000
-SiTV 都市剧场,http://10.0.0.7:5050/itv/bestzb/5000000011000031111?server=10.0.0.7:8000
-SiTV 法治天地,http://10.0.0.7:5050/itv/bestzb/9001547084732463424?server=10.0.0.7:8000
-SiTV 欢笑剧场,http://10.0.0.7:5050/itv/bestzb/5000000002000009455?server=10.0.0.7:8000
-SiTV 欢笑剧场-4K,http://10.0.0.7:5050/itv/bestzb/5000000007000010001?server=10.0.0.7:8000
-SiTV 金色学堂,http://10.0.0.7:5050/itv/bestzb/5000000010000026105?server=10.0.0.7:8000
-SiTV 劲爆体育,http://10.0.0.7:5050/itv/bestzb/5000000002000029972?server=10.0.0.7:8000
-SiTV 乐游,http://10.0.0.7:5050/itv/bestzb/5000000011000031112?server=10.0.0.7:8000
-SiTV 魅力足球,http://10.0.0.7:5050/itv/bestzb/5000000011000031207?server=10.0.0.7:8000
-SiTV 七彩戏剧,http://10.0.0.7:5050/itv/bestzb/5000000011000031116?server=10.0.0.7:8000
-SiTV 生活时尚,http://10.0.0.7:5050/itv/bestzb/5000000002000019634?server=10.0.0.7:8000
-SiTV 游戏风云,http://10.0.0.7:5050/itv/bestzb/5000000011000031114?server=10.0.0.7:8000
-iHOT 爱电竞,http://10.0.0.7:5050/itv/wasusyt/6000000006000230630?server=10.0.0.7:8000
-iHOT 爱谍战,http://10.0.0.7:5050/itv/wasusyt/6000000006000070630?server=10.0.0.7:8000
-iHOT 爱动漫,http://10.0.0.7:5050/itv/wasusyt/6000000006000280630?server=10.0.0.7:8000
-iHOT 爱都市,http://10.0.0.7:5050/itv/wasusyt/6000000006000080630?server=10.0.0.7:8000
-iHOT 爱怀旧,http://10.0.0.7:5050/itv/wasusyt/6000000006000260630?server=10.0.0.7:8000
-iHOT 爱经典,http://10.0.0.7:5050/itv/wasusyt/6000000006000060630?server=10.0.0.7:8000
-iHOT 爱科幻,http://10.0.0.7:5050/itv/wasusyt/6000000006000020630?server=10.0.0.7:8000
-iHOT 爱科学,http://10.0.0.7:5050/itv/wasusyt/6000000006000160630?server=10.0.0.7:8000
-iHOT 爱浪漫,http://10.0.0.7:5050/itv/wasusyt/6000000006000040630?server=10.0.0.7:8000  
-iHOT 爱历史,http://10.0.0.7:5050/itv/wasusyt/6000000006000150630?server=10.0.0.7:8000
-iHOT 爱旅行,http://10.0.0.7:5050/itv/wasusyt/6000000006000250630?server=10.0.0.7:8000
-iHOT 爱奇谈,http://10.0.0.7:5050/itv/wasusyt/6000000006000270630?server=10.0.0.7:8000
-iHOT 爱青春,http://10.0.0.7:5050/itv/wasusyt/6000000006000100630?server=10.0.0.7:8000
-iHOT 爱赛车,http://10.0.0.7:5050/itv/wasusyt/6000000006000240630?server=10.0.0.7:8000
-iHOT 爱体育,http://10.0.0.7:5050/itv/wasusyt/6000000006000290630?server=10.0.0.7:8000
-iHOT 爱玩具,http://10.0.0.7:5050/itv/wasusyt/6000000006000220630?server=10.0.0.7:8000
-iHOT 爱喜剧,http://10.0.0.7:5050/itv/wasusyt/6000000006000010630?server=10.0.0.7:8000
-iHOT 爱悬疑,http://10.0.0.7:5050/itv/wasusyt/6000000006000050630?server=10.0.0.7:8000
-iHOT 爱幼教,http://10.0.0.7:5050/itv/wasusyt/6000000006000180630?server=10.0.0.7:8000
-iHOT 爱院线,http://10.0.0.7:5050/itv/wasusyt/6000000006000030630?server=10.0.0.7:8000
+求索动物,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281
+求索动物,http://10.0.0.7:5050/itv/wasusyt/6000000002000010046
+求索纪录,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=OTT19019320240419154124000281
+求索纪录,http://10.0.0.7:5050/itv/wasusyt/6000000002000032052
+求索科学,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281
+求索科学,http://10.0.0.7:5050/itv/wasusyt/6000000002000032344
+求索生活,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281
+求索生活,http://10.0.0.7:5050/itv/wasusyt/6000000002000003382
+SiTV 动漫秀场,http://10.0.0.7:5050/itv/bestzb/5000000011000031113
+SiTV 都市剧场,http://10.0.0.7:5050/itv/bestzb/5000000011000031111
+SiTV 法治天地,http://10.0.0.7:5050/itv/bestzb/9001547084732463424
+SiTV 欢笑剧场,http://10.0.0.7:5050/itv/bestzb/5000000002000009455
+SiTV 欢笑剧场-4K,http://10.0.0.7:5050/itv/bestzb/5000000007000010001
+SiTV 金色学堂,http://10.0.0.7:5050/itv/bestzb/5000000010000026105
+SiTV 劲爆体育,http://10.0.0.7:5050/itv/bestzb/5000000002000029972
+SiTV 乐游,http://10.0.0.7:5050/itv/bestzb/5000000011000031112
+SiTV 魅力足球,http://10.0.0.7:5050/itv/bestzb/5000000011000031207
+SiTV 七彩戏剧,http://10.0.0.7:5050/itv/bestzb/5000000011000031116
+SiTV 生活时尚,http://10.0.0.7:5050/itv/bestzb/5000000002000019634
+SiTV 游戏风云,http://10.0.0.7:5050/itv/bestzb/5000000011000031114
+iHOT 爱电竞,http://10.0.0.7:5050/itv/wasusyt/6000000006000230630
+iHOT 爱谍战,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000038/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000038&IASHttpSessionId=OTT19019320240419154124000281
+iHOT 爱谍战,http://10.0.0.7:5050/itv/wasusyt/6000000006000070630
+iHOT 爱动漫,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&IASHttpSessionId=OTT19019320240419154124000281
+iHOT 爱动漫,http://10.0.0.7:5050/itv/wasusyt/6000000006000280630
+iHOT 爱都市,http://10.0.0.7:5050/itv/wasusyt/6000000006000080630
+iHOT 爱怀旧,http://10.0.0.7.951688.xyz:5050/itv/wasusyt/6000000006000260630
+iHOT 爱经典,http://10.0.0.7:5050/itv/wasusyt/6000000006000060630
+iHOT 爱科幻,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000033/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000033&IASHttpSessionId=OTT19019320240419154124000281
+iHOT 爱科幻,http://10.0.0.7:5050/itv/wasusyt/6000000006000020630
+iHOT 爱科学,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000047/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000047&IASHttpSessionId=OTT19019320240419154124000281
+iHOT 爱科学,http://10.0.0.7:5050/itv/wasusyt/6000000006000160630
+iHOT 爱浪漫,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000035/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000035&IASHttpSessionId=OTT19019320240419154124000281
+iHOT 爱浪漫,http://10.0.0.7:5050/itv/wasusyt/6000000006000040630
+iHOT 爱历史,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000046/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000046&IASHttpSessionId=OTT19019320240419154124000281
+iHOT 爱历史,http://10.0.0.7:5050/itv/wasusyt/6000000006000150630
+iHOT 爱旅行,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000056/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000056&IASHttpSessionId=OTT19019320240419154124000281
+iHOT 爱旅行,http://10.0.0.7:5050/itv/wasusyt/6000000006000250630
+iHOT 爱奇谈,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000058/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000058&IASHttpSessionId=OTT19019320240419154124000281
+iHOT 爱奇谈,http://10.0.0.7:5050/itv/wasusyt/6000000006000270630
+iHOT 爱青春,http://m.951688.xyz:5050/itv/wasusyt/6000000006000100630
+iHOT 爱赛车,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000055/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000055&IASHttpSessionId=OTT19019320240419154124000281
+iHOT 爱赛车,http://10.0.0.7:5050/itv/wasusyt/6000000006000240630
+iHOT 爱体育,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000060/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000060&IASHttpSessionId=OTT19019320240419154124000281
+iHOT 爱体育,http://10.0.0.7:5050/itv/wasusyt/6000000006000290630
+iHOT 爱玩具,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000053/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000053&IASHttpSessionId=OTT19019320240419154124000281
+iHOT 爱玩具,http://10.0.0.7z:5050/itv/wasusyt/6000000006000220630
+iHOT 爱喜剧,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000032/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000032&IASHttpSessionId=OTT19019320240419154124000281
+iHOT 爱喜剧,http://10.0.0.7:5050/itv/wasusyt/6000000006000010630
+iHOT 爱悬疑,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000036/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000036&IASHttpSessionId=OTT19019320240419154124000281
+iHOT 爱悬疑,http://10.0.0.7:5050/itv/wasusyt/6000000006000050630
+iHOT 爱幼教,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000049/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000049&IASHttpSessionId=OTT19019320240419154124000281
+iHOT 爱幼教,http://10.0.0.7:5050/itv/wasusyt/6000000006000180630
+iHOT 爱院线,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000034/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000034&IASHttpSessionId=OTT19019320240419154124000281
+iHOT 爱院线,http://10.0.0.7:5050/itv/wasusyt/6000000006000030630
 
 ▶️电影轮播,#genre#
 动作电影,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
