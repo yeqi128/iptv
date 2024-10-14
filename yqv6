@@ -228,29 +228,45 @@ CCTV 16,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 CCTV 16,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000233001/1.m3u8
 CCTV 16,http://m.951688.xyz:4102/udp/233.50.201.192:51
 CCTV 央视台球,http://m.951688.xyz:5050/ysp/cctv-yangshitaiqiu
+CCTV 央视台球,http://m.951688.xyz:35455/tptv/G_TAIQIU-CQ.m3u8
 CCTV 央视台球,http://42.48.17.204:808/hls/108/index.m3u8?server=m.951688.xyz:8000
 CCTV 央视台球,http://m.951688.xyz:5050/tptv/G_TAIQIU-CQ?type=proxy
 CCTV 高尔夫·网球,http://m.951688.xyz:5050/ysp/cctv-gaoerfuwangqiu
+CCTV 高尔夫·网球,http://m.951688.xyz:35455/tptv/G_CCTV-GOLF-CQ.m3u8
 CCTV 高尔夫·网球,http://m.951688.xyz:5050/tptv/G_CCTV-GOLF-CQ?type=proxy
-CCTV 高尔夫·网球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807743b61bb/1.m3u8?m3u8_level=2
 快乐垂钓,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031206/1.m3u8
 快乐垂钓,http://m.951688.xyz:4102/udp/233.50.201.109:5140
 超级体育,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 精品体育,http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 CCTV 风云足球,http://m.951688.xyz:5050/ysp/cctv-fengyunzuqiu
+CCTV 风云足球,http://m.951688.xyz:35455/tptv/G_FENGSHANGZQ-CQ.m3u8
 CCTV 风云足球,http://m.951688.xyz:5050/tptv/G_FENGSHANGZQ-CQ?type=proxy
-CCTV 风云足球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077160c04a/1.m3u8?m3u8_level=2
 
-📡4K咪咕,#genre#
+📡4K频道,#genre#
+CCTV1-4K,http://m.951688.xyz:35455/tptv/G_CCTV-1-AVS-4K264.m3u8
+CCTV3-4K,http://m.951688.xyz:35455/tptv/G_CCTV-3-AVS-4K264.m3u8
+CCTV5-4K,http://m.951688.xyz:35455/tptv/G_CCTV-5-AVS-4K264.m3u8
 CCTV 16 4K,http://m.951688.xyz:5050/itv/bestzb/5000000008000023254
 CCTV 16 4K,http://m.951688.xyz:4102/udp/233.50.201.63:5140
-CCTV 4K,http://m.951688.xyz:35455/ysptp/cctv4k_10m.m3u8
-CCTV 4K,http://m.951688.xyz:35455/ysptp/cctv4k.m3u8
+CCTV 4K,http://m.951688.xyz:35455/tptv/G_CCTV-4K-HD.m3u8
+CCTV 4K,http://m.951688.xyz:5050/ysp/cctv4k
 CCTV 4K,http://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024081302.m3u8?key=txiptv&playlive=1&authid=0
 华数 4K,http://m.951688.xyz:5050/itv/wasusyt/6000000003000004748
+华数 4K,http://m.951688.xyz:35455/itv/6000000003000004748.m3u8?cdn=wasusyt 
 纯享 4K,http://m.951688.xyz:5050/itv/ystenlive/1000000004000011651
+纯享 4K,http://m.951688.xyz:35455/itv/1000000004000011651.m3u8?cdn=ystenlive
+江苏 4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+咪咕4K 1,http://m.951688.xyz:35455/itv/3000000010000005180.m3u8?cdn=FifastbLive
 咪咕4K 1,http://m.951688.xyz:5050/itv/FifastbLive/3000000010000005180
+咪咕4K 2,http://m.951688.xyz:35455/itv/3000000010000015686.m3u8?cdn=FifastbLive
 咪咕4K 2,http://m.951688.xyz:5050/itv/FifastbLive/3000000010000015686
+Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+Loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+篮球4K,http://m.951688.xyz:35455/tptv/miguaoyun01-AVS-4K01.m3u8
+SiTV-欢笑剧场-4K,http://m.951688.xyz:35455/itv/5000000007000010001.m3u8?cdn=bestzb
+
+咪咕频道,#genre#
 咪咕·乒乓球,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
 咪咕·篮球,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 咪咕·足球,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
