@@ -153,10 +153,15 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 浙江少儿,http://10.0.0.2:4102/udp/233.50.201.138:5140
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+杭州1综合,http://rihou.cc:567/dd.php?id=hzzh
 杭州1综合,http://10.0.0.2:4102/udp/233.50.201.173:5140
+杭州2明珠,http://rihou.cc:567/dd.php?id=hzmz
 杭州2明珠,http://10.0.0.2:4102/udp/233.50.201.174:5140
+杭州3生活,http://rihou.cc:567/dd.php?id=hzsh
 杭州3生活,http://10.0.0.2:4102/udp/233.50.201.175:5140
+杭州4影视,http://rihou.cc:567/dd.php?id=hzys
 杭州4影视,http://10.0.0.2:4102/udp/233.50.201.176:5140
+杭州5青少,http://rihou.cc:567/dd.php?id=hzse
 杭州5青少,http://10.0.0.2:4102/udp/233.50.201.177:5140
 杭州导视,http://10.0.0.2:4102/rtp/233.50.201.182:5140
 宁波TV1,http://10.0.0.2:4102/udp/233.50.201.168:5140
@@ -237,6 +242,7 @@ CCTV 央视台球,http://10.0.0.7:5050/tptv/G_TAIQIU-CQ?type=proxy
 CCTV 高尔夫·网球,http://10.0.0.7:5050/ysp/cctv-gaoerfuwangqiu
 CCTV 高尔夫·网球,http://10.0.0.7:35455/tptv/G_CCTV-GOLF-CQ.m3u8
 CCTV 高尔夫·网球,http://[2409:8087:74F1:0021::0008]/270000001128/9900000094/index.m3u8
+四海钓鱼咪咕,http://rihou.cc:567/dd.php?id=shdy
 快乐垂钓,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031206/1.m3u8    
 快乐垂钓,http://10.0.0.7:5050/itv/bestzb/5000000011000031206?server=10.0.0.7:8000
 快乐垂钓,http://10.0.0.2:4102/udp/233.50.201.109:5140  
@@ -487,7 +493,9 @@ iHOT 爱院线,http://10.0.0.7:5050/itv/wasusyt/6000000006000030630
 动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 CHC影迷电影,http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604315487&srchost=172.16.22.158:8060&gid=QTVto%2BZu6pkkcNYy4OxcMg%3D%3D
 CHC动作电影,http://cg0.hunancatv.cn:9090/live/CHCDZDY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316076&srchost=172.16.22.158:8060&gid=ZF3q5L%2FmYWch1qWqTIPAjw%3D%3D
+CHC动作电影,http://rihou.cc:567/dd.php?id=chcdz
 CHC家庭影院,http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316833&srchost=172.16.22.158:8060&gid=c%2BNqgq8pR1ZQ7ZzcmkS8%2BQ%3D%3D
+CHC家庭影院,http://rihou.cc:567/dd.php?id=chcjt
 轮播电影1,http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
 轮播电影2,http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
 轮播电影3,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=99705a1921ddd49fb7079a02f02bedc4&token=cpn-androidmpro-0-20415-b6774b3b3249db17d8beee6676fdf877fe8b1576307ef8e6&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p  
@@ -528,26 +536,38 @@ CHC家庭影院,http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=86
 电影_洪金宝,http://cfss.cc/cdn/hy/11279251.flv
 电影_许冠英,http://cfss.cc/cdn/hy/11601972.flv
 电影_刘德华,http://cfss.cc/cdn/hy/11342424.flv
+国语译制电影,http://cfss.cc/cdn/dyu/2436390.m3u8
+第一滴血全集,http://mitv.ts138.top/yy/1354932355
 第一滴血全集,http://cfss.cc/cdn/yy/1354932355.m3u8
 第一滴血全集,http://maomao.kandiantv.cn/yy.php?id=1354932355
+敢死队全轮播,http://mitv.ts138.top/yy/1382735573
 敢死队全轮播,http://cfss.cc/cdn/yy/1382735573.m3u8
 敢死队全轮播,http://maomao.kandiantv.cn/yy.php?id=1382735573
-速度与激情轮,http://cfss.cc/cdn/yy/1382736911.m3u8
-速度与激情轮,http://maomao.kandiantv.cn/yy.php?id=1382736911
+速度与激情集,http://mitv.ts138.top/yy/1382736911
+速度与激情集,http://cfss.cc/cdn/yy/1382736911.m3u8
+速度与激情集,http://maomao.kandiantv.cn/yy.php?id=1382736911
+漫威系列轮播,http://mitv.ts138.top/yy/1354932402
 漫威系列轮播,http://cfss.cc/cdn/yy/1354932402.m3u8
 漫威系列轮播,http://maomao.kandiantv.cn/yy.php?id=1354932402
+变形金刚轮播,http://mitv.ts138.top/yy/1382736803
 变形金刚轮播,http://cfss.cc/cdn/yy/1382736803.m3u8
 变形金刚轮播,http://maomao.kandiantv.cn/yy.php?id=1382736803
+哈利波特全集,http://mitv.ts138.top/yy/1382745105
 哈利波特全集,http://cfss.cc/cdn/yy/1382745105.m3u8
 哈利波特全集,http://maomao.kandiantv.cn/yy.php?id=1382745105
+夺宝奇兵全集,http://mitv.ts138.top/yy/1382736833
 夺宝奇兵全集,http://cfss.cc/cdn/yy/1382736833.m3u8
 夺宝奇兵全集,http://maomao.kandiantv.cn/yy.php?id=1382736833
+机械战警全集,http://mitv.ts138.top/yy/1382736854
 机械战警全集,http://cfss.cc/cdn/yy/1382736854.m3u8
 机械战警全集,http://maomao.kandiantv.cn/yy.php?id=1382736854
+古惑仔国轮播,http://mitv.ts138.top/yy/1458015189
 古惑仔国轮播,http://cfss.cc/cdn/yy/1458015189.m3u8
 古惑仔国轮播,http://maomao.kandiantv.cn/yy.php?id=1458015189
+黑衣一二轮播,http://mitv.ts138.top/yy/1354930936
 黑衣一二轮播,http://cfss.cc/cdn/yy/1354930936.m3u8
 黑衣一二轮播,http://maomao.kandiantv.cn/yy.php?id=1354930936
+叠影重重全集,http://mitv.ts138.top/yy/1382735570
 叠影重重全集,http://cfss.cc/cdn/yy/1382735570.m3u8
 叠影重重全集,http://maomao.kandiantv.cn/yy.php?id=1382735570
 重温经典,http://mtw.so/5NPX0U
