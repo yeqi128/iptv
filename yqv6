@@ -154,15 +154,15 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 中国蓝新闻,http://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-杭州1综合,http://rihou.cc:567/47193.php?id=hzzh
+杭州1综合,http://rihou.cc:567/53057.php?id=hzzh
 杭州1综合,http://m.951688.xyz:4102/udp/233.50.201.173:5140
-杭州2明珠,http://rihou.cc:567/47193.php?id=hzmz
+杭州2明珠,http://rihou.cc:567/53057.php?id=hzmz
 杭州2明珠,http://m.951688.xyz:4102/udp/233.50.201.174:5140
-杭州3生活,http://rihou.cc:567/47193.php?id=hzsh
+杭州3生活,http://rihou.cc:567/53057.php?id=hzsh
 杭州3生活,http://m.951688.xyz:4102/udp/233.50.201.175:5140
-杭州4影视,http://rihou.cc:567/47193.php?id=hzys
+杭州4影视,http://rihou.cc:567/53057.php?id=hzys
 杭州4影视,http://m.951688.xyz:4102/udp/233.50.201.176:5140
-杭州5青少,http://rihou.cc:567/47193.php?id=hzse
+杭州5青少,http://rihou.cc:567/53057.php?id=hzse
 杭州5青少,http://m.951688.xyz:4102/udp/233.50.201.177:5140
 杭州导视,http://m.951688.xyz:4102/rtp/233.50.201.182:5140
 宁波TV1,http://m.951688.xyz:4102/udp/233.50.201.168:5140
@@ -239,7 +239,7 @@ CCTV 央视台球,http://m.951688.xyz:5050/tptv/G_TAIQIU-CQ?type=proxy
 CCTV 高尔夫·网球,http://m.951688.xyz:5050/ysp/cctv-gaoerfuwangqiu
 CCTV 高尔夫·网球,http://m.951688.xyz:35455/tptv/G_CCTV-GOLF-CQ.m3u8
 CCTV 高尔夫·网球,http://m.951688.xyz:5050/tptv/G_CCTV-GOLF-CQ?type=proxy
-四海钓鱼,http://rihou.cc:567/47193.php?id=shdy
+四海钓鱼,http://rihou.cc:567/53057.php?id=shdy
 四海钓鱼,http://183.191.38.205:8002/rtp/226.0.2.123:8896
 四海钓鱼,http://60.7.56.22:4000/rtp/239.253.93.243:6421
 快乐垂钓,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031206/1.m3u8
