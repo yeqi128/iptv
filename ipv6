@@ -435,12 +435,16 @@ NewTV 古装剧场,http://[2409:8087:1a0a:df::4018]/wh7f454c46tw2831582911_-9431
 热播精选,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
 
 求索·iHOT,#genre#
+求索动物,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281
 求索动物,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281
 求索动物,http://10.0.0.7:5050/itv/wasusyt/6000000002000010046
+求索纪录,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=OTT19019320240419154124000281
 求索纪录,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=OTT19019320240419154124000281
 求索纪录,http://10.0.0.7:5050/itv/wasusyt/6000000002000032052
+求索科学,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281
 求索科学,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281
 求索科学,http://10.0.0.7:5050/itv/wasusyt/6000000002000032344
+求索生活,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281
 求索生活,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281
 求索生活,http://10.0.0.7:5050/itv/wasusyt/6000000002000003382
 SiTV 动漫秀场,http://10.0.0.7:5050/itv/bestzb/5000000011000031113
@@ -523,6 +527,8 @@ CHC家庭影院,http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=86
 欧美大片,http://159.75.85.63:35455/douyu/2793084
 贝爷max,http://159.75.85.63:35455/douyu/4332
 贝爷影厅,http://maomao.kandiantv.cn/douyu1.php?id=252802
+漫威电影,http://jiaojirentv.top/2020/dy.php?id=6140589
+漫威电影,http://zzy789.xyz/douyu1.php?id=6140589
 电影_周星星,http://cfss.cc/cdn/hy/11336587.flv
 电影_梁家辉,http://cfss.cc/cdn/hy/11342429.flv
 电影_斯坦森,http://cfss.cc/cdn/hy/21059588.flv
@@ -563,6 +569,7 @@ CHC家庭影院,http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=86
 黑衣一二轮播,http://maomao.kandiantv.cn/yy.php?id=1354930936
 叠影重重全集,http://cfss.cc/cdn/yy/1382735570.m3u8
 叠影重重全集,http://maomao.kandiantv.cn/yy.php?id=1382735570
+1905电影网,http://php.jdshipin.com:8880/1905.php?id=1905dy
 重温经典,http://mtw.so/5NPX0U
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv 
 
