@@ -228,6 +228,7 @@ CCTV 16,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 CCTV 16,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000233001/1.m3u8
 CCTV 16,http://m.951688.xyz:4102/udp/233.50.201.192:51
 CCTV 央视台球,http://m.951688.xyz:5050/ysp/cctv-yangshitaiqiu
+CCTV 央视台球,http://223.145.224.174:8000/udp/239.76.254.58:9000
 CCTV 央视台球,http://m.951688.xyz:35455/tptv/G_TAIQIU-CQ.m3u8
 CCTV 央视台球,http://42.48.17.204:808/hls/108/index.m3u8?server=m.951688.xyz:8000
 CCTV 央视台球,http://m.951688.xyz:5050/tptv/G_TAIQIU-CQ?type=proxy
