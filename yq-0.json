@@ -1,0 +1,73 @@
+{
+    "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
+    "lives": [
+        {
+            "name": "yq",
+            "type": 0,
+            "url": "https://github.yeqi.tk/raw.githubusercontent.com/yeqi128/iptv/refs/heads/main/ipv6",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png",
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+        },
+{
+    "sites": [
+        {
+            "ext": "eyJhcGkiOiJodHRwOi8vMTAuMC4wLjc6NDU2NyIsInRva2VuIjoiIn0=",
+            "filterable": 1,
+            "quickSearch": 1,
+            "name": "丫仙女",
+            "changeable": 0,
+            "jar": "http://10.0.0.7:4567/spring.jar",
+            "api": "csp_XiaoYa",
+            "type": 3,
+            "key": "csp_XiaoYa",
+            "searchable": 1
+        },
+        {
+            "ext": "eyJhcGkiOiJodHRwOi8vMTAuMC4wLjc6NDU2NyIsInRva2VuIjoiIn0=",
+            "filterable": 1,
+            "quickSearch": 1,
+            "name": "AList",
+            "changeable": 0,
+            "jar": "http://10.0.0.7:4567/spring.jar",
+            "api": "csp_AList",
+            "type": 3,
+            "key": "csp_AList",
+            "searchable": 1
+        },
+        {
+            "ext": "eyJhcGkiOiJodHRwOi8vMTAuMC4wLjc6NDU2NyIsInRva2VuIjoiIn0=",
+            "filterable": 1,
+            "quickSearch": 1,
+            "name": "BiliBili",
+            "changeable": 0,
+            "jar": "http://10.0.0.7:4567/spring.jar",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "api": "csp_BiliBili",
+            "type": 3,
+            "key": "csp_BiliBili",
+            "searchable": 1
+        },
+        {
+            "ext": "eyJhcGkiOiJodHRwOi8vMTAuMC4wLjc6NDU2NyIsInRva2VuIjoiIn0=",
+            "filterable": 1,
+            "quickSearch": 1,
+            "playerType": 2,
+            "name": "YouTube",
+            "changeable": 0,
+            "jar": "http://10.0.0.7:4567/spring.jar",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "api": "csp_Youtube",
+            "type": 3,
+            "key": "csp_Youtube",
+            "searchable": 1
+        }
+    ],
+    "rules": []
+}
