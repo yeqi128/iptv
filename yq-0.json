@@ -1,15 +1,4 @@
 {
-    "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-    "lives": [
-        {
-            "name": "yq",
-            "type": 0,
-            "url": "https://github.yeqi.tk/raw.githubusercontent.com/yeqi128/iptv/refs/heads/main/ipv6",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png",
-            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
-        },
-{
     "sites": [
         {
             "ext": "eyJhcGkiOiJodHRwOi8vMTAuMC4wLjc6NDU2NyIsInRva2VuIjoiIn0=",
@@ -70,4 +59,12 @@
         }
     ],
     "rules": []
-}
+},
+    {
+      "name": "TV",
+      "type": 0,
+      "url": "https://github.yeqi.tk/raw.githubusercontent.com/yeqi128/iptv/refs/heads/main/ipv6",
+      "playerType": 1
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    }
