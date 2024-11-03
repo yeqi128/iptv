@@ -232,12 +232,11 @@ CCTV 16,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888
 CCTV 16,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226413/index.m3u8
 CCTV 16,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000233001/1.m3u8
 CCTV 16,http://10.0.0.2:4102/udp/233.50.201.192:5140
-CCTV 央视台球,http://10.0.0.7:5050/ysp/cctv-yangshitaiqiu
-CCTV 央视台球,http://223.145.224.174:8000/udp/239.76.254.58:9000
+CCTV 央视台球,http://110.177.146.152:888/udp/239.1.1.100:8100
 CCTV 央视台球,http://221.196.136.66:1/udp/225.1.2.170:5002
 CCTV 央视台球,http://10.0.0.7:35455/tptv/G_TAIQIU-CQ.m3u8
-CCTV 央视台球,http://42.48.17.204:808/hls/108/index.m3u8?server=10.0.0.7:8000
-CCTV 央视台球,http://10.0.0.7:5050/tptv/G_TAIQIU-CQ?type=proxy
+CCTV 央视台球,http://10.0.0.7:5050/ysp/cctv-yangshitaiqiu
+CCTV 央视台球,http://www.furymax.top:85/rtp/239.69.1.98:10224
 CCTV 高尔夫·网球,http://[2409:8087:74d9:21::6]/270000001128/9900000094/index.m3u8
 CCTV 高尔夫·网球,http://10.0.0.7:5050/ysp/cctv-gaoerfuwangqiu
 四海钓鱼,http://221.196.136.66:1/udp/225.1.2.202:5002
