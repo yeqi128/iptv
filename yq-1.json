@@ -1,13 +1,8 @@
 {
-    "菜妮丝": "https://菜妮丝.top",
-    "ads": [
-        "mozai.4gtv.tv"
-    ],
-    "友情提醒": "接口完全免费，切勿付费购买。",
-    "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
+    "wallpaper": "https://深色壁纸.xxooo.cf/",
     "lives": [
         {
-            "name": "IPv6",
+            "name": "yq直播",
             "type": 0,
             "url": "https://github.yeqi.tk/raw.githubusercontent.com/yeqi128/iptv/refs/heads/main/ipv6",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -743,5 +738,6 @@
       "ext": {
         "json": "./lib/高中课堂.json"
       }
-    }
-  }
+    ],
+    "spider": "http://10.0.0.7:4567/tvbox/libs/xiaoya_proxy.jar;md5;00c03fd4718bee7cb6cb2f8d8df7c3fd"
+}
