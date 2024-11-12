@@ -252,24 +252,29 @@ CCTV 风云足球,http://10.0.0.7:5050/tptv/G_FENGSHANGZQ-CQ?type=proxy
 CCTV 风云足球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077160c04a/1.m3u8?m3u8_level=2
 
 📡4K频道,#genre#
-CCTV 16 4K,http://10.0.0.7:35455/ysptp/cctv4k16.m3u8
-CCTV 16 4K,http://10.0.0.2:4102/udp/233.50.201.63:5140
-CCTV 4K,http://10.0.0.7:35455/ysptp/cctv4k.m3u8
-CCTV 4K,http://10.0.0.7:5050/ysp/cctv4k
+华数 4K,http://[2409:8087:5e08:24::11]:6610/000000001000/6000000003000004748/1.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 华数 4K,http://10.0.0.7:35455/itv/6000000003000004748.m3u8?cdn=wasusyt 
+纯享 4K,http://[2409:8087:5e08:24::11]:6610/000000001000/1000000004000011651/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
 纯享 4K,http://10.0.0.7:35455/itv/1000000004000011651.m3u8?cdn=ystenlive
 江苏 4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+咪咕4K 1,http://[2409:8087:5e08:24::11]:6610/000000001000/3000000010000005180/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
 咪咕4K 1,http://10.0.0.7:35455/itv/3000000010000005180.m3u8?cdn=FifastbLive
+咪咕4K 2,http://[2409:8087:5e08:24::11]:6610/000000001000/3000000010000015686/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
 咪咕4K 2,http://10.0.0.7:35455/itv/3000000010000015686.m3u8?cdn=FifastbLive
 Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 SiTV-欢笑剧场-4K,http://10.0.0.7:35455/itv/5000000007000010001.m3u8?cdn=bestzb
+CCTV 16 4K,http://10.0.0.7:35455/ysptp/cctv4k16.m3u8
+CCTV 16 4K,http://10.0.0.2:4102/udp/233.50.201.63:5140
+CCTV 4K,http://10.0.0.7:35455/ysptp/cctv4k.m3u8
+CCTV 4K,http://10.0.0.7:5050/ysp/cctv4k
 
 咪咕频道,#genre#
 咪咕·乒乓球,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
 咪咕·篮球,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 咪咕·足球,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+咪咕·全民热练,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000003000000068/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000068&livemode=1&stbId=3
 咪咕·全民热练,http://[2409:8087:1a0a:df::4016]/wh7f454c46tw2835227593_1383660146/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8?icpid=88888888&RTS=1713110670&from=4&hms_devid=992&online=1713110670&vqe=3  
 咪咕·全民热练,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
 咪咕咪视通-1,http://10.0.0.7:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive
@@ -414,28 +419,28 @@ NewTV 古装剧场,http://[2409:8087:1a0a:df::4018]/wh7f454c46tw2831582911_-9431
 求索生活,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281
 求索生活,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281
 求索生活,http://10.0.0.7:35455/itv/6000000002000003382.m3u8?cdn=wasusyt
-SiTV 动漫秀场,http://10.0.0.7:35455/itv/5000000011000031113.m3u8?cdn=bestzb
-SiTV 动漫秀场,http://10.0.0.7:5050/itv/bestzb/5000000011000031113
-SiTV 都市剧场,http://10.0.0.7:35455/itv/5000000011000031111.m3u8?cdn=bestzb
-SiTV 都市剧场,http://10.0.0.7:5050/itv/bestzb/5000000011000031111
-SiTV 法治天地,http://10.0.0.7:35455/itv/9001547084732463424.m3u8?cdn=bestzb
-SiTV 法治天地,http://10.0.0.7:5050/itv/bestzb/9001547084732463424
-SiTV 欢笑剧场,http://10.0.0.7:35455/itv/5000000002000009455.m3u8?cdn=bestzb
-SiTV 欢笑剧场,http://10.0.0.7:5050/itv/bestzb/5000000002000009455
-SiTV 金色学堂,http://10.0.0.7:35455/itv/5000000010000026105.m3u8?cdn=bestzb
-SiTV 金色学堂,http://10.0.0.7:5050/itv/bestzb/5000000010000026105
-SiTV 劲爆体育,http://10.0.0.7:35455/itv/5000000002000029972.m3u8?cdn=bestzb
-SiTV 劲爆体育,http://10.0.0.7:5050/itv/bestzb/5000000002000029972
-SiTV 乐游,http://10.0.0.7:35455/itv/5000000011000031112.m3u8?cdn=bestzb
-SiTV 乐游,http://10.0.0.7:5050/itv/bestzb/5000000011000031112
-SiTV 魅力足球,http://10.0.0.7:35455/itv/5000000011000031207.m3u8?cdn=bestzb
-SiTV 魅力足球,http://10.0.0.7:5050/itv/bestzb/5000000011000031207
+SiTV 七彩戏剧,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031116/1.m3u8?channel-id=bestzb&Contentid=5000000011000031116&livemode=1&stbId=3
+SiTV 乐游,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031112/1.m3u8?channel-id=bestzb&Contentid=5000000011000031112&livemode=1&stbId=3
+SiTV 动漫秀场,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031113/1.m3u8?channel-id=bestzb&Contentid=5000000011000031113&livemode=1&stbId=3
+SiTV 劲爆体育,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000002000029972/1.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
+SiTV 欢笑剧场,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000002000009455/1.m3u8?channel-id=bestzb&Contentid=5000000002000009455&livemode=1&stbId=3
+SiTV 法治天地,http://[2409:8087:5e08:24::11]:6610/000000001000/9001547084732463424/1.m3u8?channel-id=bestzb&Contentid=9001547084732463424&livemode=1&stbId=3
+SiTV 游戏风云,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031114/1.m3u8?channel-id=bestzb&Contentid=5000000011000031114&livemode=1&stbId=3
+SiTV 生活时尚,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000002000019634/1.m3u8?channel-id=bestzb&Contentid=5000000002000019634&livemode=1&stbId=3
+SiTV 都市剧场,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031111/1.m3u8?channel-id=bestzb&Contentid=5000000011000031111&livemode=1&stbId=3
+SiTV 金色学堂,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000010000026105/1.m3u8?channel-id=bestzb&Contentid=5000000010000026105&livemode=1&stbId=3
+SiTV 魅力足球,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031207/1.m3u8?channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=3
 SiTV 七彩戏剧,http://10.0.0.7:35455/itv/5000000011000031116.m3u8?cdn=bestzb
-SiTV 七彩戏剧,http://10.0.0.7:5050/itv/bestzb/5000000011000031116
-SiTV 生活时尚,http://10.0.0.7:35455/itv/5000000002000019634.m3u8?cdn=bestzb
-SiTV 生活时尚,http://10.0.0.7:5050/itv/bestzb/5000000002000019634
+SiTV 乐游,http://10.0.0.7:35455/itv/5000000011000031112.m3u8?cdn=bestzb
+SiTV 动漫秀场,http://10.0.0.7:35455/itv/5000000011000031113.m3u8?cdn=bestzb
+SiTV 劲爆体育,http://10.0.0.7:35455/itv/5000000002000029972.m3u8?cdn=bestzb
+SiTV 欢笑剧场,http://10.0.0.7:35455/itv/5000000002000009455.m3u8?cdn=bestzb
+SiTV 法治天地,http://10.0.0.7:35455/itv/9001547084732463424.m3u8?cdn=bestzb
 SiTV 游戏风云,http://10.0.0.7:35455/itv/5000000011000031114.m3u8?cdn=bestzb
-SiTV 游戏风云,http://10.0.0.7:5050/itv/bestzb/5000000011000031114
+SiTV 生活时尚,http://10.0.0.7:35455/itv/5000000002000019634.m3u8?cdn=bestzb
+SiTV 都市剧场,http://10.0.0.7:35455/itv/5000000011000031111.m3u8?cdn=bestzb
+SiTV 金色学堂,http://10.0.0.7:35455/itv/5000000010000026105.m3u8?cdn=bestzb
+SiTV 魅力足球,http://10.0.0.7:35455/itv/5000000011000031207.m3u8?cdn=bestzb
 iHOT 爱电竞,http://10.0.0.7:35455/itv/6000000006000230630.m3u8?cdn=wasusyt
 iHOT 爱电竞,http://10.0.0.7:5050/itv/wasusyt/6000000006000230630
 iHOT 爱谍战,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000038/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000038&IASHttpSessionId=OTT19019320240419154124000281
@@ -472,12 +477,16 @@ iHOT 爱幼教,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000
 iHOT 爱幼教,http://10.0.0.7:35455/itv/6000000006000180630.m3u8?cdn=wasusyt
 iHOT 爱院线,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000034/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000034&IASHttpSessionId=OTT19019320240419154124000281
 iHOT 爱院线,http://10.0.0.7:35455/itv/6000000006000030630.m3u8?cdn=wasusyt
+iHot亚洲影院,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000006/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000006&livemode=1&stbId=3
+iHot欧美影院,http://[2409:8087:5e08:24::11]:6610/000000001000/7185203501769528108/1.m3u8?channel-id=wasusyt&Contentid=7185203501769528108&livemode=1&stbId=3
 
 ▶️电影轮播,#genre#
 动作电影,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 动作电影,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000018653/1.m3u8
 动作电影,http://[2409:8087:1a01:df::4021]/TVOD/88888888/224/3221225555/main.m3u8
 动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
+家庭影院,http://[2409:8087:5e00:24::1e]:6060/000000001000/6316377948248689070/1.m3u8
+超级电影,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000012884/1.m3u8
 CHC影迷电影,http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604315487&srchost=172.16.22.158:8060&gid=QTVto%2BZu6pkkcNYy4OxcMg%3D%3D
 CHC动作电影,http://cg0.hunancatv.cn:9090/live/CHCDZDY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316076&srchost=172.16.22.158:8060&gid=ZF3q5L%2FmYWch1qWqTIPAjw%3D%3D
 CHC家庭影院,http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316833&srchost=172.16.22.158:8060&gid=c%2BNqgq8pR1ZQ7ZzcmkS8%2BQ%3D%3D
