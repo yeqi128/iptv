@@ -8,6 +8,12 @@
             "playerType": 1
         },
         {
+            "name": "港台直播",
+            "type": 0,
+            "url": "http://aktv.top/live.m3u",
+            "playerType": 1
+        },
+        {
             "name": "平台直播",
             "type": 0,
             "url": "https://tv.iill.top/m3u/Live",
