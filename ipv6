@@ -301,18 +301,21 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 普陀电视台,http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
 
 🏃体育频道,#genre#
-CCTV 5,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+CCTV-5,http://[2409:8087:1a0a:df::4017]:80/wh7f454c46tw1517328845_1706942365/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8?icpid=88888888&RTS=1713968346&from=4&hms_devid=990&online=1713968346&vqe=3
 CCTV 5,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-CCTV 5,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000004794/1.m3u8  
+CCTV 5,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000004794/1.m3u8
+CCTV 5,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 CCTV 5,http://10.0.0.7:5050/ysp/cctv5
 CCTV 5,http://10.0.0.2:4102/udp/233.50.201.197:5140
-CCTV 5+,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+CCTV-5+,http://[2409:8087:1a0a:df::4032]:80/wh7f454c46tw1559678945_883095252/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8?icpid=88888888&RTS=1713968388&from=4&hms_devid=1143&online=1713968388&vqe=3
 CCTV 5+,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000507/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000507
 CCTV 5+,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000020505/1.m3u8
+CCTV 5+,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 CCTV 5+,http://10.0.0.2:4102/udp/233.50.201.220:5140
-CCTV 16,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+CCTV-16,http://[2409:8087:1a0a:df::4030]:80/wh7f454c46tw2135331742_-653554677/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8?icpid=88888888&RTS=1713968964&from=4&hms_devid=1144&online=1713968964&vqe=3
 CCTV 16,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226413/index.m3u8
 CCTV 16,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000233001/1.m3u8
+CCTV 16,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV 16,http://10.0.0.2:4102/udp/233.50.201.192:5140
 CCTV 央视台球,http://221.196.136.66:1/udp/225.1.2.170:5002
 CCTV 央视台球,http://118.250.109.58:58888/udp/239.76.254.58:9000
