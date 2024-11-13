@@ -416,7 +416,6 @@ CCTV 4K,http://10.0.0.7:5050/ysp/cctv4k
 咪咕频道,#genre#
 咪咕·全民热练,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000003000000068/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000068&livemode=1&stbId=3
 咪咕·全民热练,http://[2409:8087:1a0a:df::4016]/wh7f454c46tw2835227593_1383660146/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8?icpid=88888888&RTS=1713110670&from=4&hms_devid=992&online=1713110670&vqe=3  
-咪咕·全民热练,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
 咪咕咪视通-1,http://10.0.0.7:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive
 咪咕咪视通-2,http://10.0.0.7:35455/itv/3000000001000005969.m3u8?cdn=FifastbLive
 咪咕咪视通-3,http://10.0.0.7:35455/itv/3000000001000007218.m3u8?cdn=FifastbLive
@@ -602,7 +601,6 @@ iHot亚洲影院,http://[2409:8087:5e08:24::11]:6610/000000001000/20000000040000
 iHot欧美影院,http://[2409:8087:5e08:24::11]:6610/000000001000/7185203501769528108/1.m3u8?channel-id=wasusyt&Contentid=7185203501769528108&livemode=1&stbId=3
 
 ▶️电影轮播,#genre#
-动作电影,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 动作电影,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000018653/1.m3u8
 动作电影,http://[2409:8087:1a01:df::4021]/TVOD/88888888/224/3221225555/main.m3u8
 动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
