@@ -320,9 +320,8 @@ CCTV 央视台球,http://59.51.113.18:18888/udp/239.76.254.58:9000
 CCTV 央视台球,http://110.177.146.152:888/udp/239.1.1.100:8100
 CCTV 高尔夫·网球,http://10.0.0.7:35455/tptv/G_CCTV-GOLF-CQ.m3u8
 CCTV 高尔夫·网球,http://[2409:8087:74d9:21::6]/270000001128/9900000094/index.m3u8
+CCTV 高尔夫·网球,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000094/index.m3u8?
 四海钓鱼,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000640/index.m3u8?IASHttpSessionId=
-四海钓鱼,http://221.196.136.66:1/udp/225.1.2.202:5002
-四海钓鱼,http://60.7.56.22:4000/rtp/239.253.93.243:6421
 快乐垂钓,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031206/index.m3u8?channel-id=bestzb&Contentid=5000000011000031206&livemode=1&stbId=3
 快乐垂钓,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000648/index.m3u8?IASHttpSessionId=
 快乐垂钓,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031206/1.m3u8  
@@ -582,7 +581,6 @@ iHot欧美影院,http://[2409:8087:5e08:24::11]:6610/000000001000/71852035017695
 
 ▶️电影轮播,#genre#
 动作电影,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000018653/1.m3u8
-动作电影,http://[2409:8087:1a01:df::4021]/TVOD/88888888/224/3221225555/main.m3u8
 动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 精彩影视,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002012/index.m3u8?IASHttpSessionId=
 家庭影院,http://[2409:8087:5e00:24::1e]:6060/000000001000/6316377948248689070/1.m3u8
@@ -613,8 +611,6 @@ CHC家庭影院,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_c
 漫威电影,http://jiaojirentv.top/2020/dy.php?id=6140589
 漫威电影,http://zzy789.xyz/douyu1.php?id=6140589
 X战警电影,http://jiaojirentv.top/2020/dy.php?id=9651304
-欧美大片,http://jiaojirentv.top/2020/dy.php?id=2793084
-贝爷影厅,http://jiaojirentv.top/2020/dy.php?id=36337
 1905电影网,http://php.jdshipin.com:8880/1905.php?id=1905dy
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 重温经典,http://mtw.so/5NPX0U 
