@@ -232,10 +232,10 @@ CCTV-4 美洲,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.z
 珠江卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000011655/1.m3u8
 第一卫视,http://play2.one-tv.com/live/onetv.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-凤凰中文,http://m.951688.xyz:4102/udp/233.50.200.191:5140
+凤凰中文,http://www.yeqi.eu.org:4000/udp/233.50.200.191:5140
 凤凰资讯,http://58.144.154.93:80/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰资讯,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8576/.m3u8
-凤凰资讯,http://m.951688.xyz:4102/udp/233.50.200.192:5140
+凤凰资讯,http://www.yeqi.eu.org:4000/udp/233.50.200.192:5140
 CETV-1,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 CETV-2,http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
@@ -306,11 +306,11 @@ CCTV 5+,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000020505/1.m
 CCTV 16,http://[2409:8087:1a0a:df::4030]:80/wh7f454c46tw2135331742_-653554677/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8?icpid=88888888&RTS=1713968964&from=4&hms_devid=1144&online=1713968964&vqe=3
 CCTV 16,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226413/index.m3u8
 CCTV 16,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000233001/1.m3u8
-CCTV 央视台球,http://m.951688.xyz:35455/tptv/G_TAIQIU-CQ.m3u8
+CCTV 央视台球,http://www.yeqi.eu.org:35455/tptv/G_TAIQIU-CQ.m3u8
 CCTV 央视台球,http://221.196.136.66:1/udp/225.1.2.170:5002
 CCTV 央视台球,http://59.51.113.18:18888/udp/239.76.254.58:9000
 CCTV 央视台球,http://110.177.146.152:888/udp/239.1.1.100:8100
-CCTV 高尔夫·网球,http://m.951688.xyz:35455/tptv/G_CCTV-GOLF-CQ.m3u8
+CCTV 高尔夫·网球,http://www.yeqi.eu.org:35455/tptv/G_CCTV-GOLF-CQ.m3u8
 CCTV 高尔夫·网球,http://[2409:8087:74d9:21::6]/270000001128/9900000094/index.m3u8
 四海钓鱼,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000640/index.m3u8?IASHttpSessionId=
 四海钓鱼,http://221.196.136.66:1/udp/225.1.2.202:5002
