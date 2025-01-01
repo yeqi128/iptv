@@ -416,7 +416,7 @@ BesTV,http://10.0.0.1:4000/udp/233.50.201.201:5140
 睛彩篮球,http://10.0.0.1:4000/udp/233.50.202.27:5140
 睛彩广场舞,http://10.0.0.1:4000/udp/233.50.202.29:5140
 
-4GTV,#genre#
+4GTV香港,#genre#
 翡翠台4K,http://cdn.163189.xyz/live/fct4k/stream.m3u8
 凤凰中文,http://cdn.163189.xyz/live/fhzw/stream.m3u8
 TVB PLUS,http://cdn.163189.xyz/live/tvbp/stream.m3u8
@@ -493,7 +493,7 @@ CM,http://10.0.0.7:20005/hls/live/501.m3u8?token=816297213469304
 广东体育,http://10.0.0.7:20005/hls/live/503.m3u8?token=816297213469304
 SuperSport LaLiga,http://10.0.0.7:20005/hls/live/700.m3u8?token=816297213469304
 
-AKTV,#genre#
+AKTV台湾,#genre#
 28 AI 智慧賽馬,http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
 Channel 5 HD,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
 Channel 8 HD,http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
