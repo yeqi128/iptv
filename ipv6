@@ -146,8 +146,10 @@ NewTV 精品体育,http://[2409:8087:1a0a:df::4008]/wh7f454c46tw2820568002_-1840
 Newtv 超级体育,http://[2409:8087:1a0a:df::4016]/wh7f454c46tw2798497282_1170252542/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8?icpid=88888888&RTS=1713110634&from=4&hms_devid=992&online=1713110634&vqe=3
 快乐垂钓,http://10.0.0.7:35455/itv/5000000011000031206.m3u8?cdn=bestzb
 快乐垂钓,http://10.0.0.1:4000/udp/233.50.201.109:5140
-风云足球,http://10.0.0.7:35455/tptv/G_FENGSHANGZQ-CQ.m3u8
-CCTV 央视台球,http://10.0.0.7:35455/tptv/G_TAIQIU-CQ.m3u8
+风云足球,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Frptv%2FG_FENGSHANGZQ-CQ.m3u8%3Flicense%3Dgitv$rptv
+CCTV 央视台球,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Frptv%2FG_TAIQIU-CQ.m3u8%3Flicense%3Dgitv$rptv
+SiTV-劲爆体育,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F5000000002000029972.m3u8%3Fcdn%3Dbestzb$itv
+SiTV-魅力足球,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F5000000011000031207.m3u8%3Fcdn%3Dbestzb$itv
 
 📡4K频道,#genre#
 Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
@@ -160,7 +162,6 @@ CCTV-16-4k,http://10.0.0.7:35455/itv/5000000008000023254.m3u8?cdn=bestzb
 纯享4K,http://10.0.0.7:35455/itv/1000000004000011651.m3u8?cdn=ystenlive
 咪咕4K1,http://10.0.0.7:35455/itv/3000000010000005180.m3u8?cdn=FifastbLive
 咪咕4K2,http://10.0.0.7:35455/itv/3000000010000015686.m3u8?cdn=FifastbLive
-SiTV-欢笑剧场-4K,http://10.0.0.7:35455/itv/5000000007000010001.m3u8?cdn=bestzb
 
 YQ家专用,#genre#
 CCTV1,http://10.0.0.1:4000/udp/233.50.201.118:5140
