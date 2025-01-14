@@ -37,6 +37,26 @@ CCTV-16,http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/TVOD/88888888
 CCTV-17,http://[2409:8087:1a0a:df::4030]:80/wh7f454c46tw2178989547_-748691326/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8?icpid=88888888&RTS=1713969007&from=4&hms_devid=1144&online=1713969007&vqe=3
 CCTV-17,http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8
 
+35456央视频道,#genre#
+CCTV1,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fgaoma%2Fcctv1.m3u8$gaoma-高码
+CCTV2,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fgaoma%2Fcctv2.m3u8$gaoma-高码
+CCTV3,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fgaoma%2Fcctv3.m3u8$gaoma-高码
+CCTV4,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fgaoma%2Fcctv4.m3u8$gaoma-高码
+CCTV5,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fgaoma%2Fcctv5.m3u8$gaoma-高码
+CCTV5+,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fgaoma%2Fcctv5p.m3u8$gaoma-高码
+CCTV6,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F1000000001000001737.m3u8%3Fcdn%3Dystenlive$itv
+CCTV7,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fgaoma%2Fcctv7.m3u8$gaoma-高码
+CCTV8,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fgaoma%2Fcctv8.m3u8$gaoma-高码
+CCTV9,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fgaoma%2Fcctv9.m3u8$gaoma-高码
+CCTV10,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fgaoma%2Fcctv10.m3u8$gaoma-高码
+CCTV11,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fgaoma%2Fcctv11.m3u8$gaoma-高码
+CCTV12,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fgaoma%2Fcctv12.m3u8$gaoma-高码
+CCTV13,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fgaoma%2Fcctv13.m3u8$gaoma-高码
+CCTV14,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fgaoma%2Fcctv14.m3u8$gaoma-高码
+CCTV15,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fgaoma%2Fcctv15.m3u8$gaoma-高码
+CCTV16,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fgaoma%2Fcctv16.m3u8$gaoma-高码
+CCTV17,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fgaoma%2Fcctv17.m3u8$gaoma-高码
+
 📺卫视频道,#genre#
 北京卫视,http://[2409:8087:1a0a:df::4010]:80/wh7f454c46tw3521118935_826740184/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8?icpid=88888888&RTS=1713970350&from=4&hms_devid=771&online=1713970350&vqe=3
 东方卫视,http://[2409:8087:1a0a:df::402d]:80/wh7f454c46tw2920536473_465873356/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8?icpid=88888888&RTS=1713969749&from=4&hms_devid=1103&online=1713969749&vqe=3
@@ -75,6 +95,37 @@ CCTV-17,http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/TVOD/88888888
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 凤凰中文,http://10.0.0.1:4000/udp/233.50.200.191:5140
 凤凰资讯,http://10.0.0.1:4000/udp/233.50.200.192:5140
+
+35456卫视频道,#genre#
+凤凰卫视中文台,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Frptv%2FHD-10000k-1080P-fhchinese5s.m3u8%3Flicense%3Dcntv$rptv
+凤凰卫视资讯台,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Frptv%2FHD-10000k-1080P-fhzixun5s.m3u8%3Flicense%3Dcntv$rptv
+凤凰卫视香港台,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Frptv%2FHD-10000k-1080P-fhhongkong5s.m3u8%3Flicense%3Dcntv$rptv
+湖南卫视,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F5000000004000006692.m3u8%3Fcdn%3Dbestzb$itv
+浙江卫视,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F5000000004000007275.m3u8%3Fcdn%3Dbestzb$itv-50-FPS
+江苏卫视,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F6000000001000014861.m3u8%3Fcdn%3Dwasusyt$itv-50-FPS
+东方卫视,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F6000000001000003639.m3u8%3Fcdn%3Dwasusyt$itv
+北京卫视,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F6000000001000020451.m3u8%3Fcdn%3Dwasusyt$itv
+深圳卫视,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F5000000004000007410.m3u8%3Fcdn%3Dbestzb$itv
+广东卫视,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F1000000001000014176.m3u8%3Fcdn%3Dystenlive$itv
+山东卫视,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F1000000001000016568.m3u8%3Fcdn%3Dystenlive$itv
+天津卫视,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F5000000004000006827.m3u8%3Fcdn%3Dbestzb$itv
+东南卫视,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F5000000004000010584.m3u8%3Fcdn%3Dbestzb$itv
+湖北卫视,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F1000000001000024621.m3u8%3Fcdn%3Dystenlive$itv
+安徽卫视,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F1000000001000030159.m3u8%3Fcdn%3Dystenlive$itv
+重庆卫视,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F1000000001000001096.m3u8%3Fcdn%3Dystenlive$itv
+黑龙江卫视,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F1000000001000001925.m3u8%3Fcdn%3Dystenlive$itv
+辽宁卫视,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F5000000004000011671.m3u8%3Fcdn%3Dbestzb$itv
+江西卫视,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F1000000006000268001.m3u8%3Fcdn%3Dystenlive$itv
+河北卫视,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F5000000006000040016.m3u8%3Fcdn%3Dbestzb$itv
+河南卫视,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F5000000011000031119.m3u8%3Fcdn%3Dbestzb$itv
+四川卫视,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F5000000004000006119.m3u8%3Fcdn%3Dbestzb$itv
+广西卫视,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F5000000011000031118.m3u8%3Fcdn%3Dbestzb$itv
+云南卫视,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F5000000011000031120.m3u8%3Fcdn%3Dbestzb$itv
+贵州卫视,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F5000000004000025843.m3u8%3Fcdn%3Dbestzb$itv
+吉林卫视,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F5000000011000031117.m3u8%3Fcdn%3Dbestzb$itv
+海南卫视,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F5000000004000006211.m3u8%3Fcdn%3Dbestzb$itv
+甘肃卫视,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F5000000011000031121.m3u8%3Fcdn%3Dbestzb$itv
+青海卫视,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F1000000002000013359.m3u8%3Fcdn%3Dystenlive$itv
 
 🌄浙江频道,#genre#
 浙江钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
@@ -155,13 +206,26 @@ SiTV-魅力足球,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2
 Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-SiTV-欢笑剧场-4K,http://[2409:8087:5e08:24::17]:6610/000000001000/5000000007000010001/index.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=YanG-1989
-CCTV-4k,http://10.0.0.7:35455/gaoma/cctv4k_10m.m3u8
-CCTV-16-4k,http://10.0.0.7:35455/itv/5000000008000023254.m3u8?cdn=bestzb
-华数4K,http://10.0.0.7:35455/itv/6000000003000004748.m3u8?cdn=wasusyt 
-纯享4K,http://10.0.0.7:35455/itv/1000000004000011651.m3u8?cdn=ystenlive
-咪咕4K1,http://10.0.0.7:35455/itv/3000000010000005180.m3u8?cdn=FifastbLive
-咪咕4K2,http://10.0.0.7:35455/itv/3000000010000015686.m3u8?cdn=FifastbLive
+CCTV4K-10m,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fgaoma%2Fcctv4k_10m.m3u8$gaoma-10m
+CCTV4K,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fgaoma%2Fcctv4k.m3u8$gaoma
+CCTV4K-SDR,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Frptv%2FG_CCTV-4K-HD.m3u8%3Flicense%3Dgitv$rptv-SDR
+CCTV1-4K,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Frptv%2FG_CCTV-1-AVS-4K264.m3u8%3Flicense%3Dgitv$rptv
+CCTV3-4K,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Frptv%2FG_CCTV-3-AVS-4K264.m3u8%3Flicense%3Dgitv$rptv
+CCTV5-4K,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Frptv%2FG_CCTV-5-AVS-4K264.m3u8%3Flicense%3Dgitv$rptv
+CCTV16-4K-10m,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fgaoma%2Fcctv4k16_10m.m3u8$gaoma-10m
+CCTV16-4K,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fgaoma%2Fcctv4k16.m3u8$gaoma
+CCTV16-4K-HEVC,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F5000000008000023254.m3u8%3Fcdn%3Dbestzb$itv-HEVC
+CCTV16-4K-SDR,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Frptv%2FG_CCTV-16-4K.m3u8%3Flicense%3Dgitv$rptv-SDR
+华数-4K,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F6000000003000004748.m3u8%3Fcdn%3Dwasusyt$itv
+纯享-4K,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F1000000004000011651.m3u8%3Fcdn%3Dystenlive$itv
+纯享4K-2,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Frptv%2FHD-20M-2160P-chunxiang4k.m3u8%3Flicense%3Dcntv$rptv
+咪咕4K-1,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F3000000010000005180.m3u8%3Fcdn%3DFifastbLive$itv
+咪咕4K-2,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F3000000010000015686.m3u8%3Fcdn%3DFifastbLive$itv
+篮球4K,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Frptv%2Fmiguaoyun01-AVS-4K01.m3u8%3Flicense%3Dgitv$migu
+Love Nature 4K,http://10.0.0.7:35456/jump?url=https%3A%2F%2Fd18dyiwu97wm6q.cloudfront.net%2Fplaylist2160p.m3u8$cloudfront
+Loupe 4K,http://10.0.0.7:35456/jump?url=https%3A%2F%2Fd2dw21aq0j0l5c.cloudfront.net%2Fplaylist_3840x2160.m3u8$cloudfront
+Fashion 4K,http://10.0.0.7:35456/jump?url=https%3A%2F%2Ffash2043.cloudycdn.services%2Fslive%2Fftv_ftv_4k_hevc_73d_42080_default_466_hls.smil%2Fplaylist.m3u8$slive
+SiTV-欢笑剧场-4K,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F5000000007000010001.m3u8%3Fcdn%3Dbestzb$itv
 
 YQ家专用,#genre#
 CCTV1,http://10.0.0.1:4000/udp/233.50.201.118:5140
@@ -482,6 +546,39 @@ NewTV 精品纪录,http://[2409:8087:1a0a:df::4014]/wh7f454c46tw2820568745_16413
 NewTV 古装剧场,http://[2409:8087:1a0a:df::402f]/wh7f454c46tw2754480337_190092012/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8?icpid=88888888&RTS=1713110590&from=4&hms_devid=1144&online=1713110590&vqe=3
 NewTV 古装剧场,http://[2409:8087:1a0a:df::4018]/wh7f454c46tw2831582911_-943199635/ottrrs.hl.chinamobile.com/PLYT/88888888/224/3221225663/index.m3u8?icpid=88888888&RTS=1713110667&from=4&hms_devid=990&online=1713110667&vqe=3
 "NewTV超级视剧,http://[2409:8087:1a0a:df::402a]/wh7f454c46tw1840265920_1021568913/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8?icpid=88888888&RTS=1713337309&from=4&hms_devid=991&online=1713337309&vqe=3
+
+35456NewTV频道,#genre#
+NewTV-精品综合,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F1000000004000019008.m3u8%3Fcdn%3Dystenlive$itv
+NewTV-精品大剧,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F1000000004000013968.m3u8%3Fcdn%3Dystenlive$itv
+NewTV-精品纪录,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F1000000004000013730.m3u8%3Fcdn%3Dystenlive$itv
+NewTV-精品体育,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F1000000004000014634.m3u8%3Fcdn%3Dystenlive$itv
+NewTV-精品萌宠,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F1000000006000032328.m3u8%3Fcdn%3Dystenlive$itv
+NewTV-爱情喜剧,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F2000000003000000010.m3u8%3Fcdn%3Dhnbblive$itv
+NewTV-超级电视剧,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F1000000006000268003.m3u8%3Fcdn%3Dystenlive$itv
+NewTV-超级电影,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F1000000003000012426.m3u8%3Fcdn%3Dystenlive$itv
+NewTV-超级体育,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F1000000001000009601.m3u8%3Fcdn%3Dystenlive$itv
+NewTV-超级综艺,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F1000000006000268002.m3u8%3Fcdn%3Dystenlive$itv
+NewTV-潮妈辣婆,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F2000000003000000018.m3u8%3Fcdn%3Dhnbblive$itv
+NewTV-东北热剧,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F1000000005000266013.m3u8%3Fcdn%3Dystenlive$itv
+NewTV-动作电影,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F1000000004000018653.m3u8%3Fcdn%3Dystenlive$itv
+NewTV-古装剧场,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F2000000003000000024.m3u8%3Fcdn%3Dhnbblive$itv
+NewTV-欢乐剧场,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F1000000005000266012.m3u8%3Fcdn%3Dystenlive$itv
+NewTV-家庭剧场,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F1000000004000008284.m3u8%3Fcdn%3Dystenlive$itv
+NewTV-金牌综艺,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F1000000004000026167.m3u8%3Fcdn%3Dystenlive$itv
+NewTV-惊悚悬疑,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F1000000004000024282.m3u8%3Fcdn%3Dystenlive$itv
+NewTV-军旅剧场,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F2000000003000000014.m3u8%3Fcdn%3Dhnbblive$itv
+NewTV-军事评论,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F2000000003000000022.m3u8%3Fcdn%3Dhnbblive$itv
+NewTV-魅力潇湘,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F1000000001000006197.m3u8%3Fcdn%3Dystenlive$itv
+NewTV-明星大片,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F2000000003000000016.m3u8%3Fcdn%3Dhnbblive$itv
+NewTV-农业致富,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F2000000003000000003.m3u8%3Fcdn%3Dhnbblive$itv
+NewTV-武博世界,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F2000000003000000007.m3u8%3Fcdn%3Dhnbblive$itv
+NewTV-炫舞未来,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F1000000001000000515.m3u8%3Fcdn%3Dystenlive$itv
+NewTV-怡伴健康,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F1000000005000266011.m3u8%3Fcdn%3Dystenlive$itv
+NewTV-中国功夫,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F2000000003000000009.m3u8%3Fcdn%3Dhnbblive$itv
+NewTV-黑莓电影,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F1000000004000019624.m3u8%3Fcdn%3Dystenlive$itv
+NewTV-黑莓动画,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F1000000004000021734.m3u8%3Fcdn%3Dystenlive$itv
+NewTV-哒啵电竞,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F1000000006000032327.m3u8%3Fcdn%3Dystenlive$itv
+NewTV-哒啵赛事,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F1000000001000003775.m3u8%3Fcdn%3Dystenlive$itv
 
 求索·iHOT,#genre#
 求索动物,http://10.0.0.7:35455/itv/6000000002000010046.m3u8?cdn=wasusyt
