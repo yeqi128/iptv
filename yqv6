@@ -1,4 +1,4 @@
-央视频道
+央视频道,#genre#
 CCTV1,http://m.951688.xyz:35456/jump?url=http%3A%2F%2Fm.951688.xyz%3A35455%2Fgaoma%2Fcctv1.m3u8$gaoma-高码
 CCTV2,http://m.951688.xyz:35456/jump?url=http%3A%2F%2Fm.951688.xyz%3A35455%2Fgaoma%2Fcctv2.m3u8$gaoma-高码
 CCTV3,http://m.951688.xyz:35456/jump?url=http%3A%2F%2Fm.951688.xyz%3A35455%2Fgaoma%2Fcctv3.m3u8$gaoma-高码
@@ -17,7 +17,8 @@ CCTV14,http://m.951688.xyz:35456/jump?url=http%3A%2F%2Fm.951688.xyz%3A35455%2Fga
 CCTV15,http://m.951688.xyz:35456/jump?url=http%3A%2F%2Fm.951688.xyz%3A35455%2Fgaoma%2Fcctv15.m3u8$gaoma-高码
 CCTV16,http://m.951688.xyz:35456/jump?url=http%3A%2F%2Fm.951688.xyz%3A35455%2Fgaoma%2Fcctv16.m3u8$gaoma-高码
 CCTV17,http://m.951688.xyz:35456/jump?url=http%3A%2F%2Fm.951688.xyz%3A35455%2Fgaoma%2Fcctv17.m3u8$gaoma-高码
-卫视频道
+
+卫视频道,#genre#
 凤凰卫视中文台,http://m.951688.xyz:35456/jump?url=http%3A%2F%2Fm.951688.xyz%3A35455%2Frptv%2FHD-10000k-1080P-fhchinese5s.m3u8%3Flicense%3Dcntv$rptv
 凤凰卫视资讯台,http://m.951688.xyz:35456/jump?url=http%3A%2F%2Fm.951688.xyz%3A35455%2Frptv%2FHD-10000k-1080P-fhzixun5s.m3u8%3Flicense%3Dcntv$rptv
 凤凰卫视香港台,http://m.951688.xyz:35456/jump?url=http%3A%2F%2Fm.951688.xyz%3A35455%2Frptv%2FHD-10000k-1080P-fhhongkong5s.m3u8%3Flicense%3Dcntv$rptv
@@ -47,7 +48,8 @@ CCTV17,http://m.951688.xyz:35456/jump?url=http%3A%2F%2Fm.951688.xyz%3A35455%2Fga
 海南卫视,http://m.951688.xyz:35456/jump?url=http%3A%2F%2Fm.951688.xyz%3A35455%2Fitv%2F5000000004000006211.m3u8%3Fcdn%3Dbestzb$itv
 甘肃卫视,http://m.951688.xyz:35456/jump?url=http%3A%2F%2Fm.951688.xyz%3A35455%2Fitv%2F5000000011000031121.m3u8%3Fcdn%3Dbestzb$itv
 青海卫视,http://m.951688.xyz:35456/jump?url=http%3A%2F%2Fm.951688.xyz%3A35455%2Fitv%2F1000000002000013359.m3u8%3Fcdn%3Dystenlive$itv
-地方频道
+
+地方频道,#genre#
 北京纪实科教,http://m.951688.xyz:35456/jump?url=http%3A%2F%2Fm.951688.xyz%3A35455%2Fitv%2F1000000001000001910.m3u8%3Fcdn%3Dystenlive$itv
 北京纪实科教-HEVC,http://m.951688.xyz:35456/jump?url=http%3A%2F%2Fm.951688.xyz%3A35455%2Fitv%2F1000000005000265020.m3u8%3Fcdn%3Dystenlive$itv-HEVC
 北京卡酷少儿,http://m.951688.xyz:35456/jump?url=http%3A%2F%2Fm.951688.xyz%3A35455%2Fitv%2F5000000011000265008.m3u8%3Fcdn%3Dbestzb$itv
@@ -65,7 +67,8 @@ CCTV17,http://m.951688.xyz:35456/jump?url=http%3A%2F%2Fm.951688.xyz%3A35455%2Fga
 上海纪实人文-HEVC,http://m.951688.xyz:35456/jump?url=http%3A%2F%2Fm.951688.xyz%3A35455%2Fitv%2F1000000005000265021.m3u8%3Fcdn%3Dystenlive$itv-HEVC
 上海五星体育,http://m.951688.xyz:35456/jump?url=http%3A%2F%2Fm.951688.xyz%3A35455%2Fitv%2F5000000010000017540.m3u8%3Fcdn%3Dbestzb$itv
 上海新闻综合,http://m.951688.xyz:35456/jump?url=http%3A%2F%2Fm.951688.xyz%3A35455%2Fitv%2F5000000011000031110.m3u8%3Fcdn%3Dbestzb$itv
-数字频道
+
+数字频道,#genre#
 CGTN,http://m.951688.xyz:35456/jump?url=http%3A%2F%2Fm.951688.xyz%3A35455%2Fgaoma%2Fcgtnen.m3u8$gaoma-高码
 CGTN纪录,http://m.951688.xyz:35456/jump?url=http%3A%2F%2Fm.951688.xyz%3A35455%2Fgaoma%2Fcgtndoc.m3u8$gaoma-高码
 CGTN阿语,http://m.951688.xyz:35456/jump?url=http%3A%2F%2Fm.951688.xyz%3A35455%2Fgaoma%2Fcgtnar.m3u8$gaoma-高码
