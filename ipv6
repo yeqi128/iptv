@@ -408,25 +408,25 @@ CCTV4K-SDR,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Frptv%2
 CCTV1-4K,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Frptv%2FG_CCTV-1-AVS-4K264.m3u8%3Flicense%3Dgitv$rptv
 CCTV3-4K,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Frptv%2FG_CCTV-3-AVS-4K264.m3u8%3Flicense%3Dgitv$rptv
 CCTV5-4K,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Frptv%2FG_CCTV-5-AVS-4K264.m3u8%3Flicense%3Dgitv$rptv
-CCTV16 奥林匹克4K,http://10.0.0.5:50001/5000000008000023254/bestzb/index.m3u8$12M2160HEVC_百视通
 CCTV16-4K-10m,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fgaoma%2Fcctv4k16_10m.m3u8$gaoma-10m
 CCTV16-4K,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fgaoma%2Fcctv4k16.m3u8$gaoma
 CCTV16-4K-HEVC,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F5000000008000023254.m3u8%3Fcdn%3Dbestzb$itv-HEVC
 CCTV16-4K-SDR,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Frptv%2FG_CCTV-16-4K.m3u8%3Flicense%3Dgitv$rptv-SDR
-华数4K,http://10.0.0.5:50001/6000000003000004748/wasusyt/index.m3u8$16M2160_华数
-华数4K,http://10.0.0.5:50001/2000000004000000014/hnbblive/index.m3u8$15M2160_湖南bblive
 华数4K,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F6000000003000004748.m3u8%3Fcdn%3Dwasusyt$itv
 纯享-4K,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F1000000004000011651.m3u8%3Fcdn%3Dystenlive$itv
 纯享4K-2,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Frptv%2FHD-20M-2160P-chunxiang4k.m3u8%3Flicense%3Dcntv$rptv
-纯享4K,http://10.0.0.5:50001/1000000004000011651/ystenlive/index.m3u8$20M2160_易视腾
 咪咕4K-1,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F3000000010000005180.m3u8%3Fcdn%3DFifastbLive$itv
 咪咕4K-2,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F3000000010000015686.m3u8%3Fcdn%3DFifastbLive$itv
 篮球4K,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Frptv%2Fmiguaoyun01-AVS-4K01.m3u8%3Flicense%3Dgitv$migu
 Love Nature 4K,http://10.0.0.7:35456/jump?url=https%3A%2F%2Fd18dyiwu97wm6q.cloudfront.net%2Fplaylist2160p.m3u8$cloudfront
 Loupe 4K,http://10.0.0.7:35456/jump?url=https%3A%2F%2Fd2dw21aq0j0l5c.cloudfront.net%2Fplaylist_3840x2160.m3u8$cloudfront
 Fashion 4K,http://10.0.0.7:35456/jump?url=https%3A%2F%2Ffash2043.cloudycdn.services%2Fslive%2Fftv_ftv_4k_hevc_73d_42080_default_466_hls.smil%2Fplaylist.m3u8$slive
-SiTV-欢笑剧场4K,http://10.0.0.5:50001/5000000007000010001/bestzb/index.m3u8$12M2160HEVC_百视通
 SiTV-欢笑剧场4K,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F5000000007000010001.m3u8%3Fcdn%3Dbestzb$itv
+纯享4K,http://10.0.0.5:50001/TVOD/1000000004000011651/ystenlive/index.m3u8$20M2160_易视腾
+CCTV16 奥林匹克4K,http://10.0.0.5:50001/TVOD/5000000008000023254/bestzb/index.m3u8$12M2160HEVC_百视通
+SiTV欢笑剧场4K,http://10.0.0.5:50001/TVOD/5000000007000010001/bestzb/index.m3u8$12M2160HEVC_百视通
+华数4K,http://10.0.0.5:50001/TVOD/6000000003000004748/wasusyt/index.m3u8$16M2160_华数
+华数4K,http://10.0.0.5:50001/TVOD/2000000004000000014/hnbblive/index.m3u8$15M2160_湖南bblive
 
 YQ家专用,#genre#
 CCTV1,http://10.0.0.1:4000/udp/233.50.201.118:5140
@@ -810,19 +810,15 @@ Hot亚洲影院,http://10.0.0.5:50001/TVOD/5841816227539527643/wasusyt/index.m3u
 爱院线,http://10.0.0.5:50001/TVOD/2000000004000000034/hnbblive/index.m3u8$6.8M1080_湖南bblive
 
 ▶️电影轮播,#genre#
-华语影院,http://10.0.0.5:50001/5000000011000288005/bestzb/index.m3u8
-星光影院,http://10.0.0.5:50001/5000000011000288013/bestzb/index.m3u8
-全球大片,http://10.0.0.5:50001/5000000011000288009/bestzb/index.m3u8
-热门剧场,http://10.0.0.5:50001/5000000011000288010/bestzb/index.m3u8
-谍战剧场,http://10.0.0.5:50001/5000000011000288004/bestzb/index.m3u8
-高清娱乐,http://10.0.0.5:50001/2000000004000000013/hnbblive/index.m3u8$2.5M720_湖南bblive
-高清娱乐,http://10.0.0.5:50001/6000000003000001569/wasusyt/index.m3u8$2.5M720_华数
-黑莓电影,http://10.0.0.5:50001/2000000003000000001/hnbblive/index.m3u8$4M1080_湖南bblive
-黑莓电影,http://10.0.0.5:50001/1000000004000019624/ystenlive/index.m3u8$4M1080_易视腾
-黑莓动画,http://10.0.0.5:50001/2000000003000000002/hnbblive/index.m3u8$4M1080_湖南bblive
-黑莓动画,http://10.0.0.5:50001/1000000004000021734/ystenlive/index.m3u8$4M1080_易视腾
-精彩影视,http://10.0.0.5:50001/2000000004000000063/hnbblive/index.m3u8$7.2M1080_湖南bblive
-精彩影视,http://10.0.0.5:50001/6000000006000320630/wasusyt/index.m3u8$6.5M1080_华数
+黑莓电影,http://10.0.0.5:50001/TVOD/2000000003000000001/hnbblive/index.m3u8$4M1080_湖南bblive
+黑莓电影,http://10.0.0.5:50001/TVOD/1000000004000019624/ystenlive/index.m3u8$4M1080_易视腾
+华语影院,http://10.0.0.5:50001/TVOD/5000000011000288005/bestzb/index.m3u8
+星光影院,http://10.0.0.5:50001/TVOD/5000000011000288013/bestzb/index.m3u8
+全球大片,http://10.0.0.5:50001/TVOD/5000000011000288009/bestzb/index.m3u8
+热门剧场,http://10.0.0.5:50001/TVOD/5000000011000288010/bestzb/index.m3u8
+谍战剧场,http://10.0.0.5:50001/TVOD/5000000011000288004/bestzb/index.m3u8
+精彩影视,http://10.0.0.5:50001/TVOD/2000000004000000063/hnbblive/index.m3u8$7.2M1080_湖南bblive
+精彩影视,http://10.0.0.5:50001/TVOD/6000000006000320630/wasusyt/index.m3u8$6.5M1080_华数
 轮播电影1,http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
 轮播电影2,http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
 轮播电影3,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=99705a1921ddd49fb7079a02f02bedc4&token=cpn-androidmpro-0-20415-b6774b3b3249db17d8beee6676fdf877fe8b1576307ef8e6&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p  
