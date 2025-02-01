@@ -393,10 +393,19 @@ CCTV17 农业农村,http://10.0.0.5:50001/TVOD/1000000005000056836/ystenlive/ind
 🏃体育频道,#genre#
 快乐垂钓,http://10.0.0.7:35455/itv/5000000011000031206.m3u8?cdn=bestzb
 快乐垂钓,http://10.0.0.1:4000/udp/233.50.201.109:5140
+NBA经典,https://www.freetv.top/migu/788815380.m3u8?migutoken=6c1a09753fb911285fd8c7bc0ba0585a357cd0712590bd190de44656f063f4588c8ecd06f58a916e5b40637c34f859ac8649c7ffa95ca3b5473f50bb3013e0bc4297898c8d467abb8cf9d95b82
+五大联赛经典,https://www.freetv.top/migu/780288994.m3u8?migutoken=72b39043692c7c3e7f1f4c834735708f3180ce1305d4a1b03e0a76d0f2631a9df1234147caaec6d76bc56f1bef7a5152249c13d9ce08afefa3c4196caa6045e910f424295fd03195dd57c89608
+中国足球风云,https://www.freetv.top/migu/788816794.m3u8?migutoken=9dec69f7107657cec0f4d2ae72a45b9c8c880359927fca00d24fd44f4bd6d3dd8b39f8714e3625f20c234b5b48e9946ab3511c3fbc5802e8977869aa35acdde9dedad7017200bd307779f55698
+劲爆体育,https://www.freetv.top/migu/796071336.m3u8?migutoken=3172715e4519ab0e14ebc2bc989e61148725cde67a717820be2bb5b974855334e815b99fef8b22a406f8758915830d2b4fd993b9ad25b896759856a027f22fc49deb1720ef647ffe8b21182027
+魅力足球,https://www.freetv.top/migu/796070308.m3u8?migutoken=243edc4b9ed6db859594c5ff9b97d56a82afad8d0d90f96c72987e7f0701bbf4a17bba2a52d52ca2c14f70582b7664bb2a22a19600dc42ea6f2fd8bf320a83f862fec586dd9d7a7b8a1d9aa701
+赛事最经典,https://www.freetv.top/migu/646596895.m3u8?migutoken=0601f698765cd1ad5dfbd29596c1f6d379017470d15371f54776be7045eab821616cbe87ccf8ceecb54e1bd7c00b8979c103ccd0393cb17f58769ce27288aca82dd7189822b5ac6f440e765a68
+掼蛋精英赛,https://www.freetv.top/migu/631354620.m3u8?migutoken=73a0cde21b6203043feb28a28a7692f170f7aa182852a8902cb98c1f1ae7b89b3bfbcc9f408a3f77843a3e40de6cd65b58e19b5c4d60b154f7e29c238bff33717402a48297540e9c361016c541
+体坛名栏汇,https://www.freetv.top/migu/629943305.m3u8?migutoken=444917631d03b012e2e8863ca99584b1b16c37e69fc169b8bd68613cb4c6a3eb6134d19398079c5b19e6fa8621f4b7a839c080f2b9e83ca4da593802e4e8878c4ee85970c2430d113e49b9c363
+咪咕24小时体育台,https://www.freetv.top/migu/654102378.m3u8?migutoken=089cfab5b3c303bad5d00008771c80dec9054004f4b4d43d5f7a75faf514c7b7aafa3a4db24023a47d6928a42357fcd22078526d704b225b97f2198d8e781861ac7ce93eca578ae0f4f11e9f70
+游戏风云,https://www.freetv.top/migu/790188417.m3u8?migutoken=f1a9c60d2330f6b90d347b39eb84c24f60b1a0e3c3234310bdb8590ba493dfd8788d7c0b546261b7248ee8c25a6c0e964f6be35e7cf17ad9dd6e1b9f85c98cb14c466356ed505bb5c561ff494f
 风云足球,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Frptv%2FG_FENGSHANGZQ-CQ.m3u8%3Flicense%3Dgitv$rptv
 CCTV 央视台球,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Frptv%2FG_TAIQIU-CQ.m3u8%3Flicense%3Dgitv$rptv
-SiTV-劲爆体育,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F5000000002000029972.m3u8%3Fcdn%3Dbestzb$itv
-SiTV-魅力足球,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F5000000011000031207.m3u8%3Fcdn%3Dbestzb$itv
+
 
 📡4K频道,#genre#
 Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
