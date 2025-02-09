@@ -391,51 +391,179 @@ CCTV17 农业农村,http://10.0.0.5:50001/TVOD/1000000005000056836/ystenlive/ind
 普陀电视台,http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
 
 🏃体育频道,#genre#
-快乐垂钓,http://10.0.0.7:35455/itv/5000000011000031206.m3u8?cdn=bestzb
+CCTV5 体育,http://10.0.0.5:50001/TVOD/1000000005000025222/ystenlive/index.m3u8$12M1080_易视腾
+CCTV5 体育,http://10.0.0.5:50001/TVOD/6000000001000016431/wasusyt/index.m3u8$8M1080_华数
+CCTV5 体育,http://10.0.0.5:50001/TVOD/1000000003000030177/ystenlive/index.m3u8$8M1080_易视腾
+CCTV5 体育,http://10.0.0.5:50001/TVOD/5000000004000008885/bestzb/index.m3u8$6.8M1080_百视通
+CCTV5 体育,http://10.0.0.5:50001/TVOD/1000000005000265005/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
+CCTV5 体育,http://10.0.0.5:50001/TVOD/5000000010000016619/bestzb/index.m3u8$4M1080_百视通
+CCTV5 体育,http://10.0.0.5:50001/TVOD/1000000001000004794/ystenlive/index.m3u8$4M1080_易视腾
+CCTV5+ 体育赛事,http://10.0.0.5:50001/TVOD/6000000001000015875/wasusyt/index.m3u8$8M1080_华数
+CCTV5+ 体育赛事,http://10.0.0.5:50001/TVOD/1000000001000018504/ystenlive/index.m3u8$8M1080_易视腾
+CCTV5+ 体育赛事,http://10.0.0.5:50001/TVOD/5000000011000031127/bestzb/index.m3u8$6.8M1080_百视通
+CCTV5+ 体育赛事,http://10.0.0.5:50001/TVOD/1000000005000265016/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
+CCTV5+ 体育赛事,http://10.0.0.5:50001/TVOD/1000000001000020505/ystenlive/index.m3u8$4M1080_易视腾
+CCTV16 奥林匹克,http://10.0.0.5:50001/TVOD/1000000006000233002/ystenlive/index.m3u8$8M1080_易视腾
+CCTV16 奥林匹克,http://10.0.0.5:50001/TVOD/5000000008000023253/bestzb/index.m3u8$6.8M1080_百视通
+CCTV16 奥林匹克,http://10.0.0.5:50001/TVOD/1000000006000233001/ystenlive/index.m3u8$4M1080_易视腾
+快乐垂钓,http://10.0.0.5:50001/TVOD/5000000011000031206/bestzb/index.m3u8$6.8M1080_百视通
+快乐垂钓,http://10.0.0.5:50001/TVOD/2000000002000000067/hnbblive/index.m3u8$6.8M1080_湖南bblive
 快乐垂钓,http://10.0.0.1:4000/udp/233.50.201.109:5140
-NBA经典,https://www.freetv.top/migu/788815380.m3u8?migutoken=6c1a09753fb911285fd8c7bc0ba0585a357cd0712590bd190de44656f063f4588c8ecd06f58a916e5b40637c34f859ac8649c7ffa95ca3b5473f50bb3013e0bc4297898c8d467abb8cf9d95b82
-五大联赛经典,https://www.freetv.top/migu/780288994.m3u8?migutoken=72b39043692c7c3e7f1f4c834735708f3180ce1305d4a1b03e0a76d0f2631a9df1234147caaec6d76bc56f1bef7a5152249c13d9ce08afefa3c4196caa6045e910f424295fd03195dd57c89608
-中国足球风云,https://www.freetv.top/migu/788816794.m3u8?migutoken=9dec69f7107657cec0f4d2ae72a45b9c8c880359927fca00d24fd44f4bd6d3dd8b39f8714e3625f20c234b5b48e9946ab3511c3fbc5802e8977869aa35acdde9dedad7017200bd307779f55698
-劲爆体育,https://www.freetv.top/migu/796071336.m3u8?migutoken=3172715e4519ab0e14ebc2bc989e61148725cde67a717820be2bb5b974855334e815b99fef8b22a406f8758915830d2b4fd993b9ad25b896759856a027f22fc49deb1720ef647ffe8b21182027
-魅力足球,https://www.freetv.top/migu/796070308.m3u8?migutoken=243edc4b9ed6db859594c5ff9b97d56a82afad8d0d90f96c72987e7f0701bbf4a17bba2a52d52ca2c14f70582b7664bb2a22a19600dc42ea6f2fd8bf320a83f862fec586dd9d7a7b8a1d9aa701
-赛事最经典,https://www.freetv.top/migu/646596895.m3u8?migutoken=0601f698765cd1ad5dfbd29596c1f6d379017470d15371f54776be7045eab821616cbe87ccf8ceecb54e1bd7c00b8979c103ccd0393cb17f58769ce27288aca82dd7189822b5ac6f440e765a68
-掼蛋精英赛,https://www.freetv.top/migu/631354620.m3u8?migutoken=73a0cde21b6203043feb28a28a7692f170f7aa182852a8902cb98c1f1ae7b89b3bfbcc9f408a3f77843a3e40de6cd65b58e19b5c4d60b154f7e29c238bff33717402a48297540e9c361016c541
-体坛名栏汇,https://www.freetv.top/migu/629943305.m3u8?migutoken=444917631d03b012e2e8863ca99584b1b16c37e69fc169b8bd68613cb4c6a3eb6134d19398079c5b19e6fa8621f4b7a839c080f2b9e83ca4da593802e4e8878c4ee85970c2430d113e49b9c363
-咪咕24小时体育台,https://www.freetv.top/migu/654102378.m3u8?migutoken=089cfab5b3c303bad5d00008771c80dec9054004f4b4d43d5f7a75faf514c7b7aafa3a4db24023a47d6928a42357fcd22078526d704b225b97f2198d8e781861ac7ce93eca578ae0f4f11e9f70
-游戏风云,https://www.freetv.top/migu/790188417.m3u8?migutoken=f1a9c60d2330f6b90d347b39eb84c24f60b1a0e3c3234310bdb8590ba493dfd8788d7c0b546261b7248ee8c25a6c0e964f6be35e7cf17ad9dd6e1b9f85c98cb14c466356ed505bb5c561ff494f
+五星体育,http://10.0.0.5:50001/TVOD/5000000010000017540/bestzb/index.m3u8$4M1080_百视通
+五星体育,http://10.0.0.5:50001/TVOD/2000000002000000007/hnbblive/index.m3u8$2.5M720_湖南bblive
+NewTV超级体育,http://10.0.0.5:50001/TVOD/1000000001000009601/ystenlive/index.m3u8$8M1080_易视腾
+NewTV超级体育,http://10.0.0.5:50001/TVOD/2000000003000000030/hnbblive/index.m3u8$4M1080_湖南bblive
+NewTV超级体育,http://10.0.0.5:50001/TVOD/1000000001000009204/ystenlive/index.m3u8$4M1080_易视腾
+NewTV超级体育,http://10.0.0.5:50001/TVOD/1000000004000007755/ystenlive/index.m3u8$4M1080_易视腾
+NewTV精品体育,http://10.0.0.5:50001/TVOD/2000000003000000021/hnbblive/index.m3u8$4M1080_湖南bblive
+NewTV精品体育,http://10.0.0.5:50001/TVOD/1000000004000014634/ystenlive/index.m3u8$4M1080_易视腾
+SiTV劲爆体育,http://10.0.0.5:50001/TVOD/5000000002000029972/bestzb/index.m3u8$4M1080_百视通
+SiTV劲爆体育,http://10.0.0.5:50001/TVOD/2000000002000000008/hnbblive/index.m3u8$1.2M540_湖南bblive
+SiTV魅力足球,http://10.0.0.5:50001/TVOD/5000000011000031207/bestzb/index.m3u8$7M1080_百视通
+SiTV魅力足球,http://10.0.0.5:50001/TVOD/2000000002000000068/hnbblive/index.m3u8$7M1080_湖南bblive
+爱体育,http://10.0.0.5:50001/TVOD/6000000006000290630/wasusyt/index.m3u8$7.2M1080_华数
+爱体育,http://10.0.0.5:50001/TVOD/2000000004000000060/hnbblive/index.m3u8$6.8M1080_湖南bblive
 风云足球,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Frptv%2FG_FENGSHANGZQ-CQ.m3u8%3Flicense%3Dgitv$rptv
 CCTV 央视台球,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Frptv%2FG_TAIQIU-CQ.m3u8%3Flicense%3Dgitv$rptv
 
 
 📡4K频道,#genre#
-Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-Loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-CCTV4K-10m,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fgaoma%2Fcctv4k_10m.m3u8$gaoma-10m
-CCTV4K,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fgaoma%2Fcctv4k.m3u8$gaoma
-CCTV4K-SDR,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Frptv%2FG_CCTV-4K-HD.m3u8%3Flicense%3Dgitv$rptv-SDR
-CCTV1-4K,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Frptv%2FG_CCTV-1-AVS-4K264.m3u8%3Flicense%3Dgitv$rptv
-CCTV3-4K,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Frptv%2FG_CCTV-3-AVS-4K264.m3u8%3Flicense%3Dgitv$rptv
-CCTV5-4K,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Frptv%2FG_CCTV-5-AVS-4K264.m3u8%3Flicense%3Dgitv$rptv
-CCTV16-4K-10m,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fgaoma%2Fcctv4k16_10m.m3u8$gaoma-10m
-CCTV16-4K,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fgaoma%2Fcctv4k16.m3u8$gaoma
-CCTV16-4K-HEVC,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F5000000008000023254.m3u8%3Fcdn%3Dbestzb$itv-HEVC
-CCTV16-4K-SDR,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Frptv%2FG_CCTV-16-4K.m3u8%3Flicense%3Dgitv$rptv-SDR
-华数4K,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F6000000003000004748.m3u8%3Fcdn%3Dwasusyt$itv
-纯享-4K,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F1000000004000011651.m3u8%3Fcdn%3Dystenlive$itv
-纯享4K-2,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Frptv%2FHD-20M-2160P-chunxiang4k.m3u8%3Flicense%3Dcntv$rptv
-咪咕4K-1,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F3000000010000005180.m3u8%3Fcdn%3DFifastbLive$itv
-咪咕4K-2,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F3000000010000015686.m3u8%3Fcdn%3DFifastbLive$itv
-篮球4K,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Frptv%2Fmiguaoyun01-AVS-4K01.m3u8%3Flicense%3Dgitv$migu
-Love Nature 4K,http://10.0.0.7:35456/jump?url=https%3A%2F%2Fd18dyiwu97wm6q.cloudfront.net%2Fplaylist2160p.m3u8$cloudfront
-Loupe 4K,http://10.0.0.7:35456/jump?url=https%3A%2F%2Fd2dw21aq0j0l5c.cloudfront.net%2Fplaylist_3840x2160.m3u8$cloudfront
-Fashion 4K,http://10.0.0.7:35456/jump?url=https%3A%2F%2Ffash2043.cloudycdn.services%2Fslive%2Fftv_ftv_4k_hevc_73d_42080_default_466_hls.smil%2Fplaylist.m3u8$slive
-SiTV-欢笑剧场4K,http://10.0.0.7:35456/jump?url=http%3A%2F%2F10.0.0.7%3A35455%2Fitv%2F5000000007000010001.m3u8%3Fcdn%3Dbestzb$itv
 纯享4K,http://10.0.0.5:50001/TVOD/1000000004000011651/ystenlive/index.m3u8$20M2160_易视腾
 CCTV16 奥林匹克4K,http://10.0.0.5:50001/TVOD/5000000008000023254/bestzb/index.m3u8$12M2160HEVC_百视通
 SiTV欢笑剧场4K,http://10.0.0.5:50001/TVOD/5000000007000010001/bestzb/index.m3u8$12M2160HEVC_百视通
 华数4K,http://10.0.0.5:50001/TVOD/6000000003000004748/wasusyt/index.m3u8$16M2160_华数
 华数4K,http://10.0.0.5:50001/TVOD/2000000004000000014/hnbblive/index.m3u8$15M2160_湖南bblive
+Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+Loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+
+NewTV频道,#genre#
+NewTV爱情喜剧,http://10.0.0.5:50001/TVOD/2000000003000000010/hnbblive/index.m3u8$4M1080_湖南bblive
+NewTV超级电视剧,http://10.0.0.5:50001/TVOD/1000000006000268003/ystenlive/index.m3u8$8M1080_易视腾
+NewTV超级电视剧,http://10.0.0.5:50001/TVOD/2000000003000000032/hnbblive/index.m3u8$4M1080_湖南bblive
+NewTV超级电视剧,http://10.0.0.5:50001/TVOD/1000000001000008139/ystenlive/index.m3u8$4M1080_易视腾
+NewTV超级电视剧,http://10.0.0.5:50001/TVOD/1000000004000024993/ystenlive/index.m3u8$4M1080_易视腾
+NewTV超级电影,http://10.0.0.5:50001/TVOD/1000000003000012426/ystenlive/index.m3u8$8M1080_易视腾
+NewTV超级电影,http://10.0.0.5:50001/TVOD/2000000003000000031/hnbblive/index.m3u8$4M1080_湖南bblive
+NewTV超级电影,http://10.0.0.5:50001/TVOD/1000000001000012884/ystenlive/index.m3u8$4M1080_易视腾
+NewTV超级电影,http://10.0.0.5:50001/TVOD/1000000004000002120/ystenlive/index.m3u8$4M1080_易视腾
+NewTV超级体育,http://10.0.0.5:50001/TVOD/1000000001000009601/ystenlive/index.m3u8$8M1080_易视腾
+NewTV超级体育,http://10.0.0.5:50001/TVOD/2000000003000000030/hnbblive/index.m3u8$4M1080_湖南bblive
+NewTV超级体育,http://10.0.0.5:50001/TVOD/1000000001000009204/ystenlive/index.m3u8$4M1080_易视腾
+NewTV超级体育,http://10.0.0.5:50001/TVOD/1000000004000007755/ystenlive/index.m3u8$4M1080_易视腾
+NewTV超级综艺,http://10.0.0.5:50001/TVOD/1000000006000268002/ystenlive/index.m3u8$8M1080_易视腾
+NewTV超级综艺,http://10.0.0.5:50001/TVOD/2000000003000000029/hnbblive/index.m3u8$4M1080_湖南bblive
+NewTV超级综艺,http://10.0.0.5:50001/TVOD/1000000001000025771/ystenlive/index.m3u8$4M1080_易视腾
+NewTV超级综艺,http://10.0.0.5:50001/TVOD/1000000004000023658/ystenlive/index.m3u8$4M1080_易视腾
+NewTV潮妈辣婆,http://10.0.0.5:50001/TVOD/2000000003000000018/hnbblive/index.m3u8$4M1080_湖南bblive
+NewTV东北剧场,http://10.0.0.5:50001/TVOD/1000000005000266013/ystenlive/index.m3u8$4M1080_易视腾
+NewTV东北热剧,http://10.0.0.5:50001/TVOD/2000000003000000051/hnbblive/index.m3u8$4M1080_湖南bblive
+NewTV动作电影,http://10.0.0.5:50001/TVOD/2000000003000000017/hnbblive/index.m3u8$4M1080_湖南bblive
+NewTV动作电影,http://10.0.0.5:50001/TVOD/1000000004000018653/ystenlive/index.m3u8$4M1080_易视腾
+NewTV古装剧场,http://10.0.0.5:50001/TVOD/2000000003000000024/hnbblive/index.m3u8$4M1080_湖南bblive
+NewTV欢乐剧场,http://10.0.0.5:50001/TVOD/2000000003000000050/hnbblive/index.m3u8$4M1080_湖南bblive
+NewTV欢乐剧场,http://10.0.0.5:50001/TVOD/1000000005000266012/ystenlive/index.m3u8$4M1080_易视腾
+NewTV家庭剧场,http://10.0.0.5:50001/TVOD/2000000003000000012/hnbblive/index.m3u8$4M1080_湖南bblive
+NewTV家庭剧场,http://10.0.0.5:50001/TVOD/1000000004000008284/ystenlive/index.m3u8$4M1080_易视腾
+NewTV金牌综艺,http://10.0.0.5:50001/TVOD/2000000003000000005/hnbblive/index.m3u8$4M1080_湖南bblive
+NewTV金牌综艺,http://10.0.0.5:50001/TVOD/1000000004000026167/ystenlive/index.m3u8$4M1080_易视腾
+NewTV惊悚悬疑,http://10.0.0.5:50001/TVOD/2000000003000000015/hnbblive/index.m3u8$4M1080_湖南bblive
+NewTV惊悚悬疑,http://10.0.0.5:50001/TVOD/1000000004000024282/ystenlive/index.m3u8$4M1080_易视腾
+NewTV精品大剧,http://10.0.0.5:50001/TVOD/2000000003000000020/hnbblive/index.m3u8$4M1080_湖南bblive
+NewTV精品大剧,http://10.0.0.5:50001/TVOD/1000000004000013968/ystenlive/index.m3u8$4M1080_易视腾
+NewTV精品纪录,http://10.0.0.5:50001/TVOD/1000000004000013730/ystenlive/index.m3u8$4M1080_易视腾
+NewTV精品记录,http://10.0.0.5:50001/TVOD/2000000003000000019/hnbblive/index.m3u8$4M1080_湖南bblive
+NewTV精品萌宠,http://10.0.0.5:50001/TVOD/2000000003000000067/hnbblive/index.m3u8$4M1080_湖南bblive
+NewTV精品萌宠,http://10.0.0.5:50001/TVOD/1000000006000032328/ystenlive/index.m3u8$4M1080_易视腾
+NewTV精品体育,http://10.0.0.5:50001/TVOD/2000000003000000021/hnbblive/index.m3u8$4M1080_湖南bblive
+NewTV精品体育,http://10.0.0.5:50001/TVOD/1000000004000014634/ystenlive/index.m3u8$4M1080_易视腾
+NewTV精品综合,http://10.0.0.5:50001/TVOD/2000000003000000008/hnbblive/index.m3u8$4M1080_湖南bblive
+NewTV精品综合,http://10.0.0.5:50001/TVOD/1000000004000019008/ystenlive/index.m3u8$4M1080_易视腾
+NewTV军旅剧场,http://10.0.0.5:50001/TVOD/2000000003000000014/hnbblive/index.m3u8$4M1080_湖南bblive
+NewTV军事评论,http://10.0.0.5:50001/TVOD/2000000003000000022/hnbblive/index.m3u8$4M1080_湖南bblive
+NewTV魅力潇湘,http://10.0.0.5:50001/TVOD/2000000003000000041/hnbblive/index.m3u8$4M1080_湖南bblive
+NewTV魅力潇湘,http://10.0.0.5:50001/TVOD/1000000001000006197/ystenlive/index.m3u8$4M1080_易视腾
+NewTV魅力潇湘,http://10.0.0.5:50001/TVOD/1000000005000266014/ystenlive/index.m3u8$4M1080_易视腾
+NewTV明星大片,http://10.0.0.5:50001/TVOD/2000000003000000016/hnbblive/index.m3u8$4M1080_湖南bblive
+NewTV农业致富,http://10.0.0.5:50001/TVOD/2000000003000000003/hnbblive/index.m3u8$4M1080_湖南bblive
+NewTV武博世界,http://10.0.0.5:50001/TVOD/2000000003000000007/hnbblive/index.m3u8$4M1080_湖南bblive
+NewTV炫舞未来,http://10.0.0.5:50001/TVOD/2000000003000000044/hnbblive/index.m3u8$4M1080_湖南bblive
+NewTV炫舞未来,http://10.0.0.5:50001/TVOD/1000000001000000515/ystenlive/index.m3u8$4M1080_易视腾
+NewTV怡伴健康,http://10.0.0.5:50001/TVOD/2000000003000000023/hnbblive/index.m3u8$4M1080_湖南bblive
+NewTV怡伴健康,http://10.0.0.5:50001/TVOD/1000000005000266011/ystenlive/index.m3u8$4M1080_易视腾
+NewTV中国功夫,http://10.0.0.5:50001/TVOD/2000000003000000009/hnbblive/index.m3u8$4M1080_湖南bblive
+
+SiTV频道,#genre#
+SiTV动漫秀场,http://10.0.0.5:50001/TVOD/5000000011000031113/bestzb/index.m3u8$7M1080_百视通
+SiTV动漫秀场,http://10.0.0.5:50001/TVOD/5000000002000023636/bestzb/index.m3u8$4M1080_百视通
+SiTV动漫秀场,http://10.0.0.5:50001/TVOD/2000000002000000009/hnbblive/index.m3u8$2.5M576_湖南bblive
+SiTV都市剧场,http://10.0.0.5:50001/TVOD/5000000011000031111/bestzb/index.m3u8$7M1080_百视通
+SiTV都市剧场,http://10.0.0.5:50001/TVOD/5000000002000004412/bestzb/index.m3u8$4M1080_百视通
+SiTV都市剧场,http://10.0.0.5:50001/TVOD/2000000002000000015/hnbblive/index.m3u8$2.5M576_湖南bblive
+SiTV法治天地,http://10.0.0.5:50001/TVOD/9001547084732463424/bestzb/index.m3u8$7M1080_百视通
+SiTV欢笑剧场,http://10.0.0.5:50001/TVOD/5000000002000009455/bestzb/index.m3u8$4M1080_百视通
+SiTV欢笑剧场,http://10.0.0.5:50001/TVOD/2000000002000000016/hnbblive/index.m3u8$3.5M1080_湖南bblive
+SiTV金色学堂,http://10.0.0.5:50001/TVOD/5000000010000026105/bestzb/index.m3u8$7M1080_百视通
+SiTV金色学堂,http://10.0.0.5:50001/TVOD/2000000002000000061/hnbblive/index.m3u8$7M1080_湖南bblive
+SiTV劲爆体育,http://10.0.0.5:50001/TVOD/5000000002000029972/bestzb/index.m3u8$4M1080_百视通
+SiTV劲爆体育,http://10.0.0.5:50001/TVOD/2000000002000000008/hnbblive/index.m3u8$1.2M540_湖南bblive
+SiTV乐游,http://10.0.0.5:50001/TVOD/5000000011000031112/bestzb/index.m3u8$7M1080_百视通
+SiTV乐游,http://10.0.0.5:50001/TVOD/2000000002000000092/hnbblive/index.m3u8$7M1080_湖南bblive
+SiTV乐游,http://10.0.0.5:50001/TVOD/5000000006000040025/bestzb/index.m3u8$4M1080_百视通
+SiTV乐游,http://10.0.0.5:50001/TVOD/2000000002000000059/hnbblive/index.m3u8$1.2M576_湖南bblive
+SiTV魅力足球,http://10.0.0.5:50001/TVOD/5000000011000031207/bestzb/index.m3u8$7M1080_百视通
+SiTV魅力足球,http://10.0.0.5:50001/TVOD/2000000002000000068/hnbblive/index.m3u8$7M1080_湖南bblive
+SiTV七彩戏剧,http://10.0.0.5:50001/TVOD/5000000011000031116/bestzb/index.m3u8$7M1080_百视通
+SiTV七彩戏剧,http://10.0.0.5:50001/TVOD/2000000002000000010/hnbblive/index.m3u8$7M1080_湖南bblive
+SiTV生活时尚,http://10.0.0.5:50001/TVOD/5000000002000019634/bestzb/index.m3u8$4M1080_百视通
+SiTV生活时尚,http://10.0.0.5:50001/TVOD/2000000002000000006/hnbblive/index.m3u8$2.5M720_湖南bblive
+SiTV游戏风云,http://10.0.0.5:50001/TVOD/5000000011000031114/bestzb/index.m3u8$7M1080_百视通
+SiTV游戏风云,http://10.0.0.5:50001/TVOD/5000000002000027005/bestzb/index.m3u8$4M1080_百视通
+SiTV游戏风云,http://10.0.0.5:50001/TVOD/2000000002000000011/hnbblive/index.m3u8$2.5M576_湖南bblive
+
+iHOT频道,#genre#
+Hot风尚音乐,http://10.0.0.5:50001/TVOD/2000000004000000004/hnbblive/index.m3u8$2.5M720_湖南bblive
+Hot风尚音乐,http://10.0.0.5:50001/TVOD/5529729098703832176/wasusyt/index.m3u8$2.5M720_华数
+Hot精品剧场,http://10.0.0.5:50001/TVOD/2000000004000000002/hnbblive/index.m3u8$2.5M720_湖南bblive
+Hot精品剧场,http://10.0.0.5:50001/TVOD/8230197131234717902/wasusyt/index.m3u8$2.5M720_华数
+Hot欧美影院,http://10.0.0.5:50001/TVOD/2000000004000000005/hnbblive/index.m3u8$2.5M720_湖南bblive
+Hot欧美影院,http://10.0.0.5:50001/TVOD/7185203501769528108/wasusyt/index.m3u8$2.5M720_华数
+Hot亚洲影院,http://10.0.0.5:50001/TVOD/2000000004000000006/hnbblive/index.m3u8$2.5M720_湖南bblive
+Hot亚洲影院,http://10.0.0.5:50001/TVOD/5841816227539527643/wasusyt/index.m3u8$2.5M720_华数
+爱谍战,http://10.0.0.5:50001/TVOD/6000000006000070630/wasusyt/index.m3u8$7.2M1080_华数
+爱谍战,http://10.0.0.5:50001/TVOD/2000000004000000038/hnbblive/index.m3u8$6.8M1080_湖南bblive
+爱动漫,http://10.0.0.5:50001/TVOD/6000000006000280630/wasusyt/index.m3u8$7.2M1080_华数
+爱动漫,http://10.0.0.5:50001/TVOD/2000000004000000059/hnbblive/index.m3u8$6.8M1080_湖南bblive
+爱都市,http://10.0.0.5:50001/TVOD/6000000006000080630/wasusyt/index.m3u8$7.2M1080_华数
+爱怀旧,http://10.0.0.5:50001/TVOD/6000000006000260630/wasusyt/index.m3u8$7.2M1080_华数
+爱经典,http://10.0.0.5:50001/TVOD/6000000006000060630/wasusyt/index.m3u8$7.2M1080_华数
+爱科幻,http://10.0.0.5:50001/TVOD/6000000006000020630/wasusyt/index.m3u8$7.2M1080_华数
+爱科幻,http://10.0.0.5:50001/TVOD/2000000004000000033/hnbblive/index.m3u8$6.8M1080_湖南bblive
+爱科学,http://10.0.0.5:50001/TVOD/6000000006000160630/wasusyt/index.m3u8$7.2M1080_华数
+爱科学,http://10.0.0.5:50001/TVOD/2000000004000000047/hnbblive/index.m3u8$6.8M1080_湖南bblive
+爱浪漫,http://10.0.0.5:50001/TVOD/6000000006000040630/wasusyt/index.m3u8$7.2M1080_华数
+爱浪漫,http://10.0.0.5:50001/TVOD/2000000004000000035/hnbblive/index.m3u8$6.8M1080_湖南bblive
+爱历史,http://10.0.0.5:50001/TVOD/6000000006000150630/wasusyt/index.m3u8$7.2M1080_华数
+爱历史,http://10.0.0.5:50001/TVOD/2000000004000000046/hnbblive/index.m3u8$6.8M1080_湖南bblive
+爱旅行,http://10.0.0.5:50001/TVOD/6000000006000250630/wasusyt/index.m3u8$7.2M1080_华数
+爱旅行,http://10.0.0.5:50001/TVOD/2000000004000000056/hnbblive/index.m3u8$6.8M1080_湖南bblive
+爱奇谈,http://10.0.0.5:50001/TVOD/6000000006000270630/wasusyt/index.m3u8$7.2M1080_华数
+爱奇谈,http://10.0.0.5:50001/TVOD/2000000004000000058/hnbblive/index.m3u8$6.8M1080_湖南bblive
+爱青春,http://10.0.0.5:50001/TVOD/6000000006000100630/wasusyt/index.m3u8$7.2M1080_华数
+爱赛车,http://10.0.0.5:50001/TVOD/6000000006000240630/wasusyt/index.m3u8$7.2M1080_华数
+爱赛车,http://10.0.0.5:50001/TVOD/2000000004000000055/hnbblive/index.m3u8$6.8M1080_湖南bblive
+爱体育,http://10.0.0.5:50001/TVOD/6000000006000290630/wasusyt/index.m3u8$7.2M1080_华数
+爱体育,http://10.0.0.5:50001/TVOD/2000000004000000060/hnbblive/index.m3u8$6.8M1080_湖南bblive
+爱玩具,http://10.0.0.5:50001/TVOD/6000000006000220630/wasusyt/index.m3u8$7.2M1080_华数
+爱玩具,http://10.0.0.5:50001/TVOD/2000000004000000053/hnbblive/index.m3u8$6.8M1080_湖南bblive
+爱喜剧,http://10.0.0.5:50001/TVOD/6000000006000010630/wasusyt/index.m3u8$7.2M1080_华数
+爱喜剧,http://10.0.0.5:50001/TVOD/2000000004000000032/hnbblive/index.m3u8$6.8M1080_湖南bblive
+爱悬疑,http://10.0.0.5:50001/TVOD/6000000006000050630/wasusyt/index.m3u8$7.2M1080_华数
+爱悬疑,http://10.0.0.5:50001/TVOD/2000000004000000036/hnbblive/index.m3u8$6.8M1080_湖南bblive
+爱幼教,http://10.0.0.5:50001/TVOD/6000000006000180630/wasusyt/index.m3u8$7.2M1080_华数
+爱幼教,http://10.0.0.5:50001/TVOD/2000000004000000049/hnbblive/index.m3u8$6.8M1080_湖南bblive
+爱院线,http://10.0.0.5:50001/TVOD/6000000006000030630/wasusyt/index.m3u8$7.2M1080_华数
+爱院线,http://10.0.0.5:50001/TVOD/2000000004000000034/hnbblive/index.m3u8$6.8M1080_湖南bblive
 
 YQ家专用,#genre#
 CCTV1,http://10.0.0.1:4000/udp/233.50.201.118:5140
@@ -627,196 +755,239 @@ CM,http://10.0.0.7:20005/hls/live/501.m3u8?token=816297213469304
 广东体育,http://10.0.0.7:20005/hls/live/503.m3u8?token=816297213469304
 SuperSport LaLiga,http://10.0.0.7:20005/hls/live/700.m3u8?token=816297213469304
 
-AKTV台湾,#genre#
-28 AI 智慧賽馬,http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
-Channel 5 HD,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
-Channel 8 HD,http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
-Channel U HD,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
-myTV SUPER 18台,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
-PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
-ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
-TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
-TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
-TVBS-新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
-中天亞洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
-中天新聞台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
-中視,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
-千禧經典台(HK),http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
-娛樂新聞台(HK),http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
-寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
-日本全天新聞,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
-明珠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
-明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
-無線新聞台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
-美亞電影台(HK),http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
-翡翠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
-翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-翡翠综合台(北美),http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
-華視,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
-靖天電影台,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
-鳳凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
-鳳凰資訊,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-鳳凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
-黃金翡翠台,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
-龍華日韓台,http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
-龍華經典台,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
-龍華電影台,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
-AXN,http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
-i-Fun 動漫台,http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8
-Love Nature HD,http://aktv.top/AKTV/live/aktv2/lovenaturehd/AKTV.m3u8
-Now星影台,http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
-Now爆谷台,http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8
-viutv 99,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
-viutv6 96,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
-无线新闻台(北美),http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
-東森新聞,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
-Animax(HK),http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
-Astro AEC,http://aktv.top/AKTV/live/aktv3/astroaec/AKTV.m3u8
-Astro iQIYI,http://aktv.top/AKTV/live/aktv3/astroiqiyi/AKTV.m3u8
-Astro Xing He,http://aktv.top/AKTV/live/aktv3/astroxinghe/AKTV.m3u8
-DW,http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
-France 24,http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
-KIX,http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
-Love Nature HD,http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
-NHK World-Japan,http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
-NHK東京総合,http://aktv.top/AKTV/live/aktv3/nhk/AKTV.m3u8
-Nick Jr,http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
-Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
-Thrill,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
-ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
-亞洲新聞台,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
-東方衛視國際頻道,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
-無線衛星新聞台,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
-翡翠台4K,http://aktv.top/AKTV/live/aktv3/4k/AKTV.m3u8
+Judy「自用」港台,#genre#
+翡翠台4K,https://video.mytvsuper.xyz/live/6b6010bfabd40dccd46e3102458c28e47b154bd513b8c872237ae6666b3911c0.php?token=816297213554912
+鳳凰衛視中文台,https://video.mytvsuper.xyz/live/c120fc8483245163e3f4da19b50af1486b89e7455477b73608d4c5ad4c863b85.m3u8?token=816297213554912
+鳳凰衛視資訊台,https://video.mytvsuper.xyz/live/38406db4df1056244d3d6c6b91c064c5e758b6ab3731f1e6af6f992451bb15fe.m3u8?token=816297213554912
+鳳凰衛視香港台,https://video.mytvsuper.xyz/live/8ff97ecd9bf00f57878acace42c89624f142ae2c7e5e7cb4bba23c41c03b99f4.m3u8?token=816297213554912
+澳视Macau[官网],https://video.mytvsuper.xyz/live/03a2b48c4a4f1d8ac0adf41eb8774379472fd8f17795967815b445624105b59a.m3u8?token=816297213554912
+澳视澳门[官网],https://video.mytvsuper.xyz/live/2fb61071fdec4428db2b3bf0553190b5d55ea29da1a61736553c46e9d9dc5290.m3u8?token=816297213554912
+澳视葡文[官网],https://video.mytvsuper.xyz/live/742d8a19dc2b3eb20c84693c1cad7746ba6578d641341f7efbeecd04484db621.m3u8?token=816297213554912
+澳视综艺[官网],https://video.mytvsuper.xyz/live/a8c419334c245600340ded2fb2fd379fa282c42f2d62830c06b87517fcc9eb7c.m3u8?token=816297213554912
+澳视体育[官网],https://video.mytvsuper.xyz/live/5f633316cfcb9852bb3082ceee371ac0ebb3938a3f409eff3d898490cfc2094d.m3u8?token=816297213554912
+澳视资讯[TDM],https://video.mytvsuper.xyz/live/19121f65bf5e810baaa896ee5b05e591810ff9d5caebdca8023f5c7128bab4c9.m3u8?token=816297213554912
+Now sports 4K1,https://video.mytvsuper.xyz/live/8ae605a0c87e9184a38220bb9c4489dfa25fe709914bf86b76cad4a91deb9ae5.m3u8?token=816297213554912
+NOW直播台,https://video.mytvsuper.xyz/live/cdc517c4387e78926b31df8a62cbedc2fb96fd8f6c1fa4c7ab66d8faa630002f.php?token=816297213554912
+NOW新闻台,https://video.mytvsuper.xyz/live/30c9c5ba7882c593484f60c34e45deefb24f2700680ab0893741d9f297698a88.php?token=816297213554912
+NOW财经台,https://video.mytvsuper.xyz/live/ff5d16ea887207eccf73228ceef4202421168e9275c2a259f2deac716d6773ee.php?token=816297213554912
+ViuTV,https://video.mytvsuper.xyz/live/624259169d3d54442255f9f17d347ddd6324e6d5a5d1a1f748d1dea55798ceea.php?token=816297213554912
+ViuTV6,https://video.mytvsuper.xyz/live/5b0d8fb9109d3fcc0a1aa60b353aa5bfa81f1cfede277441a40398d98dd676fa.php?token=816297213554912
+HOY国际财经台,https://video.mytvsuper.xyz/live/21ccb853530fd215f28990718ac764b8d06df4bd32c1561a9cd17174512adc46.php?token=816297213554912
+HOY资讯台,https://video.mytvsuper.xyz/live/a33aa92d9ebe2b317df57dabb01bcff503be86cfd0789f84b28b4e2cb6ff7627.php?token=816297213554912
+HOY TV,https://video.mytvsuper.xyz/live/ca6b477f9f5ea904c4c8e4893d52c31880586ba39467aa15ea0f4be4698a3956.php?token=816297213554912
+广东体育,https://video.mytvsuper.xyz/live/7c67e185582e1bee64f7068a4072351df24a5df26ba63e5cf1b17f2881d89c7f.php?token=816297213554912
+龍祥時代,https://video.mytvsuper.xyz/live/e999515d261ff70595f8133dff7128a17c3606beec71c2945e572d133097c86b.m3u8?token=816297213554912
+翡翠台(字幕版),https://video.mytvsuper.xyz/live/8654dec334e1e1f4b14cc20a476e00d2acf14fbdff67a3584bf53fd5ba3a2632.m3u8?token=816297213554912
+HollywoodMovies,https://video.mytvsuper.xyz/live/7e9e2c85f446a7059730820ddf48534b1fc29c421a8503ec54ed1784d028bdbf.php?token=816297213554912
+Now星影台,https://video.mytvsuper.xyz/live/8f02862e7f96f31765c0ea8347832f78eafc09e08b81af41e5e64bc1deaf6748.m3u8?token=816297213554912
+Now爆谷台,https://video.mytvsuper.xyz/live/16d727653f2d77a4ef415a54be8f481929bdfbc0b7f430f2248de6d71b2bcb74.m3u8?token=816297213554912
+美亚电影台,https://video.mytvsuper.xyz/live/72f203785d9baf225b0c3abfc768cf3a2a0b3a87962a338e2ca55bbaf66a4793.php?token=816297213554912
+天映频道,https://video.mytvsuper.xyz/live/054afb3169bde5df48c8ca55af5fbf0bcb0b5af6cf38d2a38e4822d003870c4b.php?token=816297213554912
+纬来电影台,https://video.mytvsuper.xyz/live/b358ad668bb86ec7cfecf9996ac2f1ba3b6b3e5a3f39fb19d079344115f0a5e9.php?token=816297213554912
+纬来日本台,https://video.mytvsuper.xyz/live/a65b3292fb5c0087722a9dbda5f6bdb0bd19fa0f233fdd489aa865195a63a8f8.php?token=816297213554912
+纬来日本台(备),https://video.mytvsuper.xyz/live/cf2df25c7ffd41165c3a5353eafd5f17e08bc0b92f81a7a630ed96c24f0c1815.php?token=816297213554912
+纬来体育台,https://video.mytvsuper.xyz/live/fccceef3ad1dde707c15ed4633367b27a1d8eb8c4929ebfd1cff0ae5e759b6f5.php?token=816297213554912
+緯來綜合,https://video.mytvsuper.xyz/live/67388f2a006aea30dca4349210c16afa9a86e83db6ecf37c8a039e4b4deb7e05.m3u8?token=816297213554912
+东森电影台,https://video.mytvsuper.xyz/live/3873bf0de7a1bc1573881151e401689f16f83005e1c8d0c568c6dc1c32937bf8.php?token=816297213554912
+东森洋片台,https://video.mytvsuper.xyz/live/ae2e773257c5eeda8dc623956837e0a1ce21abf16bde8a78b638c79a042051fe.php?token=816297213554912
+东森综合,https://video.mytvsuper.xyz/live/70969916e4127e8400b3b0fd2c14b129232e49c1b03db6deab64ba66e6efb238.php?token=816297213554912
+东森幼幼台,https://video.mytvsuper.xyz/live/b604ed854d08c3fed135ceb2711bd19fa6e9271d3c7360e3eb1ddc545c6972bc.php?token=816297213554912
+爱尔达影剧台,https://video.mytvsuper.xyz/live/add5a7bc8d0cd90e75e893fa078ade1d56855377727b9e7e81e5493a4113ef09.php?token=816297213554912
+i-Fun 動漫台,https://video.mytvsuper.xyz/live/28088ba2bbcb7759813659c75a7e19adc6fd8ff1f792e19b63c0751bd24f864c.php?token=816297213554912
+tvbs,https://video.mytvsuper.xyz/live/af626737cc042f23556fc37cb6101929c93b86896a2116ed7ff5abf5ede5ad38.php?token=816297213554912
+Astro QJ,https://video.mytvsuper.xyz/live/bff4a84170c5ad33b9e013b51e996fdb28800ce5eca8a4f1152ac2e7e75687c4.php?token=816297213554912
+Astro AEC,https://video.mytvsuper.xyz/live/69107d94a06cd28a376aef4929b0a915e8168019440fd2631da20f9fbc2c2304.php?token=816297213554912
+CNN HD,https://video.mytvsuper.xyz/live/684381d7d6d09ce9a05a0c21fed376f3042be4abd417aca7423a663a96106968.php?token=816297213554912
+Astro AOD HD SG,https://video.mytvsuper.xyz/live/b5bad8a44adbd10548bd38b2a29da2609c1313e7cf5c6fcaead82f5bb441d520.php?token=816297213554912
+ViuTV,https://video.mytvsuper.xyz/live/879994e598e62a4f00c4708b2a038044d05330a8e6bdc19f94c27979f4ad6390.php?token=816297213554912
+ViuTV6,https://video.mytvsuper.xyz/live/11dd7c7fef8da67d88f0c41a34074ccd0b01977e06ef8a3cfadaa714c6750b90.php?token=816297213554912
+Astro Supersports 1,https://video.mytvsuper.xyz/live/111ae314ad2fe4c4be186370c38742f9440fc8b84ac648d155adc3e2cf85f913.php?token=816297213554912
+Astro Supersports 2,https://video.mytvsuper.xyz/live/f160e90ded92b074409cd1dafbd196291ce02082a1dbcc0f92cf1a3737201efc.php?token=816297213554912
+Astro Supersports 3,https://video.mytvsuper.xyz/live/70d27dabd126677e9475e7ee3538a8e77a465cbd0d8e59ef66c6b2e2b74c1550.php?token=816297213554912
+Astro Supersports 4,https://video.mytvsuper.xyz/live/61d88a415cdedc2ef02a96c7355d424f5fad2b07516bc9272e02f61e8fba780d.php?token=816297213554912
+Astro Supersports 5,https://video.mytvsuper.xyz/live/ff829f52f95c76ca07950382c4dea90e16b5cd07e596b71240bac14f8a27dbec.php?token=816297213554912
+翡翠台(字幕版),https://video.mytvsuper.xyz/live/04b6c5d20ddbe5513c7970385644ccaae0a5e3c1a2e3269cd1fd2375a33b3ecb.m3u8?token=816297213554912
+广东体育,https://video.mytvsuper.xyz/live/907a6023e766d0bce76520d0ecfef51692200af2f26dd1bc454c4fbbcbea1f86.m3u8?token=816297213554912
+TVB星河台 L-HL,https://video.mytvsuper.xyz/live/84f43c2413ed5a093155965109fb69bb06ae3e6ae730c073e1d13a04f2961239.php?token=816297213554912
+Astro千禧经典台,https://video.mytvsuper.xyz/live/d30fd62c72a254c7cf530df704a2a56f02640a5b2e1b480aaf1856a9c51cd1f8.m3u8?token=816297213554912
+Astro天映频道,https://video.mytvsuper.xyz/live/97732910e21583c2982c5f205e6c19908ed9a6d68959565e8b8bc3ab3ddb485c.m3u8?token=816297213554912
 
-NewTV频道,#genre#
-NewTV爱情喜剧,http://10.0.0.5:50001/TVOD/2000000003000000010/hnbblive/index.m3u8$4M1080_湖南bblive
-NewTV超级电视剧,http://10.0.0.5:50001/TVOD/1000000006000268003/ystenlive/index.m3u8$8M1080_易视腾
-NewTV超级电视剧,http://10.0.0.5:50001/TVOD/2000000003000000032/hnbblive/index.m3u8$4M1080_湖南bblive
-NewTV超级电视剧,http://10.0.0.5:50001/TVOD/1000000001000008139/ystenlive/index.m3u8$4M1080_易视腾
-NewTV超级电视剧,http://10.0.0.5:50001/TVOD/1000000004000024993/ystenlive/index.m3u8$4M1080_易视腾
-NewTV超级电影,http://10.0.0.5:50001/TVOD/1000000003000012426/ystenlive/index.m3u8$8M1080_易视腾
-NewTV超级电影,http://10.0.0.5:50001/TVOD/2000000003000000031/hnbblive/index.m3u8$4M1080_湖南bblive
-NewTV超级电影,http://10.0.0.5:50001/TVOD/1000000001000012884/ystenlive/index.m3u8$4M1080_易视腾
-NewTV超级电影,http://10.0.0.5:50001/TVOD/1000000004000002120/ystenlive/index.m3u8$4M1080_易视腾
-NewTV超级体育,http://10.0.0.5:50001/TVOD/1000000001000009601/ystenlive/index.m3u8$8M1080_易视腾
-NewTV超级体育,http://10.0.0.5:50001/TVOD/2000000003000000030/hnbblive/index.m3u8$4M1080_湖南bblive
-NewTV超级体育,http://10.0.0.5:50001/TVOD/1000000001000009204/ystenlive/index.m3u8$4M1080_易视腾
-NewTV超级体育,http://10.0.0.5:50001/TVOD/1000000004000007755/ystenlive/index.m3u8$4M1080_易视腾
-NewTV超级综艺,http://10.0.0.5:50001/TVOD/1000000006000268002/ystenlive/index.m3u8$8M1080_易视腾
-NewTV超级综艺,http://10.0.0.5:50001/TVOD/2000000003000000029/hnbblive/index.m3u8$4M1080_湖南bblive
-NewTV超级综艺,http://10.0.0.5:50001/TVOD/1000000001000025771/ystenlive/index.m3u8$4M1080_易视腾
-NewTV超级综艺,http://10.0.0.5:50001/TVOD/1000000004000023658/ystenlive/index.m3u8$4M1080_易视腾
-NewTV潮妈辣婆,http://10.0.0.5:50001/TVOD/2000000003000000018/hnbblive/index.m3u8$4M1080_湖南bblive
-NewTV东北剧场,http://10.0.0.5:50001/TVOD/1000000005000266013/ystenlive/index.m3u8$4M1080_易视腾
-NewTV东北热剧,http://10.0.0.5:50001/TVOD/2000000003000000051/hnbblive/index.m3u8$4M1080_湖南bblive
-NewTV动作电影,http://10.0.0.5:50001/TVOD/2000000003000000017/hnbblive/index.m3u8$4M1080_湖南bblive
-NewTV动作电影,http://10.0.0.5:50001/TVOD/1000000004000018653/ystenlive/index.m3u8$4M1080_易视腾
-NewTV古装剧场,http://10.0.0.5:50001/TVOD/2000000003000000024/hnbblive/index.m3u8$4M1080_湖南bblive
-NewTV欢乐剧场,http://10.0.0.5:50001/TVOD/2000000003000000050/hnbblive/index.m3u8$4M1080_湖南bblive
-NewTV欢乐剧场,http://10.0.0.5:50001/TVOD/1000000005000266012/ystenlive/index.m3u8$4M1080_易视腾
-NewTV家庭剧场,http://10.0.0.5:50001/TVOD/2000000003000000012/hnbblive/index.m3u8$4M1080_湖南bblive
-NewTV家庭剧场,http://10.0.0.5:50001/TVOD/1000000004000008284/ystenlive/index.m3u8$4M1080_易视腾
-NewTV金牌综艺,http://10.0.0.5:50001/TVOD/2000000003000000005/hnbblive/index.m3u8$4M1080_湖南bblive
-NewTV金牌综艺,http://10.0.0.5:50001/TVOD/1000000004000026167/ystenlive/index.m3u8$4M1080_易视腾
-NewTV惊悚悬疑,http://10.0.0.5:50001/TVOD/2000000003000000015/hnbblive/index.m3u8$4M1080_湖南bblive
-NewTV惊悚悬疑,http://10.0.0.5:50001/TVOD/1000000004000024282/ystenlive/index.m3u8$4M1080_易视腾
-NewTV精品大剧,http://10.0.0.5:50001/TVOD/2000000003000000020/hnbblive/index.m3u8$4M1080_湖南bblive
-NewTV精品大剧,http://10.0.0.5:50001/TVOD/1000000004000013968/ystenlive/index.m3u8$4M1080_易视腾
-NewTV精品纪录,http://10.0.0.5:50001/TVOD/1000000004000013730/ystenlive/index.m3u8$4M1080_易视腾
-NewTV精品记录,http://10.0.0.5:50001/TVOD/2000000003000000019/hnbblive/index.m3u8$4M1080_湖南bblive
-NewTV精品萌宠,http://10.0.0.5:50001/TVOD/2000000003000000067/hnbblive/index.m3u8$4M1080_湖南bblive
-NewTV精品萌宠,http://10.0.0.5:50001/TVOD/1000000006000032328/ystenlive/index.m3u8$4M1080_易视腾
-NewTV精品体育,http://10.0.0.5:50001/TVOD/2000000003000000021/hnbblive/index.m3u8$4M1080_湖南bblive
-NewTV精品体育,http://10.0.0.5:50001/TVOD/1000000004000014634/ystenlive/index.m3u8$4M1080_易视腾
-NewTV精品综合,http://10.0.0.5:50001/TVOD/2000000003000000008/hnbblive/index.m3u8$4M1080_湖南bblive
-NewTV精品综合,http://10.0.0.5:50001/TVOD/1000000004000019008/ystenlive/index.m3u8$4M1080_易视腾
-NewTV军旅剧场,http://10.0.0.5:50001/TVOD/2000000003000000014/hnbblive/index.m3u8$4M1080_湖南bblive
-NewTV军事评论,http://10.0.0.5:50001/TVOD/2000000003000000022/hnbblive/index.m3u8$4M1080_湖南bblive
-NewTV魅力潇湘,http://10.0.0.5:50001/TVOD/2000000003000000041/hnbblive/index.m3u8$4M1080_湖南bblive
-NewTV魅力潇湘,http://10.0.0.5:50001/TVOD/1000000001000006197/ystenlive/index.m3u8$4M1080_易视腾
-NewTV魅力潇湘,http://10.0.0.5:50001/TVOD/1000000005000266014/ystenlive/index.m3u8$4M1080_易视腾
-NewTV明星大片,http://10.0.0.5:50001/TVOD/2000000003000000016/hnbblive/index.m3u8$4M1080_湖南bblive
-NewTV农业致富,http://10.0.0.5:50001/TVOD/2000000003000000003/hnbblive/index.m3u8$4M1080_湖南bblive
-NewTV武博世界,http://10.0.0.5:50001/TVOD/2000000003000000007/hnbblive/index.m3u8$4M1080_湖南bblive
-NewTV炫舞未来,http://10.0.0.5:50001/TVOD/2000000003000000044/hnbblive/index.m3u8$4M1080_湖南bblive
-NewTV炫舞未来,http://10.0.0.5:50001/TVOD/1000000001000000515/ystenlive/index.m3u8$4M1080_易视腾
-NewTV怡伴健康,http://10.0.0.5:50001/TVOD/2000000003000000023/hnbblive/index.m3u8$4M1080_湖南bblive
-NewTV怡伴健康,http://10.0.0.5:50001/TVOD/1000000005000266011/ystenlive/index.m3u8$4M1080_易视腾
-NewTV中国功夫,http://10.0.0.5:50001/TVOD/2000000003000000009/hnbblive/index.m3u8$4M1080_湖南bblive
+体育视频「需梯子」,#genre#
+TNT SPORTS 1,https://video.mytvsuper.xyz/live/42cb7611ed21119205acf4dccc2a5937c771d7c9025b86de71f072d8703b9f23.php?token=816297213554912
+TNT SPORTS 1,https://video.mytvsuper.xyz/live/f97f7a036573ebc3dc93718cdcfa8d8674c948bb7c12432374f62d6123aab069.php?token=816297213554912
+TNT SPORTS 2,https://video.mytvsuper.xyz/live/515ec31b0bbcd077a066e314f4ed53ca43e6604f6c20972568177f0c098de04f.php?token=816297213554912
+TNT SPORTS 2,https://video.mytvsuper.xyz/live/83652a0f8bbebbe833c69d3f71888aa15ac6e5aadc012b65136b5a67f494473e.php?token=816297213554912
+TNT SPORTS 3,https://video.mytvsuper.xyz/live/ceb9217788af8cf048d7fe143e32f9a8bdd0455e70fa794ff22036dddca7283c.php?token=816297213554912
+TNT SPORTS 3,https://video.mytvsuper.xyz/live/981cb968c940d4c559a9c09ea6b83e759e85816fc85eda6280c7e6e32b05f547.php?token=816297213554912
+TNT SPORTS 4,https://video.mytvsuper.xyz/live/2c28c2e5a6520fb337ff89a4793f370b26479c137e4ab2a590aed51fa9ff6d71.php?token=816297213554912
+TNT SPORTS 4,https://video.mytvsuper.xyz/live/563a14d48f75314c82bc07cab71227e2a1b6b3e1f533fac349be39075942952c.php?token=816297213554912
+SKY SPORTS FOOTBALL,https://video.mytvsuper.xyz/live/07f36ab73b2464cb9cad55b429d786951837fce20981d91907c2805c62d7587b.php?token=816297213554912
+SKY SPORTS FOOTBALL,https://video.mytvsuper.xyz/live/afc1f0835e4b5b2c9b7b337cb87b141fbcfb14397f4e50d72ecc3b41cd8b6efc.php?token=816297213554912
+SKY SPORTS MAIN EVENT,https://video.mytvsuper.xyz/live/b2b24c8dcb9dfe62914f87b90520e83096eaeb6df0dc118e62e3af22a542a9eb.php?token=816297213554912
+SKY SPORTS MAIN EVENT,https://video.mytvsuper.xyz/live/4223931f34b10a29ed8e33c246d0acd21e02cd4cdc391742c8436903f20117d7.php?token=816297213554912
+SKY SPORTS PREMIER LEAGUE,https://video.mytvsuper.xyz/live/f129dea001fe1fe9eb5d99bdac1213c6bab2de8a51eca70ef825d3ffe37f442a.php?token=816297213554912
+SKY SPORTS PREMIER LEAGUE,https://video.mytvsuper.xyz/live/f0077e457b2dab974bfc056a84a19fcca0810cc9b39040c3d79796844840e018.php?token=816297213554912
+SKY SPORTS ACTION,https://video.mytvsuper.xyz/live/cccc99c7b648c84a1925c8cc1b4f7d5823e315a151c46844a5b626cc5fd60e26.php?token=816297213554912
+SKY SPORTS MIX,https://video.mytvsuper.xyz/live/36aaa92d35f4809c171f3dddfb3c147c759e34bf4d4ad33045ef99f78c9f6ceb.php?token=816297213554912
+SKY SPORTS ARENA,https://video.mytvsuper.xyz/live/ca52f3fc785a57892e1f5d584a3edf80ca8cb4a9c3cfa788720df8a5354338ec.php?token=816297213554912
+SKY SPORTS NEWS,https://video.mytvsuper.xyz/live/f27aa2620c34ffb41f4c6c655bf9c74eb40db3c26b6f4a84eab9102ca689050c.php?token=816297213554912
+SKY SPORTS CRICKET,https://video.mytvsuper.xyz/live/ae3e7f1094dd1ac127f7d8a8cf71ba95b1ba6301c29a8a68cce0427047437e22.php?token=816297213554912
+Sky Sports Tennis,https://video.mytvsuper.xyz/live/51723e718f58533e8e44609ae22fbb1e14ae3fe79f3553114b7c077963d53e64.php?token=816297213554912
+SKY SPORTS F1,https://video.mytvsuper.xyz/live/8782f812efdeb4be41e4d45f3faa20884e8f48d5686045675bb3e8eade5699c6.php?token=816297213554912
+SKY SPORTS GOLF,https://video.mytvsuper.xyz/live/d25510a63452737195fa8b6e31a9366eff169a60070c7fc081f8c9a4087b7da8.php?token=816297213554912
+SKY SPORTS RACING,https://video.mytvsuper.xyz/live/b6764cc9b6bb3bc5dc914e5f4b5cce01ba36fc31b4e32cae0fb851415693d5dd.php?token=816297213554912
+BEIN SPORTS USA,https://video.mytvsuper.xyz/live/fd3f8ef4cb7f8bbecff78914a4b29a1b7f61cbabfe89e4e03e55a4b48ff1f69a.php?token=816297213554912
+TENNIS CHANNEL,https://video.mytvsuper.xyz/live/c7c65645cc7ea8b17bfcb0f5b79f4f6af03b4d67e5be7f13e50c4a05a7f0d414.php?token=816297213554912
+LALIGA TV HD,https://video.mytvsuper.xyz/live/e5f24a95a09d9eaf20c0986f6440eaf0e6e28c143ebe00619fdab130cb3162c1.php?token=816297213554912
+HBO 1,https://video.mytvsuper.xyz/live/797b450a78b883c6c396eaa9e5d6c7e0eb4d55c34348edfacbb0450e7e27019b.php?token=816297213554912
+HBO 2,https://video.mytvsuper.xyz/live/ec17d5f5acca5f75ae501ed5e63e575482a8c154ae55e39e0f4c7ec4df945207.php?token=816297213554912
+Discovery Channel,https://video.mytvsuper.xyz/live/0e6566d916d1a2f961352e5da4253090306ce3ffa1891acbc1ecd6c43bc4f9f9.php?token=816297213554912
+Discovery Life,https://video.mytvsuper.xyz/live/9540a1da2df5243d5686e6af1e750876e4e3b108d3fcafed4df95bf2eefdbafe.php?token=816297213554912
+Cinemax West,https://video.mytvsuper.xyz/live/22766769dea1a7eb6e267333b5620341530d2aa1862b10d76aae8806ac18425f.php?token=816297213554912
+Great Movies,https://video.mytvsuper.xyz/live/5514cbd808eed4e1226c4a7f883eef7af80df73bc5aff3303c857e69472c70a2.php?token=816297213554912
+Sky Cinema Comedy,https://video.mytvsuper.xyz/live/1191e01716b17dfb8a02d28f42771f2cd56718013a4a07436ee796ccc3f5487e.php?token=816297213554912
+Sky Cinema Family,https://video.mytvsuper.xyz/live/3a218297eeea2f849b8e51aeb83a6d83459bcea556d6cd6b36fca21aeecc166c.php?token=816297213554912
+Cartoon Network,https://video.mytvsuper.xyz/live/b0d74235db45b6615eaa12660d0dd43e784880a6016696feafa86f264341330f.php?token=816297213554912
+Virgin 2,https://video.mytvsuper.xyz/live/cdc3d1b11304bec6b42f136b2c231f7614ad365c722f29ec78699e97aaa22437.php?token=816297213554912
+Virgin 3,https://video.mytvsuper.xyz/live/b7ec2c686c7c725182cc481ec7746010a2028b56adf843c410262928fabcc73f.php?token=816297213554912
+Virgin 1,https://video.mytvsuper.xyz/live/d69f6955037ca434d5ccb7954aa7be72b8e69c23f6ca6573dcdfa300e8b5a6a4.php?token=816297213554912
+DAZN,https://video.mytvsuper.xyz/live/231e0c862a3f3cd85b216deeed92d07643c38177b0a255387f8970477eb63431.php?token=816297213554912
+Bein Sports English 2,https://video.mytvsuper.xyz/live/1aaa5560cac8d54d82cfec837476f8f848cc5faca83ff4634c36bc0e1c0358e6.php?token=816297213554912
+SuperSport Premier League,https://video.mytvsuper.xyz/live/664ff24e1124ce211c80b082708be78d6e8ff91f7cde3e24cadb9871f6cf0ab6.php?token=816297213554912
+SuperSport LaLiga,https://video.mytvsuper.xyz/live/51f214d2ccc09d38094fbc467660bc4a06cd05852f0f3dbdf33c498f629af165.php?token=816297213554912
+SuperSport Action,https://video.mytvsuper.xyz/live/c2329f95a116c15a4665bd5a94bf50a86e2b727313d9cae697b0853ac7ac8a56.php?token=816297213554912
+SuperSport Blitz,https://video.mytvsuper.xyz/live/6e55e527798540197fbc08a8c01f368a80d8b3d61a3349cdee6a0650328ef438.php?token=816297213554912
+SuperSport Cricket,https://video.mytvsuper.xyz/live/7f8b1047e98ad747604f843660b3939c6cf493f3822a6de8c09fd48360da9635.php?token=816297213554912
+SuperSport Football,https://video.mytvsuper.xyz/live/0e25ed7312e34fd33b847664beeed5e43a5bd56126957688f064867f279c616e.php?token=816297213554912
+SuperSport Golf,https://video.mytvsuper.xyz/live/0f62f65c5fe4e687ce868672e583b6bd4d584766025956ff09da37c350309ee7.php?token=816297213554912
+SuperSport Rugby,https://video.mytvsuper.xyz/live/25f3307390ece63803d16eec9948454e5bbfba80a0462cfcaba25712a6e51c89.php?token=816297213554912
+SuperSport Tennis,https://video.mytvsuper.xyz/live/4ead052559c04ccc59848b930e15e8fb5c7272231e0d598b90533e1e22e19122.php?token=816297213554912
+Variety 1,https://video.mytvsuper.xyz/live/a748d9c9425c44fa2e5a1bd83862b19db0dddecef4393188ad6a169eb14856e2.php?token=816297213554912
+Variety 2,https://video.mytvsuper.xyz/live/14765d10340065b8823b16c79898a7e2d92f8832556d354cfde4dd25f56e7a9b.php?token=816297213554912
+Variety 3,https://video.mytvsuper.xyz/live/58a65789e40e1ad17760ea5d86d37facecb5b592614ee8467db4cd2b109aa063.php?token=816297213554912
+Variety 4,https://video.mytvsuper.xyz/live/a60a4e9e6402eeef70d51fbe52c96c0a154acba76eb33356939b57ce50aadcdf.php?token=816297213554912
+Eurosport 1,https://video.mytvsuper.xyz/live/63df21a97470c2cce8ac85a447b14693abf2fa593519106f3c3624faacb9c664.php?token=816297213554912
+Eurosport 2,https://video.mytvsuper.xyz/live/4d796f071e3a647dd83226e0cd3028feb3ddd818e8ecdf5377b777c0911c634c.php?token=816297213554912
+Premier Sports 1,https://video.mytvsuper.xyz/live/107beee229e67e19d52039ea0151940d7c053b84a20d58d7232d5199c9d532e1.php?token=816297213554912
+Premier Sports 2,https://video.mytvsuper.xyz/live/8b96e8b47d927699ae9c7cdc7490139707f26835199bba1a736bb73eb438e1ea.php?token=816297213554912
+Golf Channel,https://video.mytvsuper.xyz/live/92232195e3a692455d5a8002ac540eadef6cd9e7dca08b2535fb315161218af3.php?token=816297213554912
+MLB Network,https://video.mytvsuper.xyz/live/747ec0e92e6a088648f0689a49be4bdc9b0ba8e17743c3c9eb4f56299c3cc7ef.php?token=816297213554912
+NBA TV,https://video.mytvsuper.xyz/live/eca1826aa4d68f70612f91f0d9d3d3815d326312913388f72e919b8c6790d736.php?token=816297213554912
+NFL Network,https://video.mytvsuper.xyz/live/0d2849a2d32acba463fb8f0e0d7eed891af281fbcbfd3c849c2370590f9eef34.php?token=816297213554912
+NFL REDZONE,https://video.mytvsuper.xyz/live/67584b4eeb3c810d6d92f84462ce5223849e6df0da8d0c48c3bd37abf0758900.php?token=816297213554912
+NHL Network,https://video.mytvsuper.xyz/live/962ddee98971c3f6402dd6a62fedfcf4660770b7ff00d28700d6e74fbe42415b.php?token=816297213554912
+WWE,https://video.mytvsuper.xyz/live/838917bb91db12c09a9e10bd59d59cc1fa7f65770ea9cc80df1f13956c795196.php?token=816297213554912
+Willow Cricket,https://video.mytvsuper.xyz/live/fdc39df0139df976cf3950abd38812f01eb8fab85291596a1395a52bcf6c9c9c.php?token=816297213554912
+Willow Extra,https://video.mytvsuper.xyz/live/ab222bd81e83ef34292375b4f6f302598ba850afcc033edbdf16188337941928.php?token=816297213554912
+World Fishing Network,https://video.mytvsuper.xyz/live/3ba1254ca930b4ba582e750ed02f38ed45b91b898b3a8f7824838bcbf250bc04.php?token=816297213554912
+ESPN,https://video.mytvsuper.xyz/live/382dc26cf09e1144d723ed101a45bbac0c4136bab9607db0b29eec1db642efa3.php?token=816297213554912
+ESPN 2,https://video.mytvsuper.xyz/live/d1237753744a48f403752cb6667b0b286a55822ec0d61df89bf4ef308249f7ff.php?token=816297213554912
+ESPN News,https://video.mytvsuper.xyz/live/cf342471f84a068b02ea791bb26392981a6b0bf64014ff66f7ab62aa8d9e108b.php?token=816297213554912
+ESPN U,https://video.mytvsuper.xyz/live/4ab912cbfa0ad1a52d7a65e78102a6a740c4e67d4110691b7a46f1cfe1a2332b.php?token=816297213554912
+ITV 1,https://video.mytvsuper.xyz/live/99bd254eae54bf2652132316a485c7c23df01ead74f7eb4304c605af22c0f05c.php?token=816297213554912
+ITV 2,https://video.mytvsuper.xyz/live/c192608b6cbdc60dd3b692d7e45b3572fd269971fda1fd5bb230dd6c8fdbb231.php?token=816297213554912
+ITV 3,https://video.mytvsuper.xyz/live/024b23c5f03ebcac655ea478388922e5b0365e7ca7d621f442f3a76d524c42e5.php?token=816297213554912
+ITV 4,https://video.mytvsuper.xyz/live/bd6a38ffb99e34d56f11b34b6840b9d2a4f3d4351bffae96b23f93e610acc666.php?token=816297213554912
+MUTV,https://video.mytvsuper.xyz/live/baead7b2e6be63d612fd12f3c562ab1436d494720a6019478abd9dced1ec7bce.php?token=816297213554912
+LFC TV,https://video.mytvsuper.xyz/live/94c2a8daf00023e7e2c2d1faf1cc66778d9a99502166c77065ddd127a6d8749b.php?token=816297213554912
+FOX NEWS,https://video.mytvsuper.xyz/live/b86da1b9cdcdbd7e17344a7d7f7903b36e56488780b9327ae8309818d837d692.php?token=816297213554912
+ACC Network,https://video.mytvsuper.xyz/live/6be7405fbe92234d683b04ce1b45e3c3a720a708e561dd5701e94dd8b01d6589.php?token=816297213554912
+Fight Network,https://video.mytvsuper.xyz/live/584f37ca76b0a1d500a2719c005012cd3472c7af4f497072afbc58800d7d744b.php?token=816297213554912
+CBS Sports Network,https://video.mytvsuper.xyz/live/2cfe1436d2f036d21ef11b0b3305962de980393037690112db4005fa7a252281.php?token=816297213554912
+CNBC,https://video.mytvsuper.xyz/live/69594d501653b3ec7dd9c0ee2f7ef251209e4aab240a15738f1d7215b38da65c.php?token=816297213554912
+Fox Sports 1,https://video.mytvsuper.xyz/live/b68eedc80132f5dfb89873da7945faf7b7cd5f0bec3e6a41f3276e8afd280bad.php?token=816297213554912
+Fox Sports 2,https://video.mytvsuper.xyz/live/edd46e4ac20d1213592b70b138d97bb0dadce9d10db47572e4139f849ed56951.php?token=816297213554912
 
-SiTV频道,#genre#
-SiTV动漫秀场,http://10.0.0.5:50001/TVOD/5000000011000031113/bestzb/index.m3u8$7M1080_百视通
-SiTV动漫秀场,http://10.0.0.5:50001/TVOD/5000000002000023636/bestzb/index.m3u8$4M1080_百视通
-SiTV动漫秀场,http://10.0.0.5:50001/TVOD/2000000002000000009/hnbblive/index.m3u8$2.5M576_湖南bblive
-SiTV都市剧场,http://10.0.0.5:50001/TVOD/5000000011000031111/bestzb/index.m3u8$7M1080_百视通
-SiTV都市剧场,http://10.0.0.5:50001/TVOD/5000000002000004412/bestzb/index.m3u8$4M1080_百视通
-SiTV都市剧场,http://10.0.0.5:50001/TVOD/2000000002000000015/hnbblive/index.m3u8$2.5M576_湖南bblive
-SiTV法治天地,http://10.0.0.5:50001/TVOD/9001547084732463424/bestzb/index.m3u8$7M1080_百视通
-SiTV欢笑剧场,http://10.0.0.5:50001/TVOD/5000000002000009455/bestzb/index.m3u8$4M1080_百视通
-SiTV欢笑剧场,http://10.0.0.5:50001/TVOD/2000000002000000016/hnbblive/index.m3u8$3.5M1080_湖南bblive
-SiTV金色学堂,http://10.0.0.5:50001/TVOD/5000000010000026105/bestzb/index.m3u8$7M1080_百视通
-SiTV金色学堂,http://10.0.0.5:50001/TVOD/2000000002000000061/hnbblive/index.m3u8$7M1080_湖南bblive
-SiTV劲爆体育,http://10.0.0.5:50001/TVOD/5000000002000029972/bestzb/index.m3u8$4M1080_百视通
-SiTV劲爆体育,http://10.0.0.5:50001/TVOD/2000000002000000008/hnbblive/index.m3u8$1.2M540_湖南bblive
-SiTV乐游,http://10.0.0.5:50001/TVOD/5000000011000031112/bestzb/index.m3u8$7M1080_百视通
-SiTV乐游,http://10.0.0.5:50001/TVOD/2000000002000000092/hnbblive/index.m3u8$7M1080_湖南bblive
-SiTV乐游,http://10.0.0.5:50001/TVOD/5000000006000040025/bestzb/index.m3u8$4M1080_百视通
-SiTV乐游,http://10.0.0.5:50001/TVOD/2000000002000000059/hnbblive/index.m3u8$1.2M576_湖南bblive
-SiTV魅力足球,http://10.0.0.5:50001/TVOD/5000000011000031207/bestzb/index.m3u8$7M1080_百视通
-SiTV魅力足球,http://10.0.0.5:50001/TVOD/2000000002000000068/hnbblive/index.m3u8$7M1080_湖南bblive
-SiTV七彩戏剧,http://10.0.0.5:50001/TVOD/5000000011000031116/bestzb/index.m3u8$7M1080_百视通
-SiTV七彩戏剧,http://10.0.0.5:50001/TVOD/2000000002000000010/hnbblive/index.m3u8$7M1080_湖南bblive
-SiTV生活时尚,http://10.0.0.5:50001/TVOD/5000000002000019634/bestzb/index.m3u8$4M1080_百视通
-SiTV生活时尚,http://10.0.0.5:50001/TVOD/2000000002000000006/hnbblive/index.m3u8$2.5M720_湖南bblive
-SiTV游戏风云,http://10.0.0.5:50001/TVOD/5000000011000031114/bestzb/index.m3u8$7M1080_百视通
-SiTV游戏风云,http://10.0.0.5:50001/TVOD/5000000002000027005/bestzb/index.m3u8$4M1080_百视通
-SiTV游戏风云,http://10.0.0.5:50001/TVOD/2000000002000000011/hnbblive/index.m3u8$2.5M576_湖南bblive
+香港频道「免梯」,#genre#
+鳳凰衛視中文台,https://video.mytvsuper.xyz/live/c120fc8483245163e3f4da19b50af1486b89e7455477b73608d4c5ad4c863b85.m3u8?token=816297213554912
+鳳凰衛視資訊台,https://video.mytvsuper.xyz/live/38406db4df1056244d3d6c6b91c064c5e758b6ab3731f1e6af6f992451bb15fe.m3u8?token=816297213554912
+鳳凰衛視香港台,https://video.mytvsuper.xyz/live/8ff97ecd9bf00f57878acace42c89624f142ae2c7e5e7cb4bba23c41c03b99f4.m3u8?token=816297213554912
+美亞電影台,https://video.mytvsuper.xyz/live/b67dceb698c392bb81ece5c27b92ed9aaee928a3f8698d3ff2c2069324339186.m3u8?token=816297213554912
+PopC,https://video.mytvsuper.xyz/live/9e490cb7b678c8c4a9e3ea8f55380770608b0a83f4001f93a8f6f3f46a56d2ad.m3u8?token=816297213554912
+千禧經典台,https://video.mytvsuper.xyz/live/ac1601dcd9c17dab910fefff37eea194935a88fb60335042b53b96330dfd1986.m3u8?token=816297213554912
+天映經典頻道,https://video.mytvsuper.xyz/live/966372b5b246cd7215cf8209b8271478fcc89988e89439af4ff4d81354592b3c.m3u8?token=816297213554912
+翡翠台,https://video.mytvsuper.xyz/live/3fc2497f709c3b5c00c5c2bbc07a34a55b29873cdb46235549c21493db1460b2.m3u8?token=816297213554912
+黃金翡翠台,https://video.mytvsuper.xyz/live/e908b89d37a1d8fbca65c6220ca9daba9f8d7c131559a894ea59eed9fb91e249.m3u8?token=816297213554912
+明珠台,https://video.mytvsuper.xyz/live/01735a93264c01b9bbd9b985570ec86053f8d1c93eb99f862898e10cc5f375fd.m3u8?token=816297213554912
+娛樂新聞台,https://video.mytvsuper.xyz/live/1975d65cc7f9b5643843994c0027dfee2ba4a43dd65fc33fd6682aa1043eea74.m3u8?token=816297213554912
+無線新聞台,https://video.mytvsuper.xyz/live/b527e62b9a87efcfa3cf56bb220b0842e6eb2b034db370f8b750f950fd973306.m3u8?token=816297213554912
+無線衛星新聞台,https://video.mytvsuper.xyz/live/a86600e26cbda6e467a3cd113c574ff9b797eb46806eca24367175e4706d099e.m3u8?token=816297213554912
+亞洲新聞台,https://video.mytvsuper.xyz/live/e295f98ba5c129a61366d3d0962aa3d34827904bfaa74de14c507c5e2d2c4b49.m3u8?token=816297213554912
+黃金華劇台,https://video.mytvsuper.xyz/live/9d3e0b1802b4dee6a241e9217f2d153edaf4ca4193258d1557a1af2bbdde702a.m3u8?token=816297213554912
+Animax,https://video.mytvsuper.xyz/live/0e1a0e7cfb6f0b0a74b72e12702d00db0a662359f0c402ae0e5bfee6c84b2d4c.m3u8?token=816297213554912
+Arirang TV,https://video.mytvsuper.xyz/live/9238b23dc5146be605501ac1ae610cc21f918cf8b0bd6ca60118ff96a0be3d93.m3u8?token=816297213554912
+AXN,https://video.mytvsuper.xyz/live/1960b1c4ac0ff31c40cf0277b1ff23d0fe9f6c18bab0f9ff04b2b2ee45972942.m3u8?token=816297213554912
+DW,https://video.mytvsuper.xyz/live/633e936e57d2e869f42feaf9ba03830d6b2c739a7082ff86533182e95a8a2463.m3u8?token=816297213554912
+FashionBox,https://video.mytvsuper.xyz/live/999fbf255e7d3cb7e44a159d3748b885e25b9cd05e214adc2dbad0b64116ad05.m3u8?token=816297213554912
+France 24,https://video.mytvsuper.xyz/live/1e1a432d1b6e01cc965dfc91c0dfccc4652b0eb0766e43f6ebc013b0759318d7.m3u8?token=816297213554912
+Global Trekker,https://video.mytvsuper.xyz/live/49e27ae2e2d2402bc1310729d894662197fc0cfaa3d84e5ac5209ff56b7259da.m3u8?token=816297213554912
+KIX,https://video.mytvsuper.xyz/live/b31627137c4b6a0403ac6939a797bb13a67b0f8a352d0182dafaf2e4ba83eb61.m3u8?token=816297213554912
+Love Nature HD,https://video.mytvsuper.xyz/live/fc769a1a0d2c3a747a19e76c70db193686e6c6a1676661028054307f00523b23.m3u8?token=816297213554912
+Mezzo Live HD,https://video.mytvsuper.xyz/live/68bdc8a3dcd99d24021d1f3c452eb64dd70b53514e40ce14bc5b261966ed80f2.m3u8?token=816297213554912
+myTV SUPER 18台,https://video.mytvsuper.xyz/live/15e23cd5b0c5f6ca2124095f4bbf99dbe18a79b2f09d57536463c54e8e55be6d.m3u8?token=816297213554912
+NHK World-Japan,https://video.mytvsuper.xyz/live/3bbc696eb85f050da5f5b3c40b14203228beaed1e75d0a64626affd02924dacb.m3u8?token=816297213554912
+Nick Jr.,https://video.mytvsuper.xyz/live/d3b532f0246de08e289cff58352f12dd4c523e8876557e3191a43fefaf2267aa.m3u8?token=816297213554912
+Nickelodeon,https://video.mytvsuper.xyz/live/d244603c46ebce47929e95676bad50c12f7f8a0b8d3b05bcaeb3a0ffaea7a6c1.m3u8?token=816297213554912
+ROCK Action,https://video.mytvsuper.xyz/live/221b1a5941aedcc25435372b8064f46309d6fbc9cb2c720bfd84dd6342f6454d.m3u8?token=816297213554912
+ROCK 綜藝娛樂,https://video.mytvsuper.xyz/live/9a00b643aef1552ace7e9b317297db75be2d4398be25d9cac7ef6a05d2ea6f68.m3u8?token=816297213554912
+SUPER Kids Channel,https://video.mytvsuper.xyz/live/62f31b1d0a602a4ad52b598259d42958cebb566cd8d3470dc8d6af64ae5e8dfc.m3u8?token=816297213554912
+Thrill,https://video.mytvsuper.xyz/live/21299ec8303b0c6ce778204a00055ce0920fd1cf0ca8a8a0363d3f52844cae36.m3u8?token=816297213554912
+TVB Plus,https://video.mytvsuper.xyz/live/4f98df02d7bfc435192bef6feed18ce357cfe983231a429e2c5680754adf3a63.m3u8?token=816297213554912
+tvN,https://video.mytvsuper.xyz/live/a001e7b613b38a1cdb9f1dbc56627c9c37ebe74db49b946a2b88857e4bc20073.m3u8?token=816297213554912
+ZooMoo,https://video.mytvsuper.xyz/live/76d57036770539ef1cae9dcbe794fe0586b10d1f54b3a6e9a8ad8d6b7fd2b03e.m3u8?token=816297213554912
+亞洲劇台,https://video.mytvsuper.xyz/live/e8c41fd17bdcc5922d0c3c7f5eb54e968a6011307ab8aa624537f1cf1d2a1570.m3u8?token=816297213554912
+創世電視,https://video.mytvsuper.xyz/live/b4466b7e1bbe1f8f1e0d32a7269879c04efd0cb0fb8ec3b75cafad5a9d37bd1b.m3u8?token=816297213554912
+戲曲台,https://video.mytvsuper.xyz/live/267c9040a83dd398c1c65f44aa97c44a3a4022d81afe2746a5294d68c9620db8.m3u8?token=816297213554912
+東方衛視國際頻道,https://video.mytvsuper.xyz/live/fbaa7f32f0400e8d1a73d60b9ee91912123508d0a91ba8903f420f5950a5fdd7.m3u8?token=816297213554912
+無線衛星亞洲台,https://video.mytvsuper.xyz/live/c9ee3a32a2e49449e56ab9e5ecdac7ef638bf04f95a4f6b90d8d9e2a094a4454.m3u8?token=816297213554912
+粵語片台,https://video.mytvsuper.xyz/live/b04c642cb80fead7d828b593bba408387ce90971efd5243b4756220c5deac6c4.m3u8?token=816297213554912
+華語劇台,https://video.mytvsuper.xyz/live/e0fb1bab7416c49a3073c113e81661d879befc2b9e3330a0aeeac6ff39ca50c9.m3u8?token=816297213554912
+28 AI 智慧賽馬,https://video.mytvsuper.xyz/live/e4c34c90cdeb6e795559717197001db8dc090e8f5c7cb05ddaa69b1fe4aee7a2.m3u8?token=816297213554912
 
-iHOT频道,#genre#
-Hot风尚音乐,http://10.0.0.5:50001/TVOD/2000000004000000004/hnbblive/index.m3u8$2.5M720_湖南bblive
-Hot风尚音乐,http://10.0.0.5:50001/TVOD/5529729098703832176/wasusyt/index.m3u8$2.5M720_华数
-Hot精品剧场,http://10.0.0.5:50001/TVOD/2000000004000000002/hnbblive/index.m3u8$2.5M720_湖南bblive
-Hot精品剧场,http://10.0.0.5:50001/TVOD/8230197131234717902/wasusyt/index.m3u8$2.5M720_华数
-Hot欧美影院,http://10.0.0.5:50001/TVOD/2000000004000000005/hnbblive/index.m3u8$2.5M720_湖南bblive
-Hot欧美影院,http://10.0.0.5:50001/TVOD/7185203501769528108/wasusyt/index.m3u8$2.5M720_华数
-Hot亚洲影院,http://10.0.0.5:50001/TVOD/2000000004000000006/hnbblive/index.m3u8$2.5M720_湖南bblive
-Hot亚洲影院,http://10.0.0.5:50001/TVOD/5841816227539527643/wasusyt/index.m3u8$2.5M720_华数
-爱谍战,http://10.0.0.5:50001/TVOD/6000000006000070630/wasusyt/index.m3u8$7.2M1080_华数
-爱谍战,http://10.0.0.5:50001/TVOD/2000000004000000038/hnbblive/index.m3u8$6.8M1080_湖南bblive
-爱动漫,http://10.0.0.5:50001/TVOD/6000000006000280630/wasusyt/index.m3u8$7.2M1080_华数
-爱动漫,http://10.0.0.5:50001/TVOD/2000000004000000059/hnbblive/index.m3u8$6.8M1080_湖南bblive
-爱都市,http://10.0.0.5:50001/TVOD/6000000006000080630/wasusyt/index.m3u8$7.2M1080_华数
-爱怀旧,http://10.0.0.5:50001/TVOD/6000000006000260630/wasusyt/index.m3u8$7.2M1080_华数
-爱经典,http://10.0.0.5:50001/TVOD/6000000006000060630/wasusyt/index.m3u8$7.2M1080_华数
-爱科幻,http://10.0.0.5:50001/TVOD/6000000006000020630/wasusyt/index.m3u8$7.2M1080_华数
-爱科幻,http://10.0.0.5:50001/TVOD/2000000004000000033/hnbblive/index.m3u8$6.8M1080_湖南bblive
-爱科学,http://10.0.0.5:50001/TVOD/6000000006000160630/wasusyt/index.m3u8$7.2M1080_华数
-爱科学,http://10.0.0.5:50001/TVOD/2000000004000000047/hnbblive/index.m3u8$6.8M1080_湖南bblive
-爱浪漫,http://10.0.0.5:50001/TVOD/6000000006000040630/wasusyt/index.m3u8$7.2M1080_华数
-爱浪漫,http://10.0.0.5:50001/TVOD/2000000004000000035/hnbblive/index.m3u8$6.8M1080_湖南bblive
-爱历史,http://10.0.0.5:50001/TVOD/6000000006000150630/wasusyt/index.m3u8$7.2M1080_华数
-爱历史,http://10.0.0.5:50001/TVOD/2000000004000000046/hnbblive/index.m3u8$6.8M1080_湖南bblive
-爱旅行,http://10.0.0.5:50001/TVOD/6000000006000250630/wasusyt/index.m3u8$7.2M1080_华数
-爱旅行,http://10.0.0.5:50001/TVOD/2000000004000000056/hnbblive/index.m3u8$6.8M1080_湖南bblive
-爱奇谈,http://10.0.0.5:50001/TVOD/6000000006000270630/wasusyt/index.m3u8$7.2M1080_华数
-爱奇谈,http://10.0.0.5:50001/TVOD/2000000004000000058/hnbblive/index.m3u8$6.8M1080_湖南bblive
-爱青春,http://10.0.0.5:50001/TVOD/6000000006000100630/wasusyt/index.m3u8$7.2M1080_华数
-爱赛车,http://10.0.0.5:50001/TVOD/6000000006000240630/wasusyt/index.m3u8$7.2M1080_华数
-爱赛车,http://10.0.0.5:50001/TVOD/2000000004000000055/hnbblive/index.m3u8$6.8M1080_湖南bblive
-爱体育,http://10.0.0.5:50001/TVOD/6000000006000290630/wasusyt/index.m3u8$7.2M1080_华数
-爱体育,http://10.0.0.5:50001/TVOD/2000000004000000060/hnbblive/index.m3u8$6.8M1080_湖南bblive
-爱玩具,http://10.0.0.5:50001/TVOD/6000000006000220630/wasusyt/index.m3u8$7.2M1080_华数
-爱玩具,http://10.0.0.5:50001/TVOD/2000000004000000053/hnbblive/index.m3u8$6.8M1080_湖南bblive
-爱喜剧,http://10.0.0.5:50001/TVOD/6000000006000010630/wasusyt/index.m3u8$7.2M1080_华数
-爱喜剧,http://10.0.0.5:50001/TVOD/2000000004000000032/hnbblive/index.m3u8$6.8M1080_湖南bblive
-爱悬疑,http://10.0.0.5:50001/TVOD/6000000006000050630/wasusyt/index.m3u8$7.2M1080_华数
-爱悬疑,http://10.0.0.5:50001/TVOD/2000000004000000036/hnbblive/index.m3u8$6.8M1080_湖南bblive
-爱幼教,http://10.0.0.5:50001/TVOD/6000000006000180630/wasusyt/index.m3u8$7.2M1080_华数
-爱幼教,http://10.0.0.5:50001/TVOD/2000000004000000049/hnbblive/index.m3u8$6.8M1080_湖南bblive
-爱院线,http://10.0.0.5:50001/TVOD/6000000006000030630/wasusyt/index.m3u8$7.2M1080_华数
-爱院线,http://10.0.0.5:50001/TVOD/2000000004000000034/hnbblive/index.m3u8$6.8M1080_湖南bblive
+AKTV「限美国梯子」,#genre#
+翡翠台,https://video.mytvsuper.xyz/live/1fafdfab85bf627ac499a76603234b706cbc3dda06d3bfd010c17657a01b329f.m3u8?token=816297213554912
+TVBS-新聞台,https://video.mytvsuper.xyz/live/06a9c3fe3eae06e9ee9f5af9ed9c8d65212c24cdd2b1b156b0735e5e0e9d9d3d.m3u8?token=816297213554912
+鳳凰中文,https://video.mytvsuper.xyz/live/48970c86c5b580aab917180879fb8c33400ca7a2bd9a5f9f9bac1661176c84e3.m3u8?token=816297213554912
+鳳凰香港,https://video.mytvsuper.xyz/live/2751948f1b3f27a1ca64d2020ab49bb7fca7dfbc40586c7e87b6f94267873440.m3u8?token=816297213554912
+鳳凰資訊,https://video.mytvsuper.xyz/live/4a664c6a7f58d7c0a5a14c5feb00ac3413c8506895ea50e1a7170008bb66fa46.m3u8?token=816297213554912
+東森新聞,https://video.mytvsuper.xyz/live/ea634b58e636bc085eb5c95aad79be50df45d54a74869d6e3f14fde6571c3d2d.m3u8?token=816297213554912
+中天新聞台,https://video.mytvsuper.xyz/live/26227f1b8486df59c02c4793b9ca78ea96ddca6014f334c386a138129bebd2f8.m3u8?token=816297213554912
+寰宇新聞台,https://video.mytvsuper.xyz/live/869e31a251874380da3a5fde9a9cf0b57395c6045ab7df02a11501cf4e13d93f.m3u8?token=816297213554912
+無線衛星新聞台,https://video.mytvsuper.xyz/live/ac15c16dc273b5b0f861748dd3d614fd77dc13c8e0c6921df8d6f01f8c0fe465.m3u8?token=816297213554912
+无线新闻台(北美),https://video.mytvsuper.xyz/live/3aa9c3b1745eea090ccf14d3ad1a95d47eca1ac06220aa4472b6d1f25046e7a3.m3u8?token=816297213554912
+無線新聞台,https://video.mytvsuper.xyz/live/894bc6a339a18f0c0e9a4aff57bcb2bd680d9a9a0c8a810dd83cae5ae7fbea6d.m3u8?token=816297213554912
+美亞電影台(HK),https://video.mytvsuper.xyz/live/3e126407f2aa457bb9f860ecde7167bc6d8470a79a4ffade6bb7c0bac717d795.m3u8?token=816297213554912
+PopC,https://video.mytvsuper.xyz/live/4eb466fc76cdb9b8f8e0676e954c55df313bd0d2077e7cf6529014e07ff1f59a.m3u8?token=816297213554912
+明珠台,https://video.mytvsuper.xyz/live/61ea51c90fc0c71dab94749f05bb3c9209114e3aad97f551100bd3a133dc5608.m3u8?token=816297213554912
+TVB Plus,https://video.mytvsuper.xyz/live/1517e06b57598d4bb26eb0f6ad682d9fe2aabf3ca5e4cd85b5e81c6b9c3ae96a.m3u8?token=816297213554912
+翡翠综合台(北美),https://video.mytvsuper.xyz/live/dfbd5309303c21d71e9525a0ed15cb1666a42d90baddd9dabcbd72c0dc9a28d1.m3u8?token=816297213554912
+千禧經典台(HK),https://video.mytvsuper.xyz/live/81fab61173cff692fb7b6643450c5eb72b748166e9c391ca238245fd59a83457.m3u8?token=816297213554912
+翡翠剧集台(北美),https://video.mytvsuper.xyz/live/37d3e820a7d56e161977e8945d930a69a34c0d063422e465be6cdc300a9b4ea2.m3u8?token=816297213554912
+娛樂新聞台(HK),https://video.mytvsuper.xyz/live/258287d51f3d4f81ad035a85aa2d51309fa726e4cb66871406c55a25d5dc220e.m3u8?token=816297213554912
+黃金翡翠台,https://video.mytvsuper.xyz/live/f04bc83119f5799e0233237cd0d19353d7e826a710bfd087e3e341d607f088c4.m3u8?token=816297213554912
+myTV SUPER 18台,https://video.mytvsuper.xyz/live/0390ced1f6ae8eae3a34cf7133c984dab82c1ee425f7da92f4a9e800e06e8552.m3u8?token=816297213554912
+明珠剧集台(北美),https://video.mytvsuper.xyz/live/a0f03df059a3d33d12f48224560d99536ec05784e9928e0af59c04e250738737.m3u8?token=816297213554912
+Channel 5 HD,https://video.mytvsuper.xyz/live/bc56f3e50937dc8a2ab51170ba955eae9bc4af608dd6f7c31354fdda818b4658.m3u8?token=816297213554912
+Channel 8 HD,https://video.mytvsuper.xyz/live/292458b6b11b80192392fb552ade075ba4a08d7f5bde8cbac2c26a73260919e2.m3u8?token=816297213554912
+Channel U HD,https://video.mytvsuper.xyz/live/562cea074addf671a572a7c7dc7cdcfe10fc1959b67e29384cbff64c29b57504.m3u8?token=816297213554912
+28 AI 智慧賽馬,https://video.mytvsuper.xyz/live/be1edf42d2b5841ef0f65b699c0776e7d9aecddbd814a482166c07db48a03a16.m3u8?token=816297213554912
+tvN,https://video.mytvsuper.xyz/live/a28c7b09f9b6228f74daac0fe5c548908a7806b225a906f13a55b6dec0ded835.m3u8?token=816297213554912
+ROCK Action,https://video.mytvsuper.xyz/live/ec72ef2176feae9bd3c8273ce3b8a8e25ad6110e200d561773bc0154b7240f85.m3u8?token=816297213554912
+Animax(HK),https://video.mytvsuper.xyz/live/df8e6a1546b8c50c71bde46077f451e7db42edf45c72bf2f7081e99ac192b594.m3u8?token=816297213554912
+Thrill,https://video.mytvsuper.xyz/live/ce95b9a5844b169ac30bf45f5d28e9a13d4f825a9a57c4729be289bdc463ba6f.m3u8?token=816297213554912
+France 24,https://video.mytvsuper.xyz/live/4fd15058c3e71bf2bccf75218b3c317d0e1022f9c0a1b82b25d51bdb664a1678.m3u8?token=816297213554912
+DW,https://video.mytvsuper.xyz/live/bb565040fcf52da6661657c34042312a50921db42340ab0feb39986d9e7b92f4.m3u8?token=816297213554912
+亞洲新聞台,https://video.mytvsuper.xyz/live/fcb1cca3780200d62ac36cdaf90694570c0ad1e9824507b138c2e525abb62158.m3u8?token=816297213554912
+東方衛視國際頻道,https://video.mytvsuper.xyz/live/1ad2a23672a46b9bf4c6e1484cbf92d148277bdbcca8221d5345ee4c662380ca.m3u8?token=816297213554912
+KIX,https://video.mytvsuper.xyz/live/99be2a368153909c8647a0a679c9e3522c0ae4928c5032271bc434205f96a854.m3u8?token=816297213554912
+Nick Jr,https://video.mytvsuper.xyz/live/ab4e7f1b77ce5669a25724b4dab5131f20dd604e7c34704bab4d704b91f8b08c.m3u8?token=816297213554912
+Nickelodeon,https://video.mytvsuper.xyz/live/4bf1c3946330aee022d72a57a2b3a8aaca48d1aa0ce3ac138410ccc845f0f8e4.m3u8?token=816297213554912
+AXN,https://video.mytvsuper.xyz/live/4bd07062108868b7a70484212368fedf50e7b879bbc4e389dfc55b2237c33c95.m3u8?token=816297213554912
+NHK World-Japan,https://video.mytvsuper.xyz/live/74631c09ec36d8f1a5839d801b09e7cebe7c6f66f19f3fd6090003b6db277399.m3u8?token=816297213554912
+ZooMoo,https://video.mytvsuper.xyz/live/c23e1d6d35c32c84f6367ab7e790579f70fa53f0a5f91e8793534f160377ee13.m3u8?token=816297213554912
+NHK東京総合,https://video.mytvsuper.xyz/live/07885bf8a3948be2e3c64c849b84162d9dafd9fff710e71227f8d1e465f544ac.m3u8?token=816297213554912
+Love Nature HD,https://video.mytvsuper.xyz/live/006a6e6ca5c58c38c175f446db9578491a299dbc709a887ab86182c42ce4cde4.m3u8?token=816297213554912
+纬来体育台,https://video.mytvsuper.xyz/live/d26a8202500e21cd76b79ba9c711767965b26c80090397222c5157a6d7d74516.m3u8?token=816297213554912
 
 ▶️电影轮播,#genre#
 黑莓电影,http://10.0.0.5:50001/TVOD/2000000003000000001/hnbblive/index.m3u8$4M1080_湖南bblive
