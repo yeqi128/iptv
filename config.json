@@ -18,8 +18,7 @@
     }, 
     "subo": {
       "api": "https://subocaiji.com/api.php/provide/vod",
-      "name": "速播资源",
-      "detail": ""
+      "name": "速播资源"
     },
     "ruyi": {
       "api": "http://cj.rycjapi.com/api.php/provide/vod",
