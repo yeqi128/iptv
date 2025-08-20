@@ -11,6 +11,16 @@
       "name": "黑木耳",
       "detail": "https://heimuer.tv"
     },
+    "Uku": {
+      "api": "https://api.ukuapi88.com/api.php/provide/vod",
+      "name": "U酷资源"
+      "detail": "https://api.ukuapi88.com"
+    }, 
+    "subo": {
+      "api": "https://subocaiji.com/api.php/provide/vod",
+      "name": "速播资源"
+      "detail": ""
+    },
     "ruyi": {
       "api": "http://cj.rycjapi.com/api.php/provide/vod",
       "name": "如意资源"
