@@ -13,12 +13,12 @@
     },
     "Uku": {
       "api": "https://api.ukuapi88.com/api.php/provide/vod",
-      "name": "U酷资源"
+      "name": "U酷资源",
       "detail": "https://api.ukuapi88.com"
     }, 
     "subo": {
       "api": "https://subocaiji.com/api.php/provide/vod",
-      "name": "速播资源"
+      "name": "速播资源",
       "detail": ""
     },
     "ruyi": {
