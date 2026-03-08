@@ -5,7 +5,7 @@ from datetime import datetime
 # ================= 配置区域 =================
 # 在这里填入你的直播源链接 (M3U 网址)
 SOURCE_URLS = [
-    "https://raw.githubusercontent.com/yeqi128/iptv/refs/heads/main/iptv.txt",
+    "https://raw.githubusercontent.com/yeqi128/iptv/refs/heads/main/iptv.m3u",
     "https://epg.pw/test_channels_hong_kong.m3u",
     "https://epg.pw/test_channels_taiwan.m3u"
     # 在此处添加更多链接，保持格式不变
