@@ -1,13 +1,14 @@
-name: Auto Merge to TXT
+name: Auto Merge IPTV Sources
 
 on:
   schedule:
-    # 每天 UTC 时间 00:00 运行 (北京时间早上 8:00)
+    # 定时任务，使用 UTC 时间。这里是每天 UTC 时间 00:00 运行 (北京时间早上 8 点)
+    # 格式：分 时 日 月 周
     - cron: '0 0 * * *'
-  workflow_dispatch: # 允许手动触发
+  workflow_dispatch: # 允许手动点击按钮触发运行
 
 jobs:
-  merge-job:
+  merge:
     runs-on: ubuntu-latest
     
     steps:
@@ -30,9 +31,9 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add merged_links.txt
-          # 只有当文件有变化时才提交
-          git diff --quiet && git diff --staged --quiet || git commit -m "Auto update TXT list [$(date +'%Y-%m-%d')]"
+          git add merged_playlist.m3u
+          # 如果文件有变化才提交，避免空提交报错
+          git diff --quiet && git diff --staged --quiet || git commit -m "Auto update merged playlist [$(date +'%Y-%m-%d %H:%M:%S')]"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
