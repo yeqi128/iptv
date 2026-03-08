@@ -1,0 +1,38 @@
+name: Auto Merge to TXT
+
+on:
+  schedule:
+    # 每天 UTC 时间 00:00 运行 (北京时间早上 8:00)
+    - cron: '0 0 * * *'
+  workflow_dispatch: # 允许手动触发
+
+jobs:
+  merge-job:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Run merge script
+        run: python merge.py
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add merged_links.txt
+          # 只有当文件有变化时才提交
+          git diff --quiet && git diff --staged --quiet || git commit -m "Auto update TXT list [$(date +'%Y-%m-%d')]"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
