@@ -9,9 +9,7 @@
       "name": "🏡YQ分享",
       "type": 3,
       "api": "csp_Douban",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
+      "searchable": 0
     },
     {
       "key": "移动网盘",
@@ -19,53 +17,31 @@
       "type": 3,
       "api": "csp_YD",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "配置中心",
-      "name": "📥点击获取最新源(重要)",
-      "type": 3,
-      "api": "csp_Config",
-      "searchable": 0,
-      "changeable": 0
     },
     {
       "key": "南瓜影视",
       "name": "🎃南瓜影视✨高清",
       "type": 3,
       "api": "csp_NanGua",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "searchable": 1
     },
     {
-      "key": "糯米",
-      "name": "🍚糯米影视✨秒播",
+      "key": "秒看",
+      "name": "🎦秒看4K✨资源秒播",
       "type": 3,
-      "api": "csp_Nmys",
+      "api": "csp_lzxw",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/raw.githubusercontent.com/hjdhnx/dr_py/main/js/nmys.js"
-    },
-    {
-      "key": "酷看",
-      "name": "😎酷看影视✨蓝光",
-      "type": 3,
-      "api": "csp_Kkys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "changeable": 1,
+      "ext":{"site":"https://mk1080.top/get.txt",
+      "dataKey":"c60d88b2eep53za8",
+      "dataIv":"c60d88b2eep53za8",
+      "token":"4181e508e7a17657d6a6246e70b1b13553e5ae9d8d287dc47000fb2df638dffa"
     },
     {
       "key": "荐片",
       "name": "🧲荐片磁力✨边播边下",
-      "type": 3,
       "api": "csp_Jianpian",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
+      "type": 3,
       "ext": "https://api.ztcgi.com"
     },
     {
