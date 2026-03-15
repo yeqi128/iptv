@@ -35,17 +35,11 @@
             "playerType": 2
         },
         {
-            "key": "看球",
-            "name": "⚾┃看球┃直播",
+            "key": "荐片",
+            "name": "🧲荐片磁力✨边播边下",
             "type": 3,
-            "api": "csp_Kanqiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "gridview": 3,
-            "style": {
-                "type": "list"
-            }
+            "api": "csp_Jianpian",
+            "ext":"https://api.ztcgi.com"
         },
         {
             "key": "push_agent",
