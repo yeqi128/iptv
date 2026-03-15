@@ -20,14 +20,6 @@
             "ext": "https://app.95112475.xyz|5a9w6x58dsq6z3a6"
         },
         {
-            "key": "荐片",
-            "name": "🎬┃荐片┃影视",
-            "api": "csp_Jianpian",
-            "type": 3,
-            "playerType": "2",
-            "ext": "https://ev2089.zxbwv.com"
-        },
-        {
             "key": "csp_Gz360",
             "name": "🍉┃瓜子┃影视",
             "type": 3,
@@ -39,7 +31,7 @@
             "name": "🧲荐片磁力✨边播边下",
             "type": 3,
             "api": "csp_Jianpian",
-            "ext":"https://api.ztcgi.com"
+            "ext": "https://api.ztcgi.com"
         },
         {
             "key": "push_agent",
