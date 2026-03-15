@@ -43,15 +43,6 @@
       "api": "csp_Jianpian",
       "type": 3,
       "ext": "https://api.ztcgi.com"
-    },
-    {
-      "key": "push_agent",
-      "name": "🚫视频链接✨推送播放",
-      "type": 3,
-      "api": "csp_Push",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
     }
   ],
   "parses": [
@@ -64,16 +55,7 @@
       "name": "虾米解析",
       "type": 0,
       "url": "https://jx.xmflv.cc/?url="
-    }
-  ],
-  "doh": [
-    {
-      "name": "Cloudflare",
-      "url": "https://cloudflare-dns.com/dns-query",
-      "ips": ["1.1.1.1", "1.0.0.1"]
-    }
-  ],
-  "rules": [
+    },
     {
       "name": "火山嗅探",
       "hosts": ["huoshan.com"],
@@ -90,5 +72,5 @@
       "regex": ["video/tos/cn"]
     }
   ],
-  "notice": "⭐公众号:YQ分享⭐"
+  "notice": "⭐YQ分享⭐"
 }
