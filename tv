@@ -11,14 +11,7 @@
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
-        },
-        {
-            "key": "移动网盘",
-            "name": "🌀4K移动网盘✨免扫码",
-            "type": 3,
-            "api": "csp_YD",
-            "searchable": 1,
-        },  
+        }, 
         {
             "key": "猫抓",
             "name": "🐱┃猫抓┃APP",
